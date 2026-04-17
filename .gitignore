@@ -1,0 +1,26 @@
+.DS_Store
+Thumbs.db
+
+# Internal strategy and operating docs
+private/
+docs/plans/
+docs/internal/
+research/
+notes/
+brainstorms/
+scratch/
+tmp/
+drafts/
+exports/
+
+# Local env and secrets
+.env
+.env.*
+!.env.example
+*.local
+*.secret
+
+# Local scratch files
+*.tmp
+*.temp
+*.log

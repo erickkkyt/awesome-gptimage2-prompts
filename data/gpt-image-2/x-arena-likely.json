@@ -1,0 +1,22 @@
+[
+  {
+    "id": "x-2040273845748449724-selfie",
+    "slug": "young-woman-taking-selfie-with-sam-altman",
+    "source_type": "x",
+    "post_url": "https://x.com/venturetwins/status/2040273845748449724",
+    "author_name": "Justine Moore",
+    "author_handle": "venturetwins",
+    "published_at": "2026-04-04",
+    "prompt": "young woman taking selfie with Sam Altman",
+    "prompt_visibility": "visible_in_post",
+    "mapping_confidence": "medium",
+    "model_confidence": "medium",
+    "notes": "The post says three new image models hit Arena and gives two simple prompts. The image-to-prompt mapping is inferred by prompt order in the post and image order on the page. This is a likely GPT-Image-2 leak-stage sample, not a direct named GPT-Image-2 generation post.",
+    "image_urls": [
+      "https://pbs.twimg.com/media/HFCCKq7bgAAeTVS?format=jpg&name=small"
+    ],
+    "local_images": [
+      "assets/gpt-image-2-x-arena-likely/young-woman-taking-selfie-with-sam-altman-1.jpg"
+    ]
+  }
+]
