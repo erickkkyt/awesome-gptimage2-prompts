@@ -14,6 +14,12 @@ ROOT_README_PATH = ROOT / "README.md"
 COLLECTION_README_PATH = ROOT / "collections" / "gpt-image-2-prompt" / "README.md"
 PROMPTS_JSON_PATH = ROOT / "prompts" / "prompts.json"
 IMAGE_SIZE_CACHE: dict[str, tuple[int, int]] = {}
+FEATURED_COVER_SLUGS = [
+    "japanese-onsen-ryokan-portrait",
+    "gorilla-knowledge-worker-movie-poster",
+    "tim-cook-apple-park-keynote",
+    "lego-poster-every-us-president-by-year",
+]
 
 
 def load_pairs() -> list[dict]:
@@ -150,8 +156,25 @@ def select_cover_items(items: list[dict], limit: int = 9) -> list[dict]:
             penalty += 0.2
         return (penalty, item["slug"])
 
-    picked = sorted(items, key=score)[:limit]
-    picked.sort(key=lambda item: item["published_at"], reverse=True)
+    lookup = {item["slug"]: item for item in items}
+    picked = []
+    seen = set()
+
+    for slug in FEATURED_COVER_SLUGS:
+        item = lookup.get(slug)
+        if item is None or slug in seen:
+            continue
+        picked.append(item)
+        seen.add(slug)
+
+    candidates = [
+        item
+        for item in items
+        if item["slug"] not in seen and item.get("model_confidence") == "high"
+    ]
+    picked.extend(sorted(candidates, key=score)[: max(0, limit - len(picked))])
+    picked = picked[:limit]
+    picked.sort(key=lambda item: (item["primary_aspect_ratio"], item["published_at"]))
     return picked
 
 
