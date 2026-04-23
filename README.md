@@ -2,12 +2,12 @@
 # Awesome GPT-Image-2 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Pairs](https://img.shields.io/badge/Pairs-72-black)
+![Pairs](https://img.shields.io/badge/Pairs-111-black)
 ![Model](https://img.shields.io/badge/Model-GPT--Image--2-black)
 
-> Scroll through 52 source-post cards and 72 curated GPT-Image-2 results, open any card, and copy the prompt directly into your own image workflow.
+> Scroll through 86 source-post cards and 111 curated GPT-Image-2 results, open any card, and copy the prompt directly into your own image workflow.
 
-Gallery build date: 2026-04-21. Latest source post date: 2026-04-20.
+Gallery build date: 2026-04-23. Latest source post date: 2026-04-22.
 
 [Browse Collection](./collections/gpt-image-2-prompt/README.md) • [Download JSON](./prompts/prompts.json)
 
@@ -27,17 +27,17 @@ The homepage is intentionally long and visual so GitHub visitors can keep scroll
 
 | Metric | Count |
 | --- | ---: |
-| Source-post cards | 52 |
-| Prompt-image pairs | 72 |
+| Source-post cards | 86 |
+| Prompt-image pairs | 111 |
 
 ## Recent Highlights
 
-- `Soft Airy 35Mm Portrait`: Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffused natural window light, slight overexposure, pastel tones...
-- `Sam Altman Skatepark Snapshot`: "Sam Altman on a skateboard at a skatepark with no people."
-- `Surreal Koi Nebula Illustration`: 一幅超现实主义数字插画风格，采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中，四周环绕着色彩鲜艳的星云与气泡。画面中央还站着一个小人，背对观众，神情平静地仰望空中这条巨大的锦鲤，锦鲤头向下看着小人。整体画面呈现出强烈的大小对比，氛围空灵又梦幻。比例9:16
-- `Boston Spring 2026 City Poster`: A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textu...
-- `Chengdu Food Map Illustration`: 一张手绘风格的城市美食地图，以成都为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路和地标但不追求精确比例而是追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：春熙路的串串香（一把竹签插着各种食材冒着热气）、宽窄巷子的三大炮（三个糯米团子飞向铜盘）、...
-- `Chinese Minimalist S Shaped Poster`: 极简新中式美学风格，画面以淡雅的灰白色为底，呈现出一种纸艺剪影般的立体感。 一条S形蜿蜒的裂痕状边缘将画面分割，仿佛撕开了一层纸面，露出内部色彩斑斓的东方山水景象。 裂口内，一条蜿蜒的河流自上而下贯穿整个构图，河水以深浅不一的蓝色渲染，层次分明，仿佛流动的丝带。 河岸两侧点...
+- `Boyfriend Pov Korean Idol Portrait`: 9:16 vertical — Korean idol intimate portrait, single subject, boyfriend POV soft black mist filter, glowing highlights, gentle bloom, sl...
+- `Eastern Fantasy Woman Portrait`: 东方幻想风格女性，半身肖像，回眸侧脸，气质空灵优雅，柔和神性美感，细腻五官，微垂眼神，冷白细腻肌肤，淡雅橘粉妆容，金色高光点缀 长发飘动，发丝中融入彩色花朵与光粒（红、蓝、橙、紫），头发具有流动感与空气感 身穿半透明丝绸礼服与披肩，材质轻盈通透，布料随风飘动，表面带有鎏金纹...
+- `Forced Perspective Korean Idol Portrait`: 9:16 vertical — creative forced perspective portrait, Korean idol style, single subject analog 35mm film aesthetic, soft natural grain, s...
+- `Fuji Couple 3X3 Grid Collage`: 9:16 vertical — Japanese Fuji film style couple portrait, 3x3 grid (nine frames), same couple in all images, consistent facial features a...
+- `Mirror Editorial Portrait`: Stunningly beautiful woman with a cool, aloof atmospheric vibe, exquisite and refined facial features, cold and glamorous high-end face,...
+- `Window Side Sweet Cool Beauty Portrait`: Sweet-cool atmospheric beauty, soft alluring look, tall and slender figure Scene: indoor window-side setting, white sheer curtains, soft...
 
 ## Cover Gallery
 
@@ -49,7 +49,648 @@ The homepage is intentionally long and visual so GitHub visitors can keep scroll
 
 ## Browse Prompts
 
-### #1 Soft Airy 35Mm Portrait
+### #1 Boyfriend Pov Korean Idol Portrait
+
+<img src="assets/gpt-image-2-x-discussions/boyfriend-pov-korean-idol-portrait-1.jpg" alt="Boyfriend Pov Korean Idol Portrait" width="360">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2046758832131461255)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+9:16 vertical — Korean idol intimate portrait, single subject, boyfriend POV
+soft black mist filter, glowing highlights, gentle bloom, slight overexposure, soft haze, lowered contrast, creamy tones
+close distance framing, intimate perspective, slight handheld feeling
+young Korean female idol, natural soft makeup, dewy realistic skin texture, subtle imperfections
+outfit: oversized white shirt slightly loose and relaxed + short bottoms, soft fabric, naturally draped, no revealing elements
+hair: long dark hair, slightly messy, soft movement around face
+pose: sitting or leaning slightly forward toward camera, upper body subtly angled; one hand resting lightly near collarbone or gently holding shirt edge, the other relaxed; shoulders loose, slight natural body curve
+expression: soft playful smile, slightly parted lips, warm eye contact with camera, hint of teasing intimacy
+camera: close-up to mid-body framing, eye-level or slightly lower angle, as if viewer is right in front of her
+lighting: warm diffused window light, soft highlight bloom on skin, gentle shadows, slight lens flare or light leak
+mood: intimate, romantic, subtly seductive, “caught in a private moment” feeling
+quality: ultra-realistic, fine film grain, slight motion blur, imperfect framing, dreamy cinematic softness
+```
+
+</details>
+
+---
+
+### #2 Eastern Fantasy Woman Portrait
+
+| View 1 | View 2 |
+| --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/eastern-fantasy-woman-portrait-1.jpg" alt="Eastern Fantasy Woman Portrait 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/eastern-fantasy-woman-portrait-2.jpg" alt="Eastern Fantasy Woman Portrait 2" width="220"> |
+
+- **Author:** [李岳](https://x.com/liyue_ai)
+- **Source:** [X](https://x.com/liyue_ai/status/2046962895775580442)
+- **Published:** April 22, 2026
+- **Languages:** zh, en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+东方幻想风格女性，半身肖像，回眸侧脸，气质空灵优雅，柔和神性美感，细腻五官，微垂眼神，冷白细腻肌肤，淡雅橘粉妆容，金色高光点缀
+长发飘动，发丝中融入彩色花朵与光粒（红、蓝、橙、紫），头发具有流动感与空气感
+身穿半透明丝绸礼服与披肩，材质轻盈通透，布料随风飘动，表面带有鎏金纹理与闪耀颗粒。
+整体光影为暖金色逆光，强边缘光，体积光明显，光粒漂浮，柔光泛光，梦幻氛围
+背景干净浅色渐变，带微光与粒子效果，整体氛围空灵、梦境、神圣
+风格：高端CG插画，超精细，电影级光影，柔光渲染，8K细节，artstation 热门作品风格
+```
+
+</details>
+
+---
+
+### #3 Forced Perspective Korean Idol Portrait
+
+<img src="assets/gpt-image-2-x-discussions/forced-perspective-korean-idol-portrait-1.jpg" alt="Forced Perspective Korean Idol Portrait" width="360">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2047038657295798701)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+9:16 vertical — creative forced perspective portrait, Korean idol style, single subject
+analog 35mm film aesthetic, soft natural grain, slightly faded colors, gentle overexposure, pastel tones, low contrast, soft highlight bloom, airy and dreamy atmosphere
+minimal indoor setting near a window, clean light-toned background, simple everyday environment
+young Korean female idol, very attractive, natural minimal makeup, dewy realistic skin texture, subtle imperfections
+outfit: oversized white shirt loosely draped + short bottoms, soft fabric, relaxed fit, modest but subtly body-shaping, no revealing elements
+hair: long dark hair, slightly messy, natural volume
+composition (key): forced perspective illusion — the subject appears unusually small relative to nearby objects (such as being inside a cup, standing on a table edge, or interacting with a hand in the foreground), but still realistic; scale ambiguity created by camera distance and alignment
+camera: slightly low or eye-level angle, intentional perspective distortion, foreground object close to lens, subject placed farther away to create size illusion
+pose: natural relaxed posture, slight body curve, casual stance or light sitting pose
+expression: soft calm gaze, slight smile or slightly parted lips, natural and unposed
+lighting: diffused natural window light, soft shadows, gentle light wrapping around subject
+mood: playful, slightly surreal but grounded in reality, intimate everyday moment with a visual twist
+quality: ultra-realistic, fine film grain, slight softness, imperfect framing, natural imperfections
+```
+
+</details>
+
+---
+
+### #4 Fuji Couple 3X3 Grid Collage
+
+<img src="assets/gpt-image-2-x-discussions/fuji-couple-3x3-grid-collage-1.jpg" alt="Fuji Couple 3X3 Grid Collage" width="360">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2046795665989304577)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+9:16 vertical — Japanese Fuji film style couple portrait, 3x3 grid (nine frames), same couple in all images, consistent facial features and styling
+Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation, slight vignette
+bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere
+young Japanese couple, natural minimal makeup, realistic skin texture, slight imperfections
+female outfit: oversized button-up shirt with loose shorts, relaxed fit, soft casual styling
+male outfit: simple t-shirt or light shirt, clean and understated
+hair: natural, slightly tousled for both
+setting: minimal indoor near window, light curtains, clean soft background, everyday environment
+camera: intimate distance, mostly waist-up framing, eye-level, slight handheld feel
+lighting: diffused daylight, gentle highlight bloom, soft shadow transitions
+mood: warm, natural, romantic, candid everyday intimacy
+Frame breakdown (3x3 grid — varied actions):
+Top row: - Top left: sitting side by side but slightly apart, both looking away, quiet moment - Top center: girl lightly pulling or adjusting the boy’s shirt collar, playful gesture - Top right: boy leaning behind her, chin slightly near her shoulder, relaxed closeness
+Middle row: - Center left: girl resting her head lightly on his shoulder, calm and soft - Center: both laughing naturally, mid-motion candid moment - Center right: boy gently brushing or tucking her hair behind her ear
+Bottom row: - Bottom left: girl sitting on bed or chair, boy standing close, looking down at her - Bottom center: girl leaning forward slightly, boy meeting her halfway, faces very close (almost touching, no explicit contact) - Bottom right: girl turning away slightly while holding his hand, subtle movement, natural connection
+quality: ultra-realistic, analog film look, fine grain, slight softness, natural imperfections
+```
+
+</details>
+
+---
+
+### #5 Mirror Editorial Portrait
+
+<img src="assets/gpt-image-2-x-discussions/mirror-editorial-portrait-1.jpg" alt="Mirror Editorial Portrait" width="360">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2046900795229217063)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+Stunningly beautiful woman with a cool, aloof atmospheric vibe, exquisite and refined facial features, cold and glamorous high-end face, long flowing hair, graceful and alluring figure, (character features completely locked and consistent)
+Scene: Indoor space with mirrors (bathroom or mirrored wall), multiple reflections, layered depth in the space
+Pose: Standing in front of the mirror, one hand lightly touching the mirror surface or resting on the countertop, body slightly angled, head gently turned toward the camera
+Expression: Calm and emotionless, with a hint of cold indifference and detachment
+Camera angle: Low angle or slight side angle shot, with the mirror reflection clearly visible in the frame
+Lighting: Cool white light as the main source, with localized shadows, emphasizing structural contours and three-dimensionality
+Style: High-end fashion editorial, subtle film grain, low contrast
+Details: Delicately realistic skin texture, clear yet softly layered and slightly blurred mirror reflections
+Atmosphere: Restrained, rational, distant, with a touch of surreal unreality
+Quality: Ultra-sharp 8K, extreme details, cinematic lighting and shadows, beautiful depth-of-field bokeh
+```
+
+</details>
+
+---
+
+### #6 Window Side Sweet Cool Beauty Portrait
+
+<img src="assets/gpt-image-2-x-discussions/window-side-sweet-cool-beauty-portrait-1.jpg" alt="Window Side Sweet Cool Beauty Portrait" width="360">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2046848851227845108)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+Sweet-cool atmospheric beauty, soft alluring look, tall and slender figure
+Scene: indoor window-side setting, white sheer curtains, soft natural light filtering in, quiet and private space with a subtle lived-in feel
+Pose: sitting by the window or on the edge of a bed, body slightly leaning forward; one hand gently supporting behind, the other naturally relaxed and hanging down; legs slightly crossed, posture relaxed and natural
+Expression: lightly looking toward the camera, with a faint, almost imperceptible smile; restrained emotion yet subtly attractive
+Style: low contrast, shot on a Nikon DSLR
+Details: realistic skin texture, delicate but not over-smoothed, slightly messy natural hair, straight-out-of-camera feel
+Atmosphere: quiet, intimate, slightly ambiguous, everyday intimacy
+Framing: medium close-up, waist-up composition, slight handheld feeling, shallow depth of field with background blur
+Quality: high-definition, photorealistic, low-light ambiance, authentic photography texture
+Aspect ratio: 2:3
+```
+
+</details>
+
+---
+
+### #7 Backpropagation Explainer Infographic
+
+<img src="assets/gpt-image-2-x-discussions/backpropagation-explainer-infographic-1.jpg" alt="Backpropagation Explainer Infographic" width="440">
+
+- **Author:** [IT navi](https://x.com/itnavi2022)
+- **Source:** [X](https://x.com/itnavi2022/status/2046494262158930154)
+- **Published:** April 21, 2026
+- **Languages:** ja
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+バックプロパゲーションについて詳しく図解して
+```
+
+</details>
+
+---
+
+### #8 Barbecue Three Sword Style Portrait
+
+<img src="assets/gpt-image-2-x-discussions/barbecue-three-sword-style-portrait-1.jpg" alt="Barbecue Three Sword Style Portrait" width="440">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2046564674112831920)
+- **Published:** April 21, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+a stunning beauty with a cool, aloof atmosphere, delicate facial features, a cold and sophisticated high-fashion face, long hair, and a graceful slender figure; barbecue “three-sword style” pose: one barbecue skewer held in her mouth, one skewer in each hand crossed to mimic Zoro’s three-sword style; street night scene ambiance, warm yellow night market lighting, blurred background, film-like texture, soft-focus glow, cinematic storytelling feel, trendy high-end influencer-style fashion shoot, clear luminous skin, sharply detailed strands of hair, lively dynamic expression, low-angle wide-angle shot, moody dark-toned atmosphere, shallow depth of field, ultra HD 8K, extreme detail, cinematic lighting
+```
+
+</details>
+
+---
+
+### #9 Black Myth Pan Jinlian Game Screen
+
+<img src="assets/gpt-image-2-x-discussions/black-myth-pan-jinlian-game-screen-1.jpg" alt="Black Myth Pan Jinlian Game Screen" width="620">
+
+- **Author:** [李岳](https://x.com/liyue_ai)
+- **Source:** [X](https://x.com/liyue_ai/status/2046576160952443082)
+- **Published:** April 21, 2026
+- **Languages:** zh
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+生成一张黑神话·潘金莲的游戏介绍画面，人物十分的迷人
+```
+
+</details>
+
+---
+
+### #10 Data Science Machine Learning Landscape Infographic
+
+<img src="assets/gpt-image-2-x-discussions/data-science-machine-learning-landscape-infographic-1.jpg" alt="Data Science Machine Learning Landscape Infographic" width="620">
+
+- **Author:** [Echora Continuum](https://x.com/EchoraContinuum)
+- **Source:** [X](https://x.com/EchoraContinuum/status/2046517163826246133)
+- **Published:** April 21, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+Generate somthing super complex and info dense…
+```
+
+</details>
+
+---
+
+### #11 Demenigis Anatomy Color Guide
+
+<img src="assets/gpt-image-2-x-discussions/demenigis-anatomy-color-guide-1.jpg" alt="Demenigis Anatomy Color Guide" width="440">
+
+- **Author:** [IT navi](https://x.com/itnavi2022)
+- **Source:** [X](https://x.com/itnavi2022/status/2046500429786402973)
+- **Published:** April 21, 2026
+- **Languages:** ja
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+デメニギスの体の構造を解説するカラー図鑑のページ
+```
+
+</details>
+
+---
+
+### #12 Early Heisei Shibuya Center Gai Street
+
+<img src="assets/gpt-image-2-x-discussions/early-heisei-shibuya-center-gai-street-1.jpg" alt="Early Heisei Shibuya Center Gai Street" width="360">
+
+- **Author:** [のるま](https://x.com/noruma_noel)
+- **Source:** [X](https://x.com/noruma_noel/status/2046564620895494283)
+- **Published:** April 21, 2026
+- **Languages:** ja
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+平成初期の渋谷センター街を当時の撮影機材で撮影。
+```
+
+</details>
+
+---
+
+### #13 Fuji Couple Almost Kiss Portrait
+
+<img src="assets/gpt-image-2-x-discussions/fuji-couple-almost-kiss-portrait-1.jpg" alt="Fuji Couple Almost Kiss Portrait" width="360">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2046502288102170757)
+- **Published:** April 21, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+9:16 vertical — Japanese Fuji film style couple portrait, two subjects
+Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation
+bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere
+young Japanese couple, natural minimal makeup, realistic skin texture, slight imperfections
+female outfit: oversized button-up shirt with loose shorts, relaxed fit, soft casual styling
+male outfit: simple t-shirt or light shirt, clean and understated
+hair: natural, slightly tousled for both
+pose: close intimate distance — sitting or standing close together; the girl gently leaning toward him, one hand lightly resting on his shoulder or chest; the boy slightly leaning in, faces close, almost touching, capturing the moment just before a kiss
+expression: soft smiles or gentle gaze toward each other, relaxed and natural, emotional connection visible
+camera: close framing (waist-up), eye-level, intimate distance, slight handheld feel
+setting: minimal indoor near window, light curtains, clean soft background
+lighting: diffused daylight, gentle highlight bloom, soft shadow transitions
+mood: warm, romantic, intimate everyday moment, natural affection
+quality: ultra-realistic, analog film look, fine grain, slight softness, natural imperfections
+```
+
+</details>
+
+---
+
+### #14 Fuji Strawberry School Uniform Portrait
+
+<img src="assets/gpt-image-2-x-discussions/fuji-strawberry-school-uniform-portrait-1.jpg" alt="Fuji Strawberry School Uniform Portrait" width="360">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2046483268019884384)
+- **Published:** April 21, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+9:16 vertical — Japanese Fuji film style portrait, single subject
+Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation, slight vignette
+bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere
+young Japanese female idol, natural minimal makeup, fresh glowing skin, realistic texture, slight imperfections
+outfit: Japanese school uniform (sailor-style or blazer uniform), neatly styled, non-revealing, youthful and clean
+hair: natural dark hair, straight or softly flowing, a few loose strands
+pose: front-facing or slight angle toward camera, relaxed posture; one hand gently holding a strawberry near lips, mid-action as if about to take a bite; shoulders relaxed, subtle natural body curve
+expression: soft playful gaze, light smile or neutral lips, gentle eye contact with camera
+setting: minimal indoor near window or simple outdoor corner, clean background, everyday atmosphere
+composition: slightly off-center framing, intimate distance, candid feel
+mood: fresh, youthful, sweet everyday moment, understated charm
+quality: ultra-realistic, analog film look, natural imperfections, soft dreamy finish
+```
+
+</details>
+
+---
+
+### #15 Gpt Image2 Revolution Game Promo
+
+<img src="assets/gpt-image-2-x-discussions/gpt-image2-revolution-game-promo-1.jpg" alt="Gpt Image2 Revolution Game Promo" width="360">
+
+- **Author:** [ぽんず | AI映像](https://x.com/ponzponz15)
+- **Source:** [X](https://x.com/ponzponz15/status/2046561719204638946)
+- **Published:** April 21, 2026
+- **Languages:** ja
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+いや、ちゃうね。ほんまにドラクエっぽくしたら良くないのと、すごろくっぽくしてデザインとしてはいいんやけど、これはあくまでGPTイメージ2っていうゲームを架空で、これからみんなで世界を変えていこうと。魔法のような画像生成能力、脚本能力、そしてそれを映像にする能力を私たちはみんな手に入れることになるんです。そしてこれからそれによって革命を起こしていくんだと。既存の権力や能力をひっくり返せなかったであろうところに、私たちがみんなで協力して進んでいくんだ。そういう意味のGPTイメージ2のレボリューションっていう名前のゲームにしてください。
+```
+
+</details>
+
+---
+
+### #16 Juliana Tokyo Bubble Era Dance Floor
+
+<img src="assets/gpt-image-2-x-discussions/juliana-tokyo-bubble-era-dance-floor-1.jpg" alt="Juliana Tokyo Bubble Era Dance Floor" width="360">
+
+- **Author:** [のるま](https://x.com/noruma_noel)
+- **Source:** [X](https://x.com/noruma_noel/status/2046564620895494283)
+- **Published:** April 21, 2026
+- **Languages:** ja
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+平成バブル期のジュリアナ東京で踊る女性達をお立ち台下から当時の機材で素人が撮影。
+```
+
+</details>
+
+---
+
+### #17 Morning Fuji Homewear Portrait
+
+<img src="assets/gpt-image-2-x-discussions/morning-fuji-homewear-portrait-1.jpg" alt="Morning Fuji Homewear Portrait" width="360">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2046661936381911182)
+- **Published:** April 21, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+9:16 vertical — Japanese Fuji film style portrait, single subject
+Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation
+early morning indoor setting near window, soft curtains, fresh daylight
+young Japanese female idol, natural minimal makeup, soft fresh skin texture
+outfit: oversized shirt with loose shorts, relaxed homewear style, non-revealing
+hair: slightly messy, natural volume, just-woke-up feeling
+pose: sitting on bed edge or by window, body slightly leaning forward, shoulders relaxed; one hand loosely holding a small flower or fabric, the other resting naturally
+expression: soft, slightly sleepy gaze, calm and natural
+lighting: soft morning light, diffused, gentle shadows
+mood: quiet, fresh, intimate everyday moment
+quality: ultra-realistic, film grain, slight softness, natural imperfections
+```
+
+</details>
+
+---
+
+### #18 Sam Altman Riding Bear Selfie
+
+<img src="assets/gpt-image-2-x-discussions/sam-altman-riding-bear-selfie-1.jpg" alt="Sam Altman Riding Bear Selfie" width="540">
+
+- **Author:** [Justin](https://x.com/JustinGorya)
+- **Source:** [X](https://x.com/JustinGorya/status/2046510831832006970)
+- **Published:** April 21, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+generate image: Selfie of Sam Altman riding a bear
+```
+
+</details>
+
+---
+
+### #19 Sam Altman Riding Bear Transparent Cutout
+
+<img src="assets/gpt-image-2-x-discussions/sam-altman-riding-bear-transparent-cutout-1.jpg" alt="Sam Altman Riding Bear Transparent Cutout" width="620">
+
+- **Author:** [Justin](https://x.com/JustinGorya)
+- **Source:** [X](https://x.com/JustinGorya/status/2046510831832006970)
+- **Published:** April 21, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+Remove the background make it transparent
+```
+
+</details>
+
+---
+
+### #20 Science Fiction Movie Poster Echoes
+
+<img src="assets/gpt-image-2-x-discussions/science-fiction-movie-poster-echoes-1.jpg" alt="Science Fiction Movie Poster Echoes" width="360">
+
+- **Author:** [underwood](https://x.com/underwoodxie96)
+- **Source:** [X](https://x.com/underwoodxie96/status/2046514205529088501)
+- **Published:** April 21, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+Create a Science fiction movie poster
+```
+
+</details>
+
+---
+
+### #21 Soft Black Mist Floor Portrait
+
+<img src="assets/gpt-image-2-x-discussions/soft-black-mist-floor-portrait-1.jpg" alt="Soft Black Mist Floor Portrait" width="360">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2046434670724907395)
+- **Published:** April 21, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+9:16 vertical — editorial portrait, single subject
+soft black mist filter, subtle haze, gentle highlight bloom, muted tones
+minimal indoor space, clean background, slight texture
+young Korean woman, minimal makeup, natural skin texture
+outfit: fitted ribbed knit top or soft camisole layered under a loose shirt, paired with high-waisted shorts or skirt; fabric slightly clings to body shape, soft and natural, no revealing elements
+hair: slightly messy, natural volume
+pose: sitting on floor with one leg bent and the other relaxed, body slightly leaning, shoulders not aligned, head tilted
+composition: subject slightly off-center, negative space present
+expression: calm, slightly distant, natural lips
+lighting: soft side light, gentle shadow falloff
+mood: understated, quiet, subtly sensual through natural body lines, relaxed and unposed
+quality: fine grain, slight softness, realistic look
+```
+
+</details>
+
+---
+
+### #22 Soft Black Mist Korean Idol Portrait
+
+<img src="assets/gpt-image-2-x-discussions/soft-black-mist-korean-idol-portrait-1.jpg" alt="Soft Black Mist Korean Idol Portrait" width="360">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2046518189509734903)
+- **Published:** April 21, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+9:16 vertical — Korean idol portrait photography, single subject
+soft black mist filter effect, lowered contrast, gentle highlight bloom, subtle glow, soft diffusion, slightly faded blacks
+minimal indoor setting near window, white curtains, clean light-toned background
+young Korean female idol, natural minimal makeup, dewy realistic skin texture, subtle imperfections
+outfit: oversized white button-up shirt + short bottoms, slightly loose fit, soft and casual styling, no revealing elements
+hair: long dark hair, slightly messy, natural volume, softly flowing
+pose: relaxed standing or slight lean, body subtly angled, one leg slightly forward, shoulders relaxed; one hand lightly touching collar or resting near neckline, the other relaxed; gentle body curve without exaggeration
+expression: soft cute smile, slightly playful eyes, direct or slightly off-camera gaze
+camera: close to mid-body framing, eye-level, intimate distance, slight handheld feel
+lighting: diffused natural daylight, soft shadows, gentle light wrapping around face and body
+mood: cute yet subtly sensual, intimate, everyday softness, quiet romantic atmosphere
+quality: ultra-realistic, fine film grain, slight softness at edges, natural imperfections, dreamy understated tone
+```
+
+</details>
+
+---
+
+### #23 Soten No Hekireki Anime Movie Poster
+
+<img src="assets/gpt-image-2-x-discussions/soten-no-hekireki-anime-movie-poster-1.jpg" alt="Soten No Hekireki Anime Movie Poster" width="440">
+
+- **Author:** [Toshi@ニャルオAI](https://x.com/Toshi_nyaruo_AI)
+- **Source:** [X](https://x.com/Toshi_nyaruo_AI/status/2046565932101964009)
+- **Published:** April 21, 2026
+- **Languages:** ja
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+「蒼天の霹靂」という架空アニメの劇場版ポスターを作って
+```
+
+</details>
+
+---
+
+### #24 Ccd Caught Off Guard Homewear Portrait
+
+<img src="assets/gpt-image-2-x-discussions/ccd-caught-off-guard-homewear-portrait-1.jpg" alt="Ccd Caught Off Guard Homewear Portrait" width="360">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2046190539213885806)
+- **Published:** April 20, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+{
+  "prompt": {
+    "style_and_tech": "mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur",
+    "subject": "young Korean female idol, soft innocent look",
+    "pose": "mid-action, slightly turning head toward camera as if just noticed being photographed, shoulders slightly raised",
+    "expression": "eyes widened slightly, lips parted in surprise, shy and caught-off-guard expression",
+    "clothing": "loose soft homewear (thin cardigan + inner top), slightly slipping off one shoulder but not revealing",
+    "vibe": "unprepared, intimate, accidental moment, evokes curiosity and protectiveness"，
+    "aspect ratio": "9:16"
+  }
+}
+```
+
+</details>
+
+---
+
+### #25 Korean Idol 3X3 Grid Collage Portrait
+
+<img src="assets/gpt-image-2-x-discussions/korean-idol-3x3-grid-collage-portrait-1.jpg" alt="Korean Idol 3X3 Grid Collage Portrait" width="360">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2046151898621993364)
+- **Published:** April 20, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, proportions, hairstyle, and identity across all nine shots.
+Natural, ultra-realistic skin texture, no retouching, no smoothing. Clean idol-style minimal makeup, soft glow, subtle imperfections.
+Hair: long, voluminous dark hair, slightly tousled, consistent across all frames (natural loose flow, slight movement).
+Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms (or simple neutral-toned outfit), youthful, clean, slightly casual but styled. Same outfit across all frames.
+Setting: minimal studio or simple indoor environment (plain wall, soft window light, clean background). Focus on subject, not environment.
+Lighting: soft diffused natural light, gentle highlights, low contrast, slightly airy tones, subtle film-like softness.
+Camera style: intimate portrait photography, slightly handheld feel, subtle imperfections (minor grain, slight blur in motion frames, imperfect framing).
+Frame breakdown (3x3 grid):
+Top row: - Top left: standing naturally, looking slightly away, relaxed expression - Top center: facing camera, casual mid-motion (hair or body slight movement) - Top right: slight side angle, soft gaze, natural candid feel
+Middle row: - Center left: looking slightly upward, soft thoughtful expression - Center: close-up portrait, direct eye contact, gentle idol smile - Center right: turning body slightly, mid-motion candid frame
+Bottom row: - Bottom left: seated or leaning casually, relaxed posture - Bottom center: back partially turned, looking over shoulder toward camera - Bottom right: standing close to frame, slightly playful or soft expression
+Mood: Korean idol photobook / photocard aesthetic, intimate, soft, natural, everyday charm.
+Quality: ultra-realistic, 8K detail, subtle analog film grain, natural imperfections, soft dreamy tone
+```
+
+</details>
+
+---
+
+### #26 Soft Airy 35Mm Portrait
 
 <img src="assets/gpt-image-2-x-discussions/soft-airy-35mm-portrait-1.jpg" alt="Soft Airy 35Mm Portrait" width="360">
 
@@ -69,7 +710,71 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 ---
 
-### #2 Sam Altman Skatepark Snapshot
+### #27 Soft Black Mist Korean Idol 3X3 Collage
+
+<img src="assets/gpt-image-2-x-discussions/soft-black-mist-korean-idol-3x3-collage-1.jpg" alt="Soft Black Mist Korean Idol 3X3 Collage" width="360">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2046268941941850575)
+- **Published:** April 20, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+9:16 vertical — Korean idol portrait photoshoot, 3x3 grid (nine frames), same person in all images, consistent facial features and styling.
+soft black mist filter effect, lowered contrast, blooming highlights, subtle glow around light sources, slightly faded blacks
+natural indoor setting near window, white curtains, clean wall background
+young Korean female idol, minimal makeup, soft realistic skin texture, slight imperfections
+outfit: white shirt + shorts, simple and relaxed styling
+hair: long dark hair, slightly messy, naturally flowing
+poses vary across nine frames: standing, slight movement, seated, looking away, close-up, over-shoulder glance, candid transitions
+lighting: diffused daylight, soft shadows, gentle highlight bloom
+mood: quiet, intimate, everyday poetic moment, photobook aesthetic
+quality: ultra-realistic, subtle film grain, soft focus edges, dreamy atmosphere
+```
+
+</details>
+
+---
+
+### #28 Guangzhou City Impression Swallow Poster
+
+| View 1 | View 2 |
+| --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/guangzhou-city-impression-swallow-poster-1.jpg" alt="Guangzhou City Impression Swallow Poster 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/guangzhou-city-impression-swallow-poster-2.jpg" alt="Guangzhou City Impression Swallow Poster 2" width="220"> |
+
+- **Author:** [李岳](https://x.com/liyue_ai)
+- **Source:** [X](https://x.com/liyue_ai/status/2045873940883808523)
+- **Published:** April 19, 2026
+- **Languages:** zh
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+【背景与骨架线条】
+纯黑深邃底色，一条粗壮有力的墨色书法S型曲线自画面一端蜿蜒贯穿至另一端，笔触苍劲，墨迹浓淡有致，如大写意行笔，构成整幅画面的视觉骨架与叙事动线。
+【主体：透明燕子】
+曲线上方，一只展翅飞翔的画眉鸟占据视觉核心；身体呈玻璃透明质感，内部映射传统建筑群叠影，蓝绿色光流在透明羽翼间流转折射，仿佛时间长河与文明记忆凝缩其中；轮廓以极细金线勾边，增强立体感与神圣感。
+【中景：古典建筑序列】
+燕子下方，沿墨线曲线错落分布广州的各种风景名胜：白云山、陈家祠、双子塔、广州塔、猎德大桥、海珠塔依次浮现；主色调青绿与淡金，建筑细节清晰，琉璃瓦、飞檐翘角、石阶回廊；木棉花簇拥点缀于建筑周围，花瓣随风轻散，静谧而悠远；几朵水墨云朵轻盈飘浮其间，增添空灵层次。
+【前景：白鹤与水面】
+前景湖畔：数只白鹤或静立水边、或振翅腾飞，姿态各异，优雅从容；浅蓝湖面如镜，倒影荡漾，波光细碎，营造宁静氛围。
+【远景：山峦】
+远处山峦层叠起伏，青黛色晕染，墨色由浓至淡，朦胧氤氲，富有水墨层次；与前景形成近实远虚的空间纵深。
+【构图与光影】
+非线性透视构图，墨线曲线为叙事主轴，古今元素沿线嵌入；光源自画面中心向外辐射扩散，形成强烈明暗对比，中心亮、四周渐暗；冷色调主导（深蓝、青绿、银白），暖色点缀（樱花粉、淡金），和谐而神秘；东方美学与现代意象交融，超现实诗意意境。
+【技术规格】
+8K超高清渲染，极致细节精度，最佳画质，比例 9:16
+```
+
+</details>
+
+---
+
+### #29 Sam Altman Skatepark Snapshot
 
 <img src="assets/gpt-image-2-x-discussions/sam-altman-skatepark-snapshot-1.jpg" alt="Sam Altman Skatepark Snapshot" width="360">
 
@@ -89,7 +794,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 ---
 
-### #3 Surreal Koi Nebula Illustration
+### #30 Surreal Koi Nebula Illustration
 
 <img src="assets/gpt-image-2-x-discussions/surreal-koi-nebula-illustration-1.jpg" alt="Surreal Koi Nebula Illustration" width="360">
 
@@ -109,7 +814,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 ---
 
-### #4 Boston Spring 2026 City Poster
+### #31 Boston Spring 2026 City Poster
 
 <img src="assets/gpt-image-2-x-discussions/boston-spring-2026-city-poster-1.jpg" alt="Boston Spring 2026 City Poster" width="360">
 
@@ -129,7 +834,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #5 Chengdu Food Map Illustration
+### #32 Chengdu Food Map Illustration
 
 <img src="assets/gpt-image-2-x-discussions/chengdu-food-map-illustration-1.jpg" alt="Chengdu Food Map Illustration" width="540">
 
@@ -149,7 +854,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #6 Chinese Minimalist S Shaped Poster
+### #33 Chinese Minimalist S Shaped Poster
 
 <img src="assets/gpt-image-2-x-discussions/chinese-minimalist-s-shaped-poster-1.jpg" alt="Chinese Minimalist S Shaped Poster" width="360">
 
@@ -177,7 +882,37 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #7 Museum Style Hanfu Breakdown Infographic
+### #34 Guangzhou Dream Return City Poster
+
+| View 1 | View 2 |
+| --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/guangzhou-dream-return-city-poster-1.jpg" alt="Guangzhou Dream Return City Poster 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/guangzhou-dream-return-city-poster-2.jpg" alt="Guangzhou Dream Return City Poster 2" width="220"> |
+
+- **Author:** [李岳](https://x.com/liyue_ai)
+- **Source:** [X](https://x.com/liyue_ai/status/2046243132774494607)
+- **Published:** April 18, 2026
+- **Languages:** zh, en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+平面插画，东方幻想风格高端城市海报设计，竖版9:16构图，整体采用对角线+S型流动构图，从左下向右上延展，画面以深邃黑色为背景，自上而下渐变至浓烈暗红色，形成强烈冷暖对比与空间纵深，背景带微弱星尘与颗粒质感。画面中央一条金色流动能量线条如火焰般蜿蜒贯穿，自底部向上延伸，具有流体质感、粒子光效与渐变高光，局部带细微能量碎屑与体积光。
+
+金色流光中逐层浮现广州城市地标建筑群：广州塔为视觉核心，比例突出，周围融合珠江新城高楼群、猎德大桥及现代与岭南建筑元素，建筑采用“精细线描 + 金色发光体块”表现，轮廓清晰、细节丰富，在金色光晕映衬下仿佛悬浮于虚空，形成超现实空间层次，远景轻微雾化增强纵深感。
+
+画面底部为一位东方白发女性形象，长发飘逸，如烟似雾，与金色流光自然衔接并逐渐融合，发丝半透明带渐变光感，姿态柔美，双目微闭，神情宁静，怀抱一束多彩鲜花，花间点缀微光粒子与星点效果，象征人与城市能量的精神连接，人物细节适度简化以突出整体设计感。
+
+光影集中于金色流线、建筑与人物轮廓，形成强烈明暗对比与视觉聚焦，整体氛围宏大、神秘、具有东方神话意境且略带治愈感。色彩以黑与暗红为基底，高亮鎏金为主视觉强调，金色具备丰富明暗层次，辅以小面积高饱和花束色彩点缀，整体高级克制。
+
+页面文字与画面融合排版：顶部居中宋体大字“广州·中国”，下方小字“2026/04/20”，再下方小字“LIYUE”，文字采用淡金色或柔和暖白色，与整体光影统一。高品质细节，电影级光影表现，体积光与粒子细节丰富，画面干净无噪点，超高清8K分辨率，商业级海报质感。
+```
+
+</details>
+
+---
+
+### #35 Museum Style Hanfu Breakdown Infographic
 
 <img src="assets/gpt-image-2-x-discussions/museum-style-hanfu-breakdown-infographic-1.jpg" alt="Museum Style Hanfu Breakdown Infographic" width="440">
 
@@ -212,7 +947,33 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #8 Song Dynasty Social Media Feed
+### #36 Qiongqi Eastern Aesthetics Poster
+
+| View 1 | View 2 |
+| --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/qiongqi-eastern-aesthetics-poster-1.jpg" alt="Qiongqi Eastern Aesthetics Poster 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/qiongqi-eastern-aesthetics-poster-2.jpg" alt="Qiongqi Eastern Aesthetics Poster 2" width="220"> |
+
+- **Author:** [李岳](https://x.com/liyue_ai)
+- **Source:** [X](https://x.com/liyue_ai/status/2045506567735558336)
+- **Published:** April 18, 2026
+- **Languages:** zh, en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+极简主义，新中式风格立体图形设计，图像下端有楷体中国文字：“东方美学”，“2026/04/18”，署名 “CHINA”，和“@LIYUE”；
+平整纯白色的亚光质感厚艺术纸上绘充满东方诗意氛围的山水创意画，不规则的撕纸效果；
+中国的神兽：穷奇，身形图案完整，美轮美奂，，线条柔美灵动,眼睛炯炯有神，威严的神态，优雅的姿势，奢华装饰艺术，中国传统纹饰；
+荧光蓝色线条，0.5mm极细金色金属质感勾边，泼白墨大笔触，色彩渲染，红底，蓝色的浪漫诗意视觉；
+冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光叙事，东风禅意，画面有大面积留白，框架构图，底部留白，细节清晰。
+```
+
+</details>
+
+---
+
+### #37 Song Dynasty Social Media Feed
 
 <img src="assets/gpt-image-2-x-discussions/song-dynasty-social-media-feed-1.jpg" alt="Song Dynasty Social Media Feed" width="240">
 
@@ -232,7 +993,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #9 Spring Guangzhou City Poster
+### #38 Spring Guangzhou City Poster
 
 <img src="assets/gpt-image-2-x-discussions/spring-guangzhou-city-poster-1.jpg" alt="Spring Guangzhou City Poster" width="360">
 
@@ -258,7 +1019,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #10 35Mm Flash Editorial Portrait
+### #39 35Mm Flash Editorial Portrait
 
 <img src="assets/gpt-image-2-x-discussions/35mm-flash-editorial-portrait-1.jpg" alt="35Mm Flash Editorial Portrait" width="360">
 
@@ -278,7 +1039,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #11 916 Cosplayer Portrait Screenshot
+### #40 916 Cosplayer Portrait Screenshot
 
 | View 1 | View 2 |
 | --- | --- |
@@ -300,7 +1061,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #12 Convenience Store Neon Portrait
+### #41 Convenience Store Neon Portrait
 
 <img src="assets/gpt-image-2-x-discussions/convenience-store-neon-portrait-1.jpg" alt="Convenience Store Neon Portrait" width="360">
 
@@ -320,7 +1081,35 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #13 Doodle Sketch Ai Builder
+### #42 Creative Calligraphy Zong You Ji Feng Qi
+
+| View 1 | View 2 |
+| --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/creative-calligraphy-zong-you-ji-feng-qi-1.jpg" alt="Creative Calligraphy Zong You Ji Feng Qi 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/creative-calligraphy-zong-you-ji-feng-qi-2.jpg" alt="Creative Calligraphy Zong You Ji Feng Qi 2" width="220"> |
+
+- **Author:** [李岳](https://x.com/liyue_ai)
+- **Source:** [X](https://x.com/liyue_ai/status/2045328856937312549)
+- **Published:** April 17, 2026
+- **Languages:** zh, en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+创意艺术字体“纵有疾风起”，秀丽笔手写风格，整体文字横版排列，具有强烈视觉冲击力；
+深度融合手写书法笔意，笔触带毛笔书写的粗犷洒脱，如挥毫泼墨的肆意劲道；
+起收笔的飞白，顿挫，尽显促销的火爆张力，文字的形态打破规整，笔画的粗细变化；
+dutch angle，营造出动感冲刺的气势，字形呈奔放之势；
+重心上扬如蓄势待发，笔画的伸展，穿插毫无拘束，似全力冲刺的劲道；
+整体架构疏密交织，紧密处如促销热潮的汹涌，留白处似优惠间隙的呼吸感；
+纯净黑色背景打底，完美契合热烈氛围，艺术字的形态与色彩酣畅传递。
+```
+
+</details>
+
+---
+
+### #43 Doodle Sketch Ai Builder
 
 <img src="assets/gpt-image-2-x-discussions/doodle-sketch-ai-builder-1.jpg" alt="Doodle Sketch Ai Builder" width="620">
 
@@ -340,7 +1129,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #14 Douyin Tiktok Convenience Store Portrait
+### #44 Douyin Tiktok Convenience Store Portrait
 
 <img src="assets/gpt-image-2-x-discussions/douyin-tiktok-convenience-store-portrait-1.jpg" alt="Douyin Tiktok Convenience Store Portrait" width="620">
 
@@ -360,7 +1149,7 @@ A 22-year-old East Asian girl, round youthful face, large bright doe eyes with n
 
 ---
 
-### #15 Japanese Onsen Ryokan Portrait
+### #45 Japanese Onsen Ryokan Portrait
 
 <img src="assets/gpt-image-2-x-discussions/japanese-onsen-ryokan-portrait-1.jpg" alt="Japanese Onsen Ryokan Portrait" width="360">
 
@@ -380,7 +1169,7 @@ A 22-year-old East Asian girl, round youthful face, large bright doe eyes with n
 
 ---
 
-### #16 Mirror Selfie Bedroom Portrait
+### #46 Mirror Selfie Bedroom Portrait
 
 <img src="assets/gpt-image-2-x-discussions/mirror-selfie-bedroom-portrait-1.jpg" alt="Mirror Selfie Bedroom Portrait" width="440">
 
@@ -401,7 +1190,7 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 ---
 
-### #17 Modern Saas Homepage Design Boards
+### #47 Modern Saas Homepage Design Boards
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -427,7 +1216,27 @@ centered composition, elegant spacing, premium UI design, soft lighting, subtle 
 
 ---
 
-### #18 Uesugi Kenshin Japanese X Profile Page
+### #48 Mona Lisa Drinking Cola Oil Painting
+
+<img src="assets/gpt-image-2-x-discussions/mona-lisa-drinking-cola-oil-painting-1.jpg" alt="Mona Lisa Drinking Cola Oil Painting" width="440">
+
+- **Author:** [李岳](https://x.com/liyue_ai)
+- **Source:** [X](https://x.com/liyue_ai/status/2045058142858555733)
+- **Published:** April 17, 2026
+- **Languages:** zh
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+生成一张蒙娜丽莎喝可乐的油画。
+```
+
+</details>
+
+---
+
+### #49 Uesugi Kenshin Japanese X Profile Page
 
 <img src="assets/gpt-image-2-x-discussions/uesugi-kenshin-japanese-x-profile-page-1.jpg" alt="Uesugi Kenshin Japanese X Profile Page" width="540">
 
@@ -447,7 +1256,7 @@ centered composition, elegant spacing, premium UI design, soft lighting, subtle 
 
 ---
 
-### #19 Analog 35Mm Police Fashion Portrait
+### #50 Analog 35Mm Police Fashion Portrait
 
 <img src="assets/gpt-image-2-x-discussions/analog-35mm-police-fashion-portrait-1.jpg" alt="Analog 35Mm Police Fashion Portrait" width="440">
 
@@ -475,7 +1284,7 @@ Ultra-realistic photorealistic film photography, edgy magazine editorial aesthet
 
 ---
 
-### #20 Capless Perfume Bottle
+### #51 Capless Perfume Bottle
 
 <img src="assets/gpt-image-2-x-discussions/capless-perfume-bottle-1.jpg" alt="Capless Perfume Bottle" width="540">
 
@@ -503,7 +1312,7 @@ Swap: [MATERIAL] / [FINISH] / [AESTHETIC]
 
 ---
 
-### #21 Crownless Watch Sealed Case
+### #52 Crownless Watch Sealed Case
 
 <img src="assets/gpt-image-2-x-discussions/crownless-watch-sealed-case-1.jpg" alt="Crownless Watch Sealed Case" width="540">
 
@@ -531,7 +1340,27 @@ Swap: [WATCH STYLE] / [DIAL COLOR] / [STRAP MATERIAL] / [SETTING]
 
 ---
 
-### #22 Gorilla Knowledge Worker Movie Poster
+### #53 Eclipse Android Spaceship Character Sheet
+
+<img src="assets/gpt-image-2-x-discussions/eclipse-android-spaceship-character-sheet-1.jpg" alt="Eclipse Android Spaceship Character Sheet" width="440">
+
+- **Author:** [썰렁황제](https://x.com/iceemperor)
+- **Source:** [X](https://x.com/iceemperor/status/2044747172617630015)
+- **Published:** April 16, 2026
+- **Languages:** ko
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+날렵한 우주 전투비행체로 변신이 가능한, 여성 안드로이드 캐릭터에 대한 캐릭터 디자인 시트. 한국어로.
+```
+
+</details>
+
+---
+
+### #54 Gorilla Knowledge Worker Movie Poster
 
 <img src="assets/gpt-image-2-x-discussions/gorilla-knowledge-worker-movie-poster-1.jpg" alt="Gorilla Knowledge Worker Movie Poster" width="440">
 
@@ -551,7 +1380,7 @@ Swap: [WATCH STYLE] / [DIAL COLOR] / [STRAP MATERIAL] / [SETTING]
 
 ---
 
-### #23 King Taejo Yi Seong Gye X Page
+### #55 King Taejo Yi Seong Gye X Page
 
 <img src="assets/gpt-image-2-x-discussions/king-taejo-yi-seong-gye-x-page-1.jpg" alt="King Taejo Yi Seong Gye X Page" width="360">
 
@@ -571,7 +1400,7 @@ Swap: [WATCH STYLE] / [DIAL COLOR] / [STRAP MATERIAL] / [SETTING]
 
 ---
 
-### #24 Oda Nobunaga X Post Page
+### #56 Oda Nobunaga X Post Page
 
 <img src="assets/gpt-image-2-x-discussions/oda-nobunaga-x-post-page-1.jpg" alt="Oda Nobunaga X Post Page" width="540">
 
@@ -591,7 +1420,7 @@ Swap: [WATCH STYLE] / [DIAL COLOR] / [STRAP MATERIAL] / [SETTING]
 
 ---
 
-### #25 Open Notebook Black Ballpoint Notes
+### #57 Open Notebook Black Ballpoint Notes
 
 <img src="assets/gpt-image-2-x-discussions/open-notebook-black-ballpoint-notes-1.jpg" alt="Open Notebook Black Ballpoint Notes" width="540">
 
@@ -611,7 +1440,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 ---
 
-### #26 Ryoma Future Of Japan X Post Page
+### #58 Ryoma Future Of Japan X Post Page
 
 <img src="assets/gpt-image-2-x-discussions/ryoma-future-of-japan-x-post-page-1.jpg" alt="Ryoma Future Of Japan X Post Page" width="360">
 
@@ -631,7 +1460,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 ---
 
-### #27 Seamless Jacket Flatlay
+### #59 Seamless Jacket Flatlay
 
 <img src="assets/gpt-image-2-x-discussions/seamless-jacket-flatlay-1.jpg" alt="Seamless Jacket Flatlay" width="540">
 
@@ -659,7 +1488,7 @@ Swap: [GARMENT TYPE] / [FABRIC] / [BACKGROUND]
 
 ---
 
-### #28 Seamless Wallet Single Piece
+### #60 Seamless Wallet Single Piece
 
 <img src="assets/gpt-image-2-x-discussions/seamless-wallet-single-piece-1.jpg" alt="Seamless Wallet Single Piece" width="540">
 
@@ -687,7 +1516,7 @@ Swap: [MATERIAL] / [ENVIRONMENT] / [PROPS] / [COLOR WORLD]
 
 ---
 
-### #29 Tim Cook Apple Park Keynote
+### #61 Tim Cook Apple Park Keynote
 
 <img src="assets/gpt-image-2-x-discussions/tim-cook-apple-park-keynote-1.jpg" alt="Tim Cook Apple Park Keynote" width="540">
 
@@ -707,7 +1536,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 ---
 
-### #30 White Studio Tennis Editorial Portrait
+### #62 White Studio Tennis Editorial Portrait
 
 <img src="assets/gpt-image-2-x-discussions/white-studio-tennis-editorial-portrait-1.jpg" alt="White Studio Tennis Editorial Portrait" width="360">
 
@@ -727,7 +1556,7 @@ Professional studio fashion photography, ultra-clean high-end digital editorial 
 
 ---
 
-### #31 Amalfi Coast Vintage Travel Poster
+### #63 Amalfi Coast Vintage Travel Poster
 
 <img src="assets/gpt-image-2-x-discussions/amalfi-coast-vintage-travel-poster-1.jpg" alt="Amalfi Coast Vintage Travel Poster" width="360">
 
@@ -747,7 +1576,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 ---
 
-### #32 Anime Rival Girls
+### #64 Anime Rival Girls
 
 <img src="assets/gpt-image-2-x-discussions/anime-rival-girls-1.jpg" alt="Anime Rival Girls" width="620">
 
@@ -767,7 +1596,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 ---
 
-### #33 Lego Poster Every Us President By Year
+### #65 Lego Poster Every Us President By Year
 
 <img src="assets/gpt-image-2-x-discussions/lego-poster-every-us-president-by-year-1.jpg" alt="Lego Poster Every Us President By Year" width="360">
 
@@ -787,7 +1616,7 @@ Lego poster showing every president of the USA by year.
 
 ---
 
-### #34 Refracted Sans Crystal Typeface
+### #66 Refracted Sans Crystal Typeface
 
 <img src="assets/gpt-image-2-x-discussions/refracted-sans-crystal-typeface-1.jpg" alt="Refracted Sans Crystal Typeface" width="540">
 
@@ -815,7 +1644,7 @@ Swap: [LETTER] A-Z / [SURFACE] black velvet, white marble, dark slate / [LIGHT_C
 
 ---
 
-### #35 Scrambled Rubiks Cube Mirror Reflection
+### #67 Scrambled Rubiks Cube Mirror Reflection
 
 <img src="assets/gpt-image-2-x-discussions/scrambled-rubiks-cube-mirror-reflection-1.jpg" alt="Scrambled Rubiks Cube Mirror Reflection" width="540">
 
@@ -835,7 +1664,7 @@ A validly scrambled Rubik's cube placed by a mirror, clearly showing its mirror 
 
 ---
 
-### #36 Snapshot From Actual Anime
+### #68 Snapshot From Actual Anime
 
 <img src="assets/gpt-image-2-x-discussions/snapshot-from-actual-anime-1.jpg" alt="Snapshot From Actual Anime" width="540">
 
@@ -855,7 +1684,7 @@ Show me the attached image as a snapshot from an actual anime
 
 ---
 
-### #37 Average Engineers Screen
+### #69 Average Engineers Screen
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -877,7 +1706,7 @@ average engineer's screen
 
 ---
 
-### #38 Pov Biker Stanford Campus
+### #70 Pov Biker Stanford Campus
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -899,7 +1728,7 @@ POV from a biker riding around the Stanford campus
 
 ---
 
-### #39 A16Z Podcast Youtube Screengrab
+### #71 A16Z Podcast Youtube Screengrab
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -921,7 +1750,7 @@ screen grab of a16z podcast on YouTube
 
 ---
 
-### #40 Handwritten Medical Notes Notebook
+### #72 Handwritten Medical Notes Notebook
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -958,7 +1787,7 @@ At the very bottom right of the page, there is a large, quick, illegible signatu
 
 ---
 
-### #41 Handwritten Notebook Notes
+### #73 Handwritten Notebook Notes
 
 | View 1 | View 2 |
 | --- | --- |
@@ -980,7 +1809,7 @@ A realistic photo of an open dotted notebook lying flat, filled with dense handw
 
 ---
 
-### #42 Ikea Storefront At Twilight
+### #74 Ikea Storefront At Twilight
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -1002,7 +1831,7 @@ A high-resolution, photorealistic photograph taken at twilight (blue hour) of an
 
 ---
 
-### #43 Yahoo Homepage Screenshot
+### #75 Yahoo Homepage Screenshot
 
 <img src="assets/gpt-image-2-x-discussions/yahoo-homepage-screenshot-1.jpg" alt="Yahoo Homepage Screenshot" width="620">
 
@@ -1022,7 +1851,7 @@ Screenshot of the Yahoo homepage.
 
 ---
 
-### #44 Gta 6 Ingame Footage Monitor Shot
+### #76 Gta 6 Ingame Footage Monitor Shot
 
 | View 1 | View 2 |
 | --- | --- |
@@ -1044,7 +1873,7 @@ GTA 6 in-game footage, very detailed, very realistic. Close-up shot taken from a
 
 ---
 
-### #45 Raw Iphone Subway Hugging Couple
+### #77 Raw Iphone Subway Hugging Couple
 
 | View 1 | View 2 |
 | --- | --- |
@@ -1066,7 +1895,7 @@ Create a completely RAW quality, unprocessed, unedited image with full iPhone ca
 
 ---
 
-### #46 Ea Fc 26 Icon Neymar Pack
+### #78 Ea Fc 26 Icon Neymar Pack
 
 | View 1 | View 2 |
 | --- | --- |
@@ -1088,7 +1917,7 @@ EA FC 26 Icon Neymar pack. NO ps plus. Rating: 96. LW. NEYMAR JR. PAC 94 SHO 91 
 
 ---
 
-### #47 Jesus In Modern World
+### #79 Jesus In Modern World
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -1110,7 +1939,27 @@ Jesus in modern world
 
 ---
 
-### #48 F1 Ferrari Progression Infographic
+### #80 Ccd Finger Gun Korean Idol Portrait
+
+<img src="assets/gpt-image-2-x-discussions/ccd-finger-gun-korean-idol-portrait-1.jpg" alt="Ccd Finger Gun Korean Idol Portrait" width="360">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2040786536409809073)
+- **Published:** April 5, 2026
+- **Languages:** en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+CCD compact camera direct on-camera flash, full-body portrait, eye-level straight-on shot, gorgeous Korean idol woman, early 20s, 9-head body proportion, standing in confident S-curve pose with weight on back leg, front leg slightly forward and bent at knee, elongating leg line, one hand forming finger-gun gesture pressed against temple, head tilted, sharp cold gaze directly into lens, lips slightly parted, expression reads effortless danger — sexy and unbothered, long jet-black pin-straight hair reaching lower back, silky texture with fine strand separation under flash, no bangs, hair tucked behind one ear revealing jawline, cold-toned porcelain skin with authentic texture — visible fine pores on cheeks and nose, soft peach fuzz on jawline and cheekbones catching light, subtle subsurface scattering at ear edges and nose tip, natural skin micro-texture with faint expression lines, matte healthy glow with zero oiliness or plastic sheen, cool-white undertone, no yellow cast, no tan, refined Korean makeup — clean elongated cat eyeliner, individual lash strands visible, groomed natural brows, soft nude-pink matte lip, subtle highlighter on nose bridge and cheekbone peaks, small beauty mark under left eye, black thin-strap deep-V camisole top, fitted, fabric clinging to torso sculpting slim waist and lifted bust, black high-waisted bodycon mini skirt ending mid-thigh, fabric hugging hip curves with visible tension at seams, bare long toned legs with realistic skin texture — faint knee definition, subtle muscle tone, natural skin color variation, black pointed-toe stiletto heels 10cm, direct on-camera flash lighting, hard light quality, properly exposed — skin detail fully preserved with no blowout, characteristic CCD flash contrast: subject crisp and bright, background falling off to deep shadow behind her, short hard shadow outline cast on wall directly behind, slight natural vignette at frame corners, CCD color rendition — punchy midtone contrast, slightly cool white balance from flash mixing with warm ambient, ultra-realistic skin detail under harsh direct light, every pore and fine hair strand rendered, fabric weave texture visible on black garments, metallic sheen on stiletto heel catching flash, hair strands individually lit with scattered micro-highlights, sharp critical focus on eyes and face, 8K UHD, RAW photograph, masterpiece, best quality, photorealistic, zero stylization, real human being
+```
+
+</details>
+
+---
+
+### #81 F1 Ferrari Progression Infographic
 
 <img src="assets/gpt-image-2-x-discussions/f1-ferrari-progression-infographic-1.jpg" alt="F1 Ferrari Progression Infographic" width="620">
 
@@ -1130,7 +1979,7 @@ Infographic which shows the progression of F1 Ferrari cars from old to latest ne
 
 ---
 
-### #49 Zelda Totk Link E531 Train
+### #82 Zelda Totk Link E531 Train
 
 <img src="assets/gpt-image-2-x-discussions/zelda-totk-link-e531-train-1.jpg" alt="Zelda Totk Link E531 Train" width="620">
 
@@ -1150,7 +1999,27 @@ In the game Zelda totk link is in a e531 series train made by him
 
 ---
 
-### #50 Young Woman Taking Selfie With Sam Altman
+### #83 Gothic Twin Tail Lisa Comic Page
+
+<img src="assets/gpt-image-2-x-discussions/gothic-twin-tail-lisa-comic-page-1.jpg" alt="Gothic Twin Tail Lisa Comic Page" width="360">
+
+- **Author:** [IT navi](https://x.com/itnavi2022)
+- **Source:** [X](https://x.com/itnavi2022/status/2040469890151415866)
+- **Published:** April 4, 2026
+- **Languages:** ja, en
+
+<details>
+<summary>Copy Prompt</summary>
+
+```text
+ツインテールで黒いゴシックドレスを着たちびキャラのリサが、新画像生成モデル「GPT-image-2」について解説する漫画（1ページ8コマ）を描いて。セリフは、日本語の文字や漢字を使って正確に書いて
+```
+
+</details>
+
+---
+
+### #84 Young Woman Taking Selfie With Sam Altman
 
 <img src="assets/gpt-image-2-x-arena-likely/young-woman-taking-selfie-with-sam-altman-1.jpg" alt="Young Woman Taking Selfie With Sam Altman" width="440">
 
@@ -1170,7 +2039,7 @@ young woman taking selfie with Sam Altman
 
 ---
 
-### #51 Fully Labeled Human Cell
+### #85 Fully Labeled Human Cell
 
 | View 1 | View 2 |
 | --- | --- |
@@ -1192,7 +2061,7 @@ Create a fully labeled diagram of a human cell with at least 10 labeled elements
 
 ---
 
-### #52 Front Page Of A Newspaper
+### #86 Front Page Of A Newspaper
 
 <img src="assets/gpt-image-2-x-discussions/front-page-of-a-newspaper-1.jpg" alt="Front Page Of A Newspaper" width="360">
 
