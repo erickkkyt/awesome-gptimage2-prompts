@@ -1,0 +1,91 @@
+- generic [ref=e5]:
+  - generic [ref=e7]:
+    - img [ref=e10]
+    - generic [ref=e13]: A place to share knowledge and better understand the world
+  - generic [ref=e14]:
+    - generic [ref=e15]:
+      - generic [ref=e17]:
+        - text: By continuing you indicate that you agree to Quora’s
+        - link "Terms of Service" [ref=e18] [cursor=pointer]:
+          - /url: https://www.quora.com/about/tos
+        - text: and
+        - link "Privacy Policy" [ref=e19] [cursor=pointer]:
+          - /url: https://www.quora.com/about/privacy
+        - text: .
+      - generic [ref=e20]:
+        - generic [ref=e29] [cursor=pointer]: Continue with Google
+        - generic [ref=e37] [cursor=pointer]: Continue with Facebook
+        - button "Sign up with email" [ref=e38] [cursor=pointer]:
+          - generic [ref=e41]: Sign up with email
+    - generic [ref=e42]:
+      - generic [ref=e47]: Login
+      - generic [ref=e48]:
+        - generic [ref=e51]: Email
+        - textbox "Email" [active] [ref=e53]:
+          - /placeholder: Your email
+      - generic [ref=e54]:
+        - generic [ref=e57]: Password
+        - textbox "Password" [ref=e59]:
+          - /placeholder: Your password
+      - generic [ref=e60]:
+        - generic [ref=e62] [cursor=pointer]: Forgot password?
+        - button "Login" [disabled]:
+          - generic:
+            - generic:
+              - generic: Login
+  - generic [ref=e64]:
+    - text: "New:"
+    - link "العربية" [ref=e65] [cursor=pointer]:
+      - /url: https://ar.quora.com/
+    - text: ","
+    - link "עברית" [ref=e66] [cursor=pointer]:
+      - /url: https://he.quora.com/
+    - text: ","
+    - link "polski" [ref=e67] [cursor=pointer]:
+      - /url: https://pl.quora.com/
+    - text: ","
+    - link "ગુજરાતી" [ref=e68] [cursor=pointer]:
+      - /url: https://gu.quora.com/
+    - text: ","
+    - link "ಕನ್ನಡ" [ref=e69] [cursor=pointer]:
+      - /url: https://kn.quora.com/
+    - text: ","
+    - link "മലയാളം" [ref=e70] [cursor=pointer]:
+      - /url: https://ml.quora.com/
+    - text: and
+    - link "తెలుగు" [ref=e71] [cursor=pointer]:
+      - /url: https://te.quora.com/
+  - generic [ref=e74]:
+    - link "About" [ref=e76] [cursor=pointer]:
+      - /url: https://www.quora.com/about
+    - generic [ref=e77]:
+      - text: ·
+      - link "Careers" [ref=e78] [cursor=pointer]:
+        - /url: https://www.quora.com/careers
+    - generic [ref=e79]:
+      - text: ·
+      - link "Privacy" [ref=e80] [cursor=pointer]:
+        - /url: https://www.quora.com/about/privacy
+    - generic [ref=e81]:
+      - text: ·
+      - link "Terms" [ref=e82] [cursor=pointer]:
+        - /url: https://www.quora.com/about/tos
+    - generic [ref=e83]:
+      - text: ·
+      - link "Contact" [ref=e84] [cursor=pointer]:
+        - /url: https://www.quora.com/contact
+    - generic [ref=e85]:
+      - text: ·
+      - link "Languages" [ref=e86] [cursor=pointer]:
+        - /url: https://www.quora.com/about/languages
+    - generic [ref=e87]:
+      - text: ·
+      - link "Your Ad Choices" [ref=e88] [cursor=pointer]:
+        - /url: https://www.quora.com/about/your_ad_choices
+    - generic [ref=e89]:
+      - text: ·
+      - link "Press" [ref=e90] [cursor=pointer]:
+        - /url: https://www.quora.com/press
+    - generic [ref=e91]:
+      - text: ·
+      - generic [ref=e92]: © Quora, Inc. 2026
