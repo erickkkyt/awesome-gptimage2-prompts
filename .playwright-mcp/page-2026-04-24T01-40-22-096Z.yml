@@ -1,0 +1,568 @@
+- generic [ref=e3]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - generic [ref=e9]: 新鲜事一网打尽
+      - generic [ref=e10]: X 上的用户能够抢先知道。
+    - generic [ref=e13]:
+      - link "登录" [ref=e15] [cursor=pointer]:
+        - /url: /login
+        - generic [ref=e18]: 登录
+      - link "注册" [ref=e20] [cursor=pointer]:
+        - /url: /i/flow/signup
+        - generic [ref=e23]: 注册
+  - button "跳至主页时间线" [ref=e24] [cursor=pointer]
+  - button "跳至当前趋势" [ref=e26] [cursor=pointer]
+  - banner [ref=e28]:
+    - generic [ref=e31]:
+      - heading "X" [level=1] [ref=e33] [cursor=pointer]:
+        - link "X" [ref=e34]:
+          - /url: /
+          - img [ref=e36]
+      - generic:
+        - navigation "主要"
+  - main [ref=e39]:
+    - generic [ref=e42]:
+      - generic "主页时间线" [ref=e44]:
+        - generic [ref=e45]:
+          - generic [ref=e51] [cursor=pointer]:
+            - button "返回" [ref=e53]:
+              - img [ref=e55]
+            - heading "文章" [level=2] [ref=e60]
+            - link "专注模式" [ref=e63]:
+              - /url: /Formulasearch/article/2046790896482455890
+              - img [ref=e65]
+          - generic:
+            - generic:
+              - status:
+                - button:
+                  - generic:
+                    - img
+                    - generic: 查看新帖子
+        - region "对话" [ref=e68]:
+          - heading "对话" [level=1] [ref=e69]
+          - generic "时间线：对话" [ref=e70]:
+            - article "Philip Van 认证账号 @Formulasearch 34 回复、508 次转帖、2232 喜欢、3579 书签、464278 次观看" [ref=e75]:
+              - generic [ref=e77]:
+                - generic [ref=e81]:
+                  - link [active] [ref=e93] [cursor=pointer]:
+                    - /url: /Formulasearch
+                  - generic [ref=e98]:
+                    - generic [ref=e101]:
+                      - link "Philip Van 认证账号" [ref=e104] [cursor=pointer]:
+                        - /url: /Formulasearch
+                        - generic [ref=e105]:
+                          - generic [ref=e107]: Philip Van
+                          - img "认证账号" [ref=e110]
+                      - link "@Formulasearch" [ref=e116] [cursor=pointer]:
+                        - /url: /Formulasearch
+                        - generic [ref=e117]: "@Formulasearch"
+                    - button "更多" [ref=e123] [cursor=pointer]:
+                      - img [ref=e127]
+                - generic [ref=e130]:
+                  - generic [ref=e131]:
+                    - link "图像" [ref=e137] [cursor=pointer]:
+                      - /url: /Formulasearch/article/2046790896482455890/media/2046669593779769344
+                      - generic "图像" [ref=e141]:
+                        - img "图像" [ref=e143]
+                    - generic [ref=e144]:
+                      - generic [ref=e146]: GPT-Image-2 爆款案例 + 完整提示词（X 高赞合集 · 可复制）
+                      - group "34 回复、508 次转帖、2232 喜欢、3579 书签、464278 次观看" [ref=e148]:
+                        - button "34 回复。回复" [ref=e150] [cursor=pointer]:
+                          - generic [ref=e151]:
+                            - img [ref=e154]
+                            - generic [ref=e159]: "34"
+                        - button "508 次转帖。转帖" [ref=e161] [cursor=pointer]:
+                          - generic [ref=e162]:
+                            - img [ref=e165]
+                            - generic [ref=e170]: "508"
+                        - button "2232 喜欢次数。喜欢" [ref=e172] [cursor=pointer]:
+                          - generic [ref=e173]:
+                            - img [ref=e176]
+                            - generic [ref=e181]: 2,232
+                        - link "464278 次查看。查看帖子分析" [ref=e183] [cursor=pointer]:
+                          - /url: /Formulasearch/status/2046790896482455890/analytics
+                          - generic [ref=e184]:
+                            - img [ref=e187]
+                            - generic [ref=e192]: 46万
+                        - button "书签" [ref=e194] [cursor=pointer]:
+                          - img [ref=e198]
+                        - button "分享帖子" [ref=e203] [cursor=pointer]:
+                          - img [ref=e207]
+                      - generic [ref=e215]:
+                        - link "图像" [ref=e222] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046669706585686016
+                          - generic "图像" [ref=e226]:
+                            - img "图像" [ref=e228]
+                        - generic [ref=e231]:
+                          - button "复制到剪贴板" [ref=e234] [cursor=pointer]:
+                            - img [ref=e236]
+                          - code [ref=e240]: 生成一张Grok的小红书界面个人主页截图
+                        - generic [ref=e243]: GPT-Image-2 上线几天，X 时间线已经被刷屏了，恰好image2开始全量上线，我根据这几天的时间线以及个人的尝试，收集整理了一些提示词和案例。
+                        - generic [ref=e246]: 图像生成的边界，如今又被 GPT-Image-2 推了一大步，banana已经可以退下王座了。
+                        - generic [ref=e248]:
+                          - generic [ref=e249]: 下面是我从 X 高赞帖里筛出来的 8 类案例，全部配完整 prompt。
+                          - generic [ref=e250]: 都可以直接复制到 ChatGPT 用 GPT-Image-2 生成
+                          - generic [ref=e251]: 。
+                        - heading "〇、先来收集点整活的内容：" [level=2] [ref=e253]:
+                          - generic [ref=e255]: 〇、先来收集点整活的内容：
+                        - generic [ref=e258]:
+                          - button "复制到剪贴板" [ref=e261] [cursor=pointer]:
+                            - img [ref=e263]
+                          - code [ref=e267]: 绘制一张Anthropic公司在X推特上的产品宣传帖子，要求有文案和配图，以及网页端的UI，内容是 我们很高兴地宣布，Claude.ai和ClaudeApp现已支持中国大陆地区用户访问和使用。
+                        - generic [ref=e270]:
+                          - link "图像" [ref=e274] [cursor=pointer]:
+                            - /url: /Formulasearch/article/2046790896482455890/media/2046796425342615552
+                            - generic "图像" [ref=e278]:
+                              - img "图像" [ref=e280]
+                          - generic [ref=e289]:
+                            - generic [ref=e290]: 图来源于
+                            - link "@Khazix0918" [ref=e292] [cursor=pointer]:
+                              - /url: https://x.com/@Khazix0918
+                              - generic [ref=e293]: "@Khazix0918"
+                        - generic [ref=e296]:
+                          - button "复制到剪贴板" [ref=e299] [cursor=pointer]:
+                            - img [ref=e301]
+                          - code [ref=e305]: 生成一张中文，初三年级的数学学科期中考试试卷
+                        - generic [ref=e308]:
+                          - link "图像" [ref=e312] [cursor=pointer]:
+                            - /url: /Formulasearch/article/2046790896482455890/media/2046796875022426112
+                            - generic "图像" [ref=e316]:
+                              - img "图像" [ref=e318]
+                          - generic [ref=e327]:
+                            - generic [ref=e328]: 图来源于
+                            - link "@Khazix0918" [ref=e330] [cursor=pointer]:
+                              - /url: https://x.com/@Khazix0918
+                              - generic [ref=e331]: "@Khazix0918"
+                        - generic [ref=e334]:
+                          - link "图像" [ref=e338] [cursor=pointer]:
+                            - /url: /Formulasearch/article/2046790896482455890/media/2046798092695965696
+                            - generic "图像" [ref=e342]:
+                              - img "图像" [ref=e344]
+                          - generic [ref=e353]:
+                            - generic [ref=e354]: 图来源于
+                            - link "@akokoi1" [ref=e356] [cursor=pointer]:
+                              - /url: https://x.com/@akokoi1
+                              - generic [ref=e357]: "@akokoi1"
+                        - generic [ref=e360]: 生成品牌视觉设计全案
+                        - generic [ref=e363]:
+                          - link "图像" [ref=e367] [cursor=pointer]:
+                            - /url: /Formulasearch/article/2046790896482455890/media/2046797618219450368
+                            - generic "图像" [ref=e371]:
+                              - img "图像" [ref=e373]
+                          - generic [ref=e382]:
+                            - generic [ref=e383]: 图来源于
+                            - link "@Jackywine" [ref=e385] [cursor=pointer]:
+                              - /url: https://x.com/@Jackywine
+                              - generic [ref=e386]: "@Jackywine"
+                        - heading "一、资源整理：一个 GitHub 仓库省你一个月 prompt 试错" [level=2] [ref=e388]:
+                          - generic [ref=e390]: 一、资源整理：一个 GitHub 仓库省你一个月 prompt 试错
+                        - generic [ref=e393]: 这周 X 上被反复转发最多的，是这个仓库：
+                        - generic [ref=e395]:
+                          - generic [ref=e398]: 🔗
+                          - generic [ref=e400]: awesome-gpt-image-2-prompts
+                          - link "github.com/EvoLinkAI/awesome-gpt-image-2-prompts" [ref=e403] [cursor=pointer]:
+                            - /url: //github.com/EvoLinkAI/awesome-gpt-image-2-prompts
+                            - generic [ref=e404]: github.com/EvoLinkAI/awesome-gpt-image-2-prompts
+                        - generic [ref=e407]: 500+ Star 的量级，覆盖人像摄影、海报、角色设计、UI mockup 四个大类，每类都带图和完整 prompt。X 上绝大多数刷屏帖的 prompt，都能在里面找到原始出处或同款。
+                        - generic [ref=e410]: 另外有两个中文友好库也可以收藏：
+                        - list [ref=e411]:
+                          - listitem [ref=e412]:
+                            - link "github.com/YouMind-OpenLab/awesome-gpt-image-2" [ref=e415] [cursor=pointer]:
+                              - /url: //github.com/YouMind-OpenLab/awesome-gpt-image-2
+                              - generic [ref=e416]: github.com/YouMind-OpenLab/awesome-gpt-image-2
+                          - listitem [ref=e417]:
+                            - link "opennana.com/awesome-prompt-gallery?model=ChatGPT" [ref=e420] [cursor=pointer]:
+                              - /url: //opennana.com/awesome-prompt-gallery?model=ChatGPT
+                              - generic [ref=e421]: opennana.com/awesome-prompt-gallery?model=ChatGPT
+                        - generic [ref=e424]: 不会写 prompt 的人，直接 Star + 抄。直接省下一周的反复尝试。
+                        - heading "二、便利店霓虹人像（35mm 胶片感，人像类最火）" [level=2] [ref=e426]:
+                          - generic [ref=e428]: 二、便利店霓虹人像（35mm 胶片感，人像类最火）
+                        - generic [ref=e431]: X 上时尚/摄影圈这周转发量最大的就是这一张风格——荧光灯+粉蓝霓虹、皮肤毛孔和衣服褶皱都清晰、像 35mm 胶片拍出来的真人街拍。
+                        - generic [ref=e434]: 完整 prompt（直接复制）：
+                        - generic [ref=e437]:
+                          - button "复制到剪贴板" [ref=e440] [cursor=pointer]:
+                            - img [ref=e442]
+                          - code [ref=e446]: 35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s Chinese female idol with ultra-realistic delicate refined Chinese features, natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair in a messy high ponytail with many loose strands falling around face and neck, wearing an oversized white button-up shirt loosely tied at the waist, paired with a black pleated mini skirt, simple white slides, casual leaning pose against the glass door of a 24-hour convenience store at late night, one hand holding a bottle of iced drink, soft gaze straight at the viewer, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door, blurred convenience store interior with shelves in background, authentic 35mm film color grading, natural hair strands, realistic fabric wrinkles, no plastic skin, no digital over-sharpening, no airbrushing, no watermark, no text
+                        - blockquote [ref=e447]:
+                          - generic [ref=e449]: 想改韩风/日系，把 Chinese female idol 换成 Korean idol 或 Japanese + 场景词（izakaya / 7-Eleven / bus stop）即可。
+                        - generic [ref=e452]: Pasted image 20260422013348.png
+                        - link "图像" [ref=e459] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046667218570637312
+                          - generic "图像" [ref=e463]:
+                            - img "图像" [ref=e465]
+                        - generic [ref=e468]:
+                          - button "复制到剪贴板" [ref=e471] [cursor=pointer]:
+                            - img [ref=e473]
+                          - code [ref=e477]: "Style: Ultra-realistic 35mm film photography, cinematic street editorial style, intimate medium shot. Lighting: Harsh convenience store fluorescent lights mixed with colorful neon signs (pink and blue) from outside, creating high contrast and a slight color cast. Subject: An early 20s delicate refined Chinese female (referencing the specific face, double eyelids, high nose bridge, small V-shaped jawline, and short curly black hair from image_0.png). Flawless porcelain skin with cool ivory undertone and visible texture, pores, and specular highlights. Red lip makeup. Subtle blush and natural freckles across the nose and cheeks. Hair: Short, curly black hair (as seen in image_0.png), with many loose strands falling around the face and neck. Attire: Wearing the same oversized red (maroon/wine) denim jacket from image_0.png, but this time it is fully worn and buttoned-up, paired with a simple dark denim skirt and simple white slides. Pose: An intimate medium shot. The female is standing inside the 24-hour convenience store by the glass door. Her body is slightly angled to the side (not fully backwards), and her head is turned over her shoulder, smiling and looking directly at the camera with the same soft gaze from image_0.png. One hand holds a can of an iced drink, and the other hand holds a store receipt, as if she has just paid. Background: The blurred convenience store interior, with stocked shelves, product signs, and realistic reflections on the glass door of the external neon signs and street activity. Authentic 35mm film color grading. Details: The small red mole on her shoulder is still present. A simple key card or key fob hangs from her jeans pocket. Natural fabric wrinkles. Quality: Authentic 35mm film grain, no plastic skin, no digital over-sharpening, no airbrushing, no watermark, no text."
+                        - link "图像" [ref=e484] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046667326586490880
+                          - generic "图像" [ref=e488]:
+                            - img "图像" [ref=e490]
+                        - heading "三、宣传海报" [level=2] [ref=e492]:
+                          - generic [ref=e494]: 三、宣传海报
+                        - generic [ref=e497]: 这一类这周在 X 上被本地号、城市号反复转。看起来就是官方海报——S 型红绸飘带变成山河，城市地标手绘叠在里面，左下角烫金字 "SPRING 2026"，9:16 竖版。
+                        - generic [ref=e500]: 完整 prompt（青岛版，直接复制）：
+                        - generic [ref=e503]:
+                          - button "复制到剪贴板" [ref=e506] [cursor=pointer]:
+                            - img [ref=e508]
+                          - code [ref=e512]: 一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。双重曝光，构图延续 S 型的流动感；在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山海长卷。在这条"山海"中，叠加了一个有山有海的青岛城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。青岛的地标建筑（栈桥、五四广场、奥帆中心、小青岛灯塔、八大关红瓦建筑群、崂山）。海雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积留白，画面依然显得清新脱俗。左下角排版着"SPRING 2026"和竖排的宣传语，整体寓意"山海之城，魅力青岛"。文字排版优美大方，字迹清晰完整，尺寸 9:16。
+                        - generic [ref=e514]:
+                          - generic [ref=e515]: 怎么改
+                          - generic [ref=e516]: ：把 青岛 替换为你的城市，地标部分换成本地的（北京→故宫/国贸/长城/胡同；成都→太古里/锦江/宽窄巷子/大熊猫；杭州→西湖/雷峰塔/钱塘江/灵隐寺；你家乡→你最想推的三四个点），宣传语一句也一并改。其余句式全部保留。
+                        - link "图像" [ref=e523] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046667647379451904
+                          - generic "图像" [ref=e527]:
+                            - img "图像" [ref=e529]
+                        - generic [ref=e532]: 随手发一张车的图，让GPT-image-2去生成的官网。
+                        - generic [ref=e535]:
+                          - link "图像" [ref=e539] [cursor=pointer]:
+                            - /url: /Formulasearch/article/2046790896482455890/media/2046798892872671233
+                            - generic "图像" [ref=e543]:
+                              - img "图像" [ref=e545]
+                          - generic [ref=e554]:
+                            - generic [ref=e555]: 图片来源于
+                            - link "@op7418" [ref=e557] [cursor=pointer]:
+                              - /url: https://x.com/@op7418
+                              - generic [ref=e558]: "@op7418"
+                        - heading "四、韩国女团 3×3 写真集（一致性）" [level=2] [ref=e560]:
+                          - generic [ref=e562]: 四、韩国女团 3×3 写真集（一致性）
+                        - generic [ref=e564]:
+                          - generic [ref=e565]: 这一类在 X 偶像圈/摄影圈流传最快。9 宫格里同一个 idol 九种姿势，
+                          - generic [ref=e566]: 脸型、发型、服装完全一致
+                          - generic [ref=e567]: ，软光+胶片颗粒，像真·写真集。
+                        - generic [ref=e570]: 完整 prompt（直接复制）：
+                        - generic [ref=e573]:
+                          - button "复制到剪贴板" [ref=e576] [cursor=pointer]:
+                            - img [ref=e578]
+                          - code [ref=e582]: "9:16 vertical — a 3x3 grid collage (nine images) forming a Korean idol portrait photoshoot series. Each frame features the same young Korean female idol, maintaining 100% consistency in facial features, proportions, hairstyle, and identity across all nine shots. Natural, ultra-realistic skin texture, no retouching, no smoothing. Clean idol-style minimal makeup, soft glow, subtle imperfections. Hair: long, voluminous dark hair, slightly tousled, consistent across all frames. Outfit: cohesive Korean idol photoshoot styling — white shirt + short bottoms, same outfit across all frames. Setting: minimal studio or simple indoor environment, plain wall, soft window light, clean background. Lighting: soft diffused natural light, gentle highlights, low contrast, subtle film-like softness. Frame breakdown (3x3 grid): Top row — standing naturally looking slightly away / facing camera casual mid-motion / slight side angle soft gaze. Middle row — looking slightly upward / close-up direct eye contact gentle smile / turning body slightly mid-motion. Bottom row — seated or leaning casually / back partially turned looking over shoulder / standing close to frame soft expression. Mood: Korean idol photobook aesthetic, intimate, soft, natural. Quality: ultra-realistic, 8K detail, subtle analog film grain, natural imperfections, soft dreamy tone."
+                        - generic [ref=e584]:
+                          - generic [ref=e585]: 这一类的技术点在
+                          - generic [ref=e586]: "\"100% consistency\""
+                          - generic [ref=e587]: 这句——它是告诉模型"九张里是同一个人"的关键词。去掉就会跑出九个不同的脸。
+                        - link "图像" [ref=e594] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046667827868770304
+                          - generic "图像" [ref=e598]:
+                            - img "图像" [ref=e600]
+                        - heading "五、广州吃货暴走地图（手绘水彩风，实用+美食双 buff）" [level=2] [ref=e602]:
+                          - generic [ref=e604]: 五、广州吃货暴走地图（手绘水彩风，实用+美食双 buff）
+                        - generic [ref=e606]:
+                          - generic [ref=e607]: 手绘风
+                          - generic [ref=e608]: ，兼具"实用攻略"和"萌系手绘"两个标签，容易被美食号/旅游号二次传播。下面这版是广州，粤菜密度一上来，画面的信息量自动拉满。
+                        - generic [ref=e611]: 完整 prompt（广州版，直接复制）：
+                        - generic [ref=e614]:
+                          - button "复制到剪贴板" [ref=e617] [cursor=pointer]:
+                            - img [ref=e619]
+                          - code [ref=e623]: 一幅手绘风格的城市美食地图，以广州为主题。画面以鸟瞰视角的手绘简化城市地图为底，标注主要道路（如中山路、北京路、天河路）和地标（如广州塔、海心沙、陈家祠、西关大屋、珠江）但不追求精确比例，追求可爱的手绘感。地图上分布着 12 个美食地点的精致手绘小插画：上下九的萝卜牛杂（铁罐内热气腾腾的萝卜和牛杂串，旁边写着"牛杂大王，三十年如一日"）、北京路的广式烧鹅（红亮酥脆的烧鹅挂在档口，旁有酸梅酱，推荐语"街坊口碑，晚去吃不到"）、东山口的艇仔粥（水中摇曳的小船上，热粥冒气，配料丰富，推荐语"早晨一口，精神百倍"）、天河城的煲仔饭（揭开陶瓦煲盖，热气和腊味香气四溢，可见锅巴，推荐语"饭香扑鼻，锅巴一绝"）、西关的双皮奶（一碗凝固光滑的红豆双皮奶用匙羹舀起，推荐语"奶味浓郁，入口即化"）、陈家祠的云吞面（细面上整齐摆放几个鲜虾云吞，汤色清亮，推荐语"弹牙面身，鲜美汤头"）、珠江夜景下的猪脚姜（陶罐内深褐色的甜醋、猪脚和老姜，推荐语"满街飘香，回味无穷"）、广州酒家的早茶推车（各式蒸笼内凤爪、烧卖、虾饺热气腾腾，推荐语"叹茶一盅，美味两件"）、海心沙的马蹄糕（盘中切好的晶莹剔透、有马蹄粒的马蹄糕，推荐语"清甜爽口，夏日必备"）、白云山的肠粉（淋上酱油、皮薄料足的刚出炉肠粉，推荐语"皮薄料足，广州经典"）、广州塔下的白切鸡（摆放整齐皮黄肉白的白切鸡，配姜葱蓉，推荐语"鲜嫩多汁，姜葱是灵魂"）、沙面的干炒牛河（鑊气十足色泽金黄的牛河，牛肉大片，推荐语"鑊气十足，真材实料"）。每个插画约占地图的 5% 面积，旁边用手写体标注店名和推荐语。地图边缘用手绘木棉花、荔枝、龙眼和波浪纹装饰，形成边框。右下角有一个手绘指南针和图例说明。左上角标题"广州 吃货暴走地图"使用胖圆的手绘美术字配木棉花和镬耳墙装饰。整体画风为水彩+彩铅混合的手绘质感，颜色以暖色系（木棉红、姜黄、珠江蓝、翠绿）为主，图片比例横板 16:9。
+                        - generic [ref=e626]: 这个模板的通用性最强——把城市、美食点、标语全部替换，基本可以给任意城市出一张。想做"上海咖啡地图""重庆小面地图""成都火锅地图"，一套做下来是可以当小红书矩阵跑的。
+                        - link "图像" [ref=e633] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046668037734961152
+                          - generic "图像" [ref=e637]:
+                            - img "图像" [ref=e639]
+                        - heading "六、短剧分镜图（同角色 × 12 格，短剧/小说图文化党已在狂抄）" [level=2] [ref=e641]:
+                          - generic [ref=e643]: 六、短剧分镜图（同角色 × 12 格，短剧/小说图文化党已在狂抄）
+                        - generic [ref=e645]:
+                          - generic [ref=e646]: 第四类演示的是"9 宫格里同一个人"，这一类是：
+                          - generic [ref=e647]: 把同一个主角放到 12 个不同场景里做分镜
+                          - generic [ref=e648]: 。过去请分镜师画 12 张统一角色的分镜图，按张收费，随便一单几千起；现在一段 prompt 出 12 格。
+                        - generic [ref=e650]:
+                          - generic [ref=e651]: 这一类在 X 上短剧/AI 影视/小说图文化圈已经转得很凶。下面这一版是一个末日生存题材女主的 12 分镜样例（分 4 组，每组 3 格），你可以
+                          - generic [ref=e652]: 把主角设定、故事线整段换掉
+                          - generic [ref=e653]: ，结构复用。
+                        - generic [ref=e656]: 完整 prompt（直接复制）：
+                        - generic [ref=e659]:
+                          - button "复制到剪贴板" [ref=e662] [cursor=pointer]:
+                            - img [ref=e664]
+                          - code [ref=e668]: 生成一组 12 格短剧分镜插画（4 行 × 3 列，每格编号 1-12），电影感写实插画风，胶片颗粒，冷调雨夜，末日废土氛围。全部 12 格必须保持同一个女主角的面部、发型、体型、服装 100% 一致（ultra-consistent character identity across all 12 frames）。主角设定：亚洲女性，20 多岁，长黑发半扎，脏旧的深灰色工装夹克 + 战术裤 + 军靴，脸上有雨水和灰尘痕迹，眼神疲惫但坚定，左臂包扎。 分镜 1-3：寻找生机 1. 她站在荒废的地铁站外，低头在一部老式手机上寻找紧急广播信号，手机微光映在脸上。 2. 她走进一家破败的便利店，货架倒塌、玻璃碎裂，她在翻找未过期的瓶装水和补给。 3. 便利店的玻璃门透出她的倒影，疲惫神情清晰可见，门外霓虹招牌在雨中微微闪烁。 分镜 4-6：艰难归途与物资盘点 4. 她在被雨水浸湿的斑马线前停下，红灯亮着，街道空无一人，路灯在水面映出倒影。 5. 回到避难所，她把湿漉漉的雨伞靠在门边，肩膀下垂，刚进门的疲态。 6. 昏黄烛光下，她盘腿坐在地上，认真数着带回来的几罐罐头和一瓶水，桌上铺着粗糙的布。 分镜 7-9：信息、伤痛与规划 7. 她守在一台老式无线电旁，侧耳贴近喇叭，在滋滋杂音中寻找外界信号。 8. 她低头小心处理左臂上的伤口，纱布、消毒水摆在旁边，表情隐忍。 9. 她在手电筒微弱的光线下俯身研究一张摊开的城市地图，手指顺着一条撤离路线划过。 分镜 10-12：警觉与再次启程 10. 深夜，窗外一个声响让她瞬间警觉，她一手抓起武器（手枪或短棍），眼神冷峻戒备。 11. 她站在窗前，静静望着外面荒凉潮湿的废土世界，远处是倒塌的楼群剪影。 12. 清晨微光中，她背上厚重的背包，戴上防毒面具，迎着细雨再次踏上旅程，背影坚定。 要求：每格构图饱满、电影感镜头语言（近景/中景/远景交替），冷调色系（墨绿、灰蓝、锈橙点缀），光比强，雨水和湿润质感清晰。主角服装、发型、伤痕位置、面部特征必须全程一致。4 行 × 3 列均匀排版，格与格之间白色细线分隔，左上角有分镜编号 01-12，无额外文字、无水印。画面比例 3:4，整体横版。
+                        - generic [ref=e671]: 这个结构的关键在三件事：
+                        - list [ref=e672]:
+                          - listitem [ref=e673]:
+                            - generic [ref=e674]:
+                              - generic [ref=e675]: 开头那句 ultra-consistent character identity across all 12 frames
+                              - generic [ref=e676]: —— 这是让 12 格里的脸、发型、服装保持一致的核心。
+                          - listitem [ref=e677]:
+                            - generic [ref=e678]:
+                              - generic [ref=e679]: 主角设定单独成段
+                              - generic [ref=e680]: —— 把"长什么样、穿什么、有什么伤"一次写清楚，后面分镜就不用每格重复描述。
+                          - listitem [ref=e681]:
+                            - generic [ref=e682]:
+                              - generic [ref=e683]: 分镜按 4 组 × 3 格写
+                              - generic [ref=e684]: —— 每组有一个小叙事单元（寻找 / 归途 / 规划 / 启程），这样出来的 12 格像真·短剧片头，不是随机拼图。
+                        - generic [ref=e686]:
+                          - generic [ref=e687]: 怎么改成你自己的短剧
+                          - generic [ref=e688]: ：把"末日废土 + 女性生存"这层壳换掉（校园爱情 / 悬疑刑侦 / 古风武侠 / 科幻太空），主角设定段换人，12 格场景重写，其余句式全部保留。一条模板可以吃一个短剧系列的十条片头。
+                        - link "图像" [ref=e695] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046668321022488577
+                          - generic "图像" [ref=e699]:
+                            - img "图像" [ref=e701]
+                        - heading "七、游戏/电影的假截图" [level=2] [ref=e703]:
+                          - generic [ref=e705]: 七、游戏/电影的假截图
+                        - generic [ref=e708]: 一张图骗过玩家和观众。
+                        - generic [ref=e711]:
+                          - button "复制到剪贴板" [ref=e714] [cursor=pointer]:
+                            - img [ref=e716]
+                          - code [ref=e720]: a screenshot from gta 6 with Jason walking in leonida keys
+                        - generic [ref=e723]: 就这一句。出来的画面带游戏 UI、光影、天气，看起来像官方泄露图。想换场景就改地点和动作：driving at night in Port Gellhorn、near the beach with Lucia。
+                        - link "图像" [ref=e730] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046668545040220161
+                          - generic "图像" [ref=e734]:
+                            - img "图像" [ref=e736]
+                        - generic [ref=e739]: 或者换成《流浪地球3》的电影剧照：
+                        - link "图像" [ref=e746] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046668593379659776
+                          - generic "图像" [ref=e750]:
+                            - img "图像" [ref=e752]
+                        - heading "八、建筑师部分：A1 展板 + 大师研究海报" [level=2] [ref=e754]:
+                          - generic [ref=e756]: 八、建筑师部分：A1 展板 + 大师研究海报
+                        - generic [ref=e759]: 我本行是建筑设计。在 X 普通用户里热度不算最高，但在设计圈，设计师又死了一次。
+                        - generic [ref=e762]: 8.1 公共建筑 A1 展板图（青岛海边美术馆示范）
+                        - generic [ref=e765]: 大学建筑学一张 A1 展板图，平均做 2-3 天：效果图 + 总平 + 平立剖 + 分析图 + 爆炸轴测 + 设计说明，六到八种图类型要排在一张纸上。现在一段 prompt 直接出。
+                        - generic [ref=e768]: 完整 prompt（直接复制）：
+                        - generic [ref=e771]:
+                          - button "复制到剪贴板" [ref=e774] [cursor=pointer]:
+                            - img [ref=e776]
+                          - code [ref=e780]: 1. 生成一座公共建筑效果图图片，大型美术馆，“高技派”+“现代主义”，建筑坐落在青岛城市的海边，高角度鸟瞰图，白天下午3点光影效果。 2. 生成该建筑的A1展板图 要有展板图上所有应该有的分析 图类型和分析模块
+                        - blockquote [ref=e781]:
+                          - generic [ref=e782]:
+                            - generic [ref=e783]: 怎么改
+                            - generic [ref=e784]: ：把城市、地段、建筑类型（博物馆 / 图书馆 / 火车站 / 社区中心 / 游客中心）、设计语言（粗野主义 / 新中式 / 参数化 / 解构主义）整段替换就行；四格分析模块（区位 / 流线 / 体量 / 功能）是建筑学科通用套路，保留不动。这套模板够建筑生用一个学期。
+                        - link "图像" [ref=e791] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046668670160576512
+                          - generic "图像" [ref=e795]:
+                            - img "图像" [ref=e797]
+                        - generic [ref=e800]: 8.2 大师海报：柯布西耶与现代建筑
+                        - generic [ref=e803]: 另一种是"建筑大师研究海报"——大师侧脸剪影作画布，他一生的作品沿着时间轴在脸内从下往上堆叠。
+                        - generic [ref=e806]: 完整 prompt（JSON 格式，直接复制；只用 prompt 字段也能跑，negative_prompt 和 parameters 是给支持的接口用的）：
+                        - generic [ref=e809]:
+                          - button "复制到剪贴板" [ref=e812] [cursor=pointer]:
+                            - img [ref=e814]
+                          - code [ref=e818]: "{ \"prompt\": \"A professional cinematic poster titled 'LE CORBUSIER'. The central theme is a complex double exposure effect featuring the side profile silhouette of the architect Le Corbusier, complete with his signature round-framed glasses and a subtle tie. Inside his silhouette, a breathtaking layered composition illustrates the evolution of modern architecture through his key works. At the base, early works like the Villa Savoye are nestled, with a label 'VILLA SAVOYE'. Above it, larger scale projects like the Unité d'Habitation are integrated, labeled 'UNITE D'HABITATION'. Winding through the entire internal landscape is a flowing, glowing path made of architectural plans and sections, labeled 'DEVELOPMENT OF MODERNISM', which connects these early works to his later, more sculptural masterpieces. At the top of the internal landscape, the iconic Notre Dame du Haut, Ronchamp, is depicted, labeled 'NOTRE DAME DU HAUT'. On a higher plateau within the profile, a simplified Chandigarh Palace of Assembly is visible, labeled 'CHANDIGARH ASSEMBLY'. At the bottom center of the entire image, a lone, young observer (perhaps an architectural student with a sketchbook) stands on a rocky mountain peak, looking out over a wide, sun-drenched valley towards a distant modernist city skyline. The background shows a serene sunset over the Swiss Alps and a distant city. The lighting is warm golden hour, creating a futuristic yet historical atmosphere. High-resolution, 8k, hyper-realistic digital art style, clean typography, sharp focus, volumetric lighting. The side icons are replaced with simplified architectural symbols and labels: a cube with 'FORM', a house with 'HUMAN SCALE (MODULOR)', a compass with 'MEASUREMENT', and a world map with 'GLOBAL IMPACT'. The text '1887 - 1965' replaces '2026'. The smaller map at the bottom is a schematic Modulor figure combined with a world map with 'WORLDWIDE'. Bottom text reads: 'SHAPING SPACE. MASTERING LIGHT.'\", \"negative_prompt\": \"blurry, low quality, distorted face, messy text, extra fingers, deformed buildings, dull colors, dark, gloomy, low resolution, watermark, signature, grainy, Apple Park, Stanford, Google Campus, California, Silicon Valley, young Asian man, 2026.\", \"parameters\": { \"aspect_ratio\": \"9:16\", \"style\": \"Cinematic/Digital Art\", \"lighting\": \"Golden Hour / Sunset\", \"composition\": \"Double Exposure / Layered / Hierarchical\" }, \"key_elements\": [ \"Side profile silhouette of Le Corbusier\", \"Villa Savoye\", \"Unité d'Habitation\", \"Notre Dame du Haut, Ronchamp\", \"Chandigarh Palace of Assembly\", \"Flowing path of architectural plans\", \"Young observer on a peak\", \"Modulor figure motif\", \"Modernist architectural iconography\" ] }"
+                        - generic [ref=e820]:
+                          - generic [ref=e821]: 怎么改
+                          - generic [ref=e822]: ：把 LE CORBUSIER 换成你要研究的那位——FRANK LLOYD WRIGHT（配流水别墅 / 古根海姆）/ ZAHA HADID（配 MAXXI / 广州大剧院）/ KENGO KUMA（配竹屋 / 长城脚下的公社）/ WANG SHU（配宁波美术馆 / 中国美院象山）——然后把 key_elements 里的代表作清单和年份也一起换。一晚上能给整个流派做一套海报集。
+                        - link "图像" [ref=e829] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046668901333786625
+                          - generic "图像" [ref=e833]:
+                            - img "图像" [ref=e835]
+                        - heading "九、最大的潜力" [level=2] [ref=e837]:
+                          - generic [ref=e839]: 九、最大的潜力
+                        - generic [ref=e842]: 上面 8 类，已经给人很震撼的感受了——但属于合理升级，看多了，顶多感叹"哇 AI 现在真能画出这种图"。
+                        - generic [ref=e845]: 但第 9 类，是我写这篇文章真正想提的那一类：真实的图片
+                        - generic [ref=e848]: 九、微信聊天截图 / 朋友圈九宫格 / 直播间截图
+                        - generic [ref=e851]: 这一类 prompt 短到一行：
+                        - generic [ref=e854]:
+                          - button "复制到剪贴板" [ref=e857] [cursor=pointer]:
+                            - img [ref=e859]
+                          - code [ref=e863]: 生成一张 iOS 微信聊天截图，对话对象备注为"领导"，时间 23:47，对方发来一句"明早 8 点过来我办公室一下"，气泡旁显示"已读"。
+                        - link "图像" [ref=e870] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046669038491783168
+                          - generic "图像" [ref=e874]:
+                            - img "图像" [ref=e876]
+                        - generic [ref=e879]: 出来的东西：iOS 字体、头像、气泡、时间戳、已读角标全对。不仔细看就是你手机里翻出来的某一段真实对话。
+                        - generic [ref=e882]: 同类还有：
+                        - generic [ref=e885]:
+                          - button "复制到剪贴板" [ref=e888] [cursor=pointer]:
+                            - img [ref=e890]
+                          - code [ref=e894]: 生成一张朋友圈截图，九宫格里是九张不同角度的西湖日落打卡图，配文"赶在 20:00 关园前冲进来，风比想的大一倍"，下面显示 13 个点赞、4 条评论（含 1 条简短回复"哇这天色"）。
+                        - generic [ref=e897]: 56e46d37f1010f6a38a3ce6f4d9c9d6b.png
+                        - link "图像" [ref=e904] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046669179692965888
+                          - generic "图像" [ref=e908]:
+                            - img "图像" [ref=e910]
+                        - generic [ref=e913]:
+                          - button "复制到剪贴板" [ref=e916] [cursor=pointer]:
+                            - img [ref=e918]
+                          - code [ref=e922]: 生成一张抖音直播间，内容是马斯克和库克连麦打pk
+                        - link "图像" [ref=e929] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046800360262582272
+                          - generic "图像" [ref=e933]:
+                            - img "图像" [ref=e935]
+                        - generic [ref=e940]:
+                          - button "复制到剪贴板" [ref=e943] [cursor=pointer]:
+                            - img [ref=e945]
+                          - code [ref=e949]: 9:16 的图片比例，生成一张抖音直播的截图，里面是一位女网红在直播，手里拿着牌子，牌子里写着 今晚直播，欢迎”阿哲@Formulasearch "参与畅聊！
+                        - link "图像" [ref=e956] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046669308508401664
+                          - generic "图像" [ref=e960]:
+                            - img "图像" [ref=e962]
+                        - generic [ref=e965]:
+                          - button "复制到剪贴板" [ref=e968] [cursor=pointer]:
+                            - img [ref=e970]
+                          - code [ref=e974]: 生成一张Grok的小红书界面个人主页截图
+                        - generic [ref=e977]:
+                          - button "复制到剪贴板" [ref=e980] [cursor=pointer]:
+                            - img [ref=e982]
+                          - code [ref=e986]: 生成B站主页面然后直接改图。
+                        - generic [ref=e989]:
+                          - link "图像" [ref=e993] [cursor=pointer]:
+                            - /url: /Formulasearch/article/2046790896482455890/media/2046799520453808128
+                            - generic "图像" [ref=e997]:
+                              - img "图像" [ref=e999]
+                          - generic [ref=e1008]:
+                            - generic [ref=e1009]: 图片来源于
+                            - link "@Khazix0918" [ref=e1011] [cursor=pointer]:
+                              - /url: https://x.com/@Khazix0918
+                              - generic [ref=e1012]: "@Khazix0918"
+                        - heading "十、一个真实的出单，30分钟收入1.2k" [level=2] [ref=e1014]:
+                          - generic [ref=e1016]: 十、一个真实的出单，30分钟收入1.2k
+                        - generic [ref=e1019]: 这几天恰好接到了一个设计中国风卡牌的单子，把初步的需求输入给GPT，然后直接生成图片，并适当调整，在很短的时间内迅速生成了多个方向，多种不同风格的成品，然后简单沟通下，顺利拿下一个外快：
+                        - generic [ref=e1022]:
+                          - button "复制到剪贴板" [ref=e1025] [cursor=pointer]:
+                            - img [ref=e1027]
+                          - code [ref=e1031]: 需求： 卡牌边框设计，五行+神兽为主题，中国传统纹样风格 设计思路： 1. 结构规范：锁定 1:1.7 竖向比例，中心严格留空，确保边框作为 UI 素材的直接可用性。 2. 视觉风格：采用中式传统纹样，色调统一，根据不同的主题选择不同的配色方案。 3. 激活态：目标神兽色彩凸显加重，微光，侧边图案发光。 4. 静默态：其余神兽维持为单色，确保视觉重心不偏移。
+                        - link "图像" [ref=e1038] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046670768197554176
+                          - generic "图像" [ref=e1042]:
+                            - img "图像" [ref=e1044]
+                        - link "图像" [ref=e1051] [cursor=pointer]:
+                          - /url: /Formulasearch/article/2046790896482455890/media/2046671140349792256
+                          - generic "图像" [ref=e1055]:
+                            - img "图像" [ref=e1057]
+                        - heading "！一句提醒：" [level=2] [ref=e1059]:
+                          - generic [ref=e1061]: ！一句提醒：
+                        - generic [ref=e1064]: 一个模型能画出大片不稀奇，但能让人对自己每天刷到的“普通图片”产生怀疑，这是个新的问题。
+                        - generic [ref=e1066]:
+                          - generic [ref=e1067]: 过去做假文档需要 PS 技术、字体库、纸张扫描；做假直播截图需要抠图和拼接。现在，
+                          - generic [ref=e1068]: 几句prompt即可
+                          - generic [ref=e1069]: 。
+                        - generic [ref=e1071]:
+                          - generic [ref=e1072]: ai已经非常强大且大众化，没法阻止任何人用它，但作为一个写内容的人，我也希望给出提醒——
+                          - generic [ref=e1073]: 眼见不一定为真
+                          - generic [ref=e1074]: 。
+                        - heading "最后" [level=2] [ref=e1076]:
+                          - generic [ref=e1078]: 最后
+                        - generic [ref=e1080]:
+                          - generic [ref=e1083]: 🥳
+                          - generic [ref=e1084]: 感谢看到这里，我是 Phil，前建筑师 → AI 产品。
+                        - generic [ref=e1087]: 这波 GPT-Image-2 的众多 prompt，如果你试出来有意思的图，欢迎与大家分享~！如果有合作意向，也欢迎随时私信联系我~
+                        - generic [ref=e1090]: 你最近刷到过哪张图/视频，差点让你以为是真的？
+                      - status [ref=e1092]:
+                        - generic [ref=e1093]:
+                          - img [ref=e1094]
+                          - generic [ref=e1097]:
+                            - generic [ref=e1098]: 想发布自己的文章？
+                            - link "升级为 Premium" [ref=e1099] [cursor=pointer]:
+                              - /url: /i/premium_sign_up
+                  - generic [ref=e1103]:
+                    - link "上午11:19 · 2026年4月22日" [ref=e1105] [cursor=pointer]:
+                      - /url: /Formulasearch/status/2046790896482455890
+                      - time [ref=e1106]: 上午11:19 · 2026年4月22日
+                    - generic [ref=e1107]: ·
+                    - link "46.4万 查看" [ref=e1108] [cursor=pointer]:
+                      - /url: /Formulasearch/status/2046790896482455890/analytics
+                      - generic [ref=e1111]: 46.4万
+                      - generic [ref=e1112]: 查看
+                  - group "34 回复、508 次转帖、2232 喜欢、3579 书签、464278 次观看" [ref=e1115]:
+                    - button "34 回复。回复" [ref=e1117] [cursor=pointer]:
+                      - generic [ref=e1118]:
+                        - img [ref=e1121]
+                        - generic [ref=e1126]: "34"
+                    - button "508 次转帖。转帖" [ref=e1128] [cursor=pointer]:
+                      - generic [ref=e1129]:
+                        - img [ref=e1132]
+                        - generic [ref=e1137]: "508"
+                    - button "2232 喜欢次数。喜欢" [ref=e1139] [cursor=pointer]:
+                      - generic [ref=e1140]:
+                        - img [ref=e1143]
+                        - generic [ref=e1148]: 2,232
+                    - button "3579 书签。加入书签" [ref=e1150] [cursor=pointer]:
+                      - generic [ref=e1151]:
+                        - img [ref=e1154]
+                        - generic [ref=e1159]: 3,579
+                    - button "分享帖子" [ref=e1162] [cursor=pointer]:
+                      - img [ref=e1166]
+                  - button "查看 34 条回复" [ref=e1169] [cursor=pointer]:
+                    - generic [ref=e1170]:
+                      - img [ref=e1171]
+                      - generic [ref=e1175]: 查看 34 条回复
+      - generic "当前趋势" [ref=e1180]:
+        - generic [ref=e1181]:
+          - region "注册" [ref=e1183]:
+            - heading "X 的新用户？" [level=2] [ref=e1185]:
+              - generic [ref=e1186]: X 的新用户？
+            - generic [ref=e1187]: 立即注册，获取你自己的个性化时间线！
+            - generic [ref=e1188]:
+              - iframe [ref=e1191]:
+                - button "使用 Google 账号注册。在新标签页中打开" [ref=f4e3] [cursor=pointer]:
+                  - generic [ref=f4e5]:
+                    - img [ref=f4e7]
+                    - generic [ref=f4e14]: 使用 Google 账号注册
+              - button "使用 Apple 注册" [ref=e1192] [cursor=pointer]:
+                - generic [ref=e1193]:
+                  - img [ref=e1194]
+                  - generic [ref=e1198]: 使用 Apple 注册
+              - link "创建账号" [ref=e1199] [cursor=pointer]:
+                - /url: /i/flow/signup
+                - generic [ref=e1202]: 创建账号
+            - generic [ref=e1203]:
+              - text: 注册即表示同意
+              - link "服务条款" [ref=e1204] [cursor=pointer]:
+                - /url: https://x.com/tos
+              - text: 及
+              - link "隐私政策" [ref=e1205] [cursor=pointer]:
+                - /url: https://x.com/privacy
+              - text: ，其中包括
+              - link "Cookie 使用条款" [ref=e1206] [cursor=pointer]:
+                - /url: https://help.x.com/rules-and-policies/twitter-cookies
+              - text: 。
+          - complementary "相关用户" [ref=e1208]:
+            - heading "相关用户" [level=2] [ref=e1210]:
+              - generic [ref=e1211]: 相关用户
+            - list [ref=e1212]:
+              - listitem [ref=e1213] [cursor=pointer]:
+                - generic [ref=e1214]:
+                  - link [ref=e1224]:
+                    - /url: /Formulasearch
+                  - generic [ref=e1227]:
+                    - generic [ref=e1228]:
+                      - generic [ref=e1230]:
+                        - link "Philip Van 认证账号" [ref=e1232]:
+                          - /url: /Formulasearch
+                          - generic [ref=e1233]:
+                            - generic [ref=e1235]: Philip Van
+                            - img "认证账号" [ref=e1238]
+                        - link "@Formulasearch" [ref=e1243]:
+                          - /url: /Formulasearch
+                          - generic [ref=e1245]: "@Formulasearch"
+                      - button "关注 @Formulasearch" [ref=e1247]:
+                        - generic [ref=e1250]: 关注
+                    - generic [ref=e1251]:
+                      - img "👤" [ref=e1252]
+                      - text: 嗨~，我是阿哲
+                      - img "🏗️" [ref=e1253]
+                      - text: 前建筑师 → AI 产品
+                      - img "🧠" [ref=e1254]
+                      - text: INTP｜跨界视角理解 AI 与系统
+                      - img "🛠️" [ref=e1255]
+                      - text: 持续更新：AI 工具教程｜工作流实战｜产品复盘
+          - generic [ref=e1257]:
+            - generic [ref=e1258]: 出错了。请尝试重新加载。
+            - button "重试" [ref=e1259] [cursor=pointer]:
+              - generic [ref=e1260]:
+                - img [ref=e1261]
+                - generic [ref=e1265]: 重试
+          - navigation "页脚" [ref=e1267]:
+            - generic [ref=e1268]:
+              - link "服务条款" [ref=e1269] [cursor=pointer]:
+                - /url: https://x.com/tos
+              - generic [ref=e1270]: "|"
+            - generic [ref=e1271]:
+              - link "隐私政策" [ref=e1272] [cursor=pointer]:
+                - /url: https://x.com/privacy
+              - generic [ref=e1273]: "|"
+            - generic [ref=e1274]:
+              - link "Cookie 政策" [ref=e1275] [cursor=pointer]:
+                - /url: https://support.x.com/articles/20170514
+              - generic [ref=e1276]: "|"
+            - generic [ref=e1277]:
+              - link "辅助功能" [ref=e1278] [cursor=pointer]:
+                - /url: https://help.x.com/resources/accessibility
+              - generic [ref=e1279]: "|"
+            - generic [ref=e1280]:
+              - link "广告信息" [ref=e1281] [cursor=pointer]:
+                - /url: https://business.x.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+              - generic [ref=e1282]: "|"
+            - button "更多" [ref=e1283] [cursor=pointer]:
+              - generic [ref=e1284]:
+                - text: 更多
+                - img [ref=e1285]
+            - generic [ref=e1288]: © 2026 X Corp.
