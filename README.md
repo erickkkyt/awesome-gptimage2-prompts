@@ -4,12 +4,12 @@
 # Awesome GPT-Image-2 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Pairs](https://img.shields.io/badge/Pairs-309-black)
+![Pairs](https://img.shields.io/badge/Pairs-393-black)
 ![Model](https://img.shields.io/badge/Model-GPT--Image--2-black)
 
-> Scroll through 248 source-post cards and 309 curated GPT-Image-2 results, open any card, and copy the prompt directly into your own image workflow.
+> Scroll through 315 source-post cards and 393 curated GPT-Image-2 results, open any card, and copy the prompt directly into your own image workflow.
 
-Gallery build date: 2026-04-25. Latest source post date: 2026-04-25.
+Gallery build date: 2026-04-27. Latest source post date: 2026-04-27.
 
 [Browse Collection](./collections/gpt-image-2-prompt/README.md) • [Download JSON](./prompts/prompts.json)
 
@@ -29,54 +29,189 @@ The homepage is intentionally long and visual so GitHub visitors can keep scroll
 
 | Metric | Count |
 | --- | ---: |
-| Source-post cards | 248 |
-| Prompt-image pairs | 309 |
+| Source-post cards | 315 |
+| Prompt-image pairs | 393 |
 
 ## Recent Highlights
 
-- `London Graduation Silhouette Poster`: Create a collectible epic narrative graduation poster based on my portrait reference. Use a giant refined side-profile silhouette of my f...
-- `American Graduation Silhouette Poster`: Create a collectible epic narrative graduation poster based on my portrait reference. Use a massive elegant side-profile silhouette of my...
-- `Singapore Graduation Silhouette Poster`: Create a collectible epic narrative graduation poster based on my portrait reference. Use a huge side-profile silhouette of my face as th...
-- `Architectural Blueprint Maple Fashion Portrait`: A high-fashion cinematic portrait of a young woman with a thoughtful expression, looking slightly upward. The image is a deconstructed mu...
-- `Crispy Fried Chicken Bucket Ad`: A cinematic food advertisement featuring a red and white striped paper chicken bucket overflowing with golden crispy fried chicken pieces...
-- `Hairstyle Analysis Chart`: Create a hairstyle analysis chart using this portrait. Show side-by-side hairstyle comparisons to highlight which hairstyles suit the sub...
-- `Hand Drawn Educational Infographic`: Create a one-page hand-drawn educational infographic. Style: Warm cream paper background (#F5F0E8), clean sketchnote style with slight ha...
-- `Japanese Cafe Apron Portrait`: 日本人の20代女性 黒髪ポニーテール、女性らしい体型、引き締まったくびれ ナチュラルメイク、均一で滑らかな肌、きめ細かく透明感のある肌質 エプロンとプリーツミニスカート（シワのない滑らかな生地、ハリのある均一な素材感）、白いチャンキースニーカー 明るいカフェの店内、木目調の...
-- `Japanese Negative Film Window Portrait`: Japanese negative film aesthetic, quiet summer afternoon, natural candid moment, soft sunlight through window, slight overexposure highli...
+- `Beauty Product Promotional Photo`: Photorealistic close-up beauty campaign portrait of a stunning young Western woman with long, voluminous curly dark hair, defined cheekbo...
+- `Embroidered Birds Silk Relief Illustration`: 精致立体刺绣风插画，浅浮雕纤维艺术效果，纯净「蚕丝白 + 奶白」底色，细腻丝线质感。画面为数只小鸟停在蜿蜒花枝上，周围点缀粉白、浅桃、珊瑚粉、淡金色花朵与叶片，构图轻盈雅致、留白充足。鸟儿羽毛以奶白、浅蓝、淡粉、浅金丝线刺绣表现，花枝纤细自然，花朵层层叠线，整体呈现高级手工...
+- `Poster Layout Test`: GPT Image 2 Test / Poster Layout ロゴ配置や全体のレイアウトを含めた、告知ポスター形式のテスト出力。 『恋色ハレーション』をテーマに、最新モデルの総合的な表現力を検証。 参照画像渡してリリース告知ポスター作ってでこの出力 #HISA_SOUN...
+- `Singapore Team Realistic Photo Case`: Had a great friday with the @devfolio team in sunny, rainy, and slightly hazy Singapore This was definitely real and not me trying GPT Im...
+- `Suppress Fragmented Rendering Negative Prompt`: Finally managed to suppress the fragmented rendering in GPT Image 2. The stability isn’t quite there yet, but it’s definitely usable now....
+- `Luxury Tech Fashion Camera Campaign`: Luxury tech fashion campaign, oversized professional telephoto camera lens placed horizontally like a sculptural object, female model in...
 
 ## Cover Gallery
 
 | 1 | 2 | 3 |
 | --- | --- | --- |
 | <a href="#lego-poster-every-us-president-by-year"><img src="assets/gpt-image-2-x-discussions/lego-poster-every-us-president-by-year-1.jpg" alt="Lego Poster Every Us President By Year" width="280"></a> | <a href="#japanese-onsen-ryokan-portrait"><img src="assets/gpt-image-2-x-discussions/japanese-onsen-ryokan-portrait-1.jpg" alt="Japanese Onsen Ryokan Portrait" width="280"></a> | <a href="#gorilla-knowledge-worker-movie-poster"><img src="assets/gpt-image-2-x-discussions/gorilla-knowledge-worker-movie-poster-1.jpg" alt="Gorilla Knowledge Worker Movie Poster" width="280"></a> |
-| <a href="#a16z-podcast-youtube-screengrab"><img src="assets/gpt-image-2-x-discussions/a16z-podcast-youtube-screengrab-1.jpg" alt="A16Z Podcast Youtube Screengrab" width="280"></a> | <a href="#capless-perfume-bottle"><img src="assets/gpt-image-2-x-discussions/capless-perfume-bottle-1.jpg" alt="Capless Perfume Bottle" width="280"></a> | <a href="#biological-life-cycle-diagram"><img src="assets/gpt-image-2-x-discussions/biological-life-cycle-diagram-1.jpg" alt="Biological Life Cycle Diagram" width="280"></a> |
-| <a href="#censored-samurai-engraving"><img src="assets/gpt-image-2-x-discussions/censored-samurai-engraving-1.jpg" alt="Censored Samurai Engraving" width="280"></a> | <a href="#2026-nine-palaces-flying-star-chart"><img src="assets/gpt-image-2-x-discussions/2026-nine-palaces-flying-star-chart-1.jpg" alt="2026 Nine Palaces Flying Star Chart" width="280"></a> | <a href="#tim-cook-apple-park-keynote"><img src="assets/gpt-image-2-x-discussions/tim-cook-apple-park-keynote-1.jpg" alt="Tim Cook Apple Park Keynote" width="280"></a> |
+| <a href="#a16z-podcast-youtube-screengrab"><img src="assets/gpt-image-2-x-discussions/a16z-podcast-youtube-screengrab-1.jpg" alt="A16Z Podcast Youtube Screengrab" width="280"></a> | <a href="#capless-perfume-bottle"><img src="assets/gpt-image-2-x-discussions/capless-perfume-bottle-1.jpg" alt="Capless Perfume Bottle" width="280"></a> | <a href="#ai-image-generation-process-infographic"><img src="assets/gpt-image-2-x-discussions/ai-image-generation-process-infographic-1.jpg" alt="Ai Image Generation Process Infographic" width="280"></a> |
+| <a href="#biological-life-cycle-diagram"><img src="assets/gpt-image-2-x-discussions/biological-life-cycle-diagram-1.jpg" alt="Biological Life Cycle Diagram" width="280"></a> | <a href="#2026-nine-palaces-flying-star-chart"><img src="assets/gpt-image-2-x-discussions/2026-nine-palaces-flying-star-chart-1.jpg" alt="2026 Nine Palaces Flying Star Chart" width="280"></a> | <a href="#tim-cook-apple-park-keynote"><img src="assets/gpt-image-2-x-discussions/tim-cook-apple-park-keynote-1.jpg" alt="Tim Cook Apple Park Keynote" width="280"></a> |
 
 ## Browse Prompts
 
-### #1 London Graduation Silhouette Poster
+### #1 Beauty Product Promotional Photo
 
-<img src="assets/gpt-image-2-x-discussions/london-graduation-silhouette-poster-1.png" alt="London Graduation Silhouette Poster" width="440">
+<img src="assets/gpt-image-2-x-discussions/beauty-product-promotional-photo-1.jpg" alt="Beauty Product Promotional Photo" width="440">
 
-- **Author:** [GPTIMG2 AI](https://x.com/gptimg2-ai)
-- **Source:** User-provided local reference
-- **Published:** April 25, 2026
+- **Author:** [Shinning](https://x.com/Shinning1010)
+- **Source:** [X](https://x.com/Shinning1010/status/2048663549413921103)
+- **Published:** April 27, 2026
 - **Languages:** en
 
 **Prompt:**
 
 ```text
-Create a collectible epic narrative graduation poster based on my portrait reference. Use a giant refined side-profile silhouette of my face as the outer contour, calm and iconic. Inside the silhouette, organically form a complete London international student graduation world: an old university courtyard after rain, graduates in gowns crossing cobblestone streets, Gothic arches, stone libraries, red double-decker buses passing in the distance, the River Thames as a silver memory line, Big Ben silhouette, Tower Bridge, soft London fog, autumn leaves, black umbrellas, warm windows of study rooms, handwritten essays, old books, a graduation cap, train tickets, coffee cups, and small symbolic details of loneliness, ambition, friendship, and becoming independent abroad. The internal world must be strongly tied to London and graduation, instantly recognizable but elegant, not touristy or overcrowded. The image should not be a simple collage; it should be a high-end silhouette-contour-filled narrative composition, with double exposure associations, cinematic poster structure, and dreamy watercolor illustration texture. Use soft atmospheric perspective, misty transitions, paper grain, dry brush edges, delicate ink bleeding, restrained negative space, quiet monumental composition, poetic nostalgia, sacred coming-of-age feeling, and a sense of legendary personal history. Color palette: London fog gray, muted navy, antique gold, warm window amber, stone beige, rainy blue, subtle burgundy accents. The mood should feel literary, melancholic, noble, academic, and timeless. If typography appears, use English only. Suggested title: “WHEN THE CITY TAUGHT ME TO BEGIN”. Small subtitle: “London Graduation Memory”. Use minimal premium serif typography, understated and cinematic. Avoid messy collage, avoid cheap fantasy, avoid random castles, avoid exaggerated tourist postcard style, avoid exact university logos, avoid overfilled background, avoid text mistakes, avoid distorted architecture, avoid low-quality AI poster aesthetics.
+Photorealistic close-up beauty campaign portrait of a stunning young Western woman with long, voluminous curly dark hair, defined cheekbones, thick expressive eyebrows, and flawless luminous skin. Her features are sharp yet feminine, with a confident, slightly rebellious expression. She wears a premium black and hot-pink baseball cap featuring bold, glowing hot-pink 3D lettering “SHARON” on the front, designed like a high-end streetwear brand logo. Trendy translucent pink-tinted round glasses sit perfectly on her face. A beige band-aid is placed on the bridge of her nose and another on her left cheek, adding a stylized edgy aesthetic. A lit cigarette rests between her slightly parted lips, revealing perfect white teeth. Highly detailed miniature anime-style figurines (cute detective-inspired girl character: short brown bob haircut, oversized sparkling blue eyes, round glasses, bright red overalls, white shirt, yellow gloves) interact playfully across the composition: one sitting on the brim of the cap, one climbing her ear, one pulling her lower lip, one tucked inside her shirt collar, and one posed on her shoulder. A bold, oversized cyan pencil is tucked under the cap strap, acting as a striking graphic element. Wardrobe styling: luxury streetwear aesthetic — black structured jacket layered over a crisp white-and-pink striped collared shirt, finished with a neatly tied pink scarf. Color palette: deep blacks, vibrant hot-pink highlights, electric cyan accents, and warm yellow pops for contrast. Lighting: high-end studio lighting with soft frontal illumination and dramatic rim lighting for depth and separation. Clean white seamless background. Composition: ultra-sharp focus, editorial framing, luxury fashion advertisement style, cinematic depth, hyper-realistic textures (visible skin pores, detailed fabric weave, individual hair strands), 8K resolution, extremely intricate detailing. Mood: bold, playful, high-fashion, Gen-Z luxury streetwear campaign, blending realism with surreal miniature storytelling.
 ```
 
 ---
 
-### #2 American Graduation Silhouette Poster
+### #2 Embroidered Birds Silk Relief Illustration
+
+<img src="assets/gpt-image-2-x-discussions/embroidered-birds-silk-relief-illustration-1.jpg" alt="Embroidered Birds Silk Relief Illustration" width="440">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2048529821706195442)
+- **Published:** April 27, 2026
+- **Languages:** zh
+
+**Prompt:**
+
+```text
+精致立体刺绣风插画，浅浮雕纤维艺术效果，纯净「蚕丝白 + 奶白」底色，细腻丝线质感。画面为数只小鸟停在蜿蜒花枝上，周围点缀粉白、浅桃、珊瑚粉、淡金色花朵与叶片，构图轻盈雅致、留白充足。鸟儿羽毛以奶白、浅蓝、淡粉、浅金丝线刺绣表现，花枝纤细自然，花朵层层叠线，整体呈现高级手工刺绣、丝线堆绣、柔和光影、细节丰富、温柔清新的艺术效果。
+```
+
+---
+
+### #3 Poster Layout Test
+
+| View 1 | View 2 |
+| --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/poster-layout-test-1.jpg" alt="Poster Layout Test 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/poster-layout-test-2.jpg" alt="Poster Layout Test 2" width="220"> |
+
+- **Author:** [HISA_SOUNDS // LAB](https://x.com/HISA_SOUNDS)
+- **Source:** [X](https://x.com/HISA_SOUNDS/status/2048662299787804723)
+- **Published:** April 27, 2026
+- **Languages:** ja, en
+
+**Prompt:**
+
+```text
+GPT Image 2 Test / Poster Layout ロゴ配置や全体のレイアウトを含めた、告知ポスター形式のテスト出力。 『恋色ハレーション』をテーマに、最新モデルの総合的な表現力を検証。 参照画像渡してリリース告知ポスター作ってでこの出力 #HISA_SOUNDS #恋色ハレーション #GPTImage2 #ポスターデザイン
+```
+
+---
+
+### #4 Singapore Team Realistic Photo Case
+
+<img src="assets/gpt-image-2-x-discussions/singapore-team-realistic-photo-case-1.jpg" alt="Singapore Team Realistic Photo Case" width="540">
+
+- **Author:** [fishbiscuit (LinkedIn Arc)](https://x.com/not_qz)
+- **Source:** [X](https://x.com/not_qz/status/2048661272108187969)
+- **Published:** April 27, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Had a great friday with the @devfolio team in sunny, rainy, and slightly hazy Singapore This was definitely real and not me trying GPT Image 2
+```
+
+---
+
+### #5 Suppress Fragmented Rendering Negative Prompt
+
+<img src="assets/gpt-image-2-x-discussions/suppress-fragmented-rendering-negative-prompt-1.jpg" alt="Suppress Fragmented Rendering Negative Prompt" width="360">
+
+- **Author:** [莉卡啵啵](https://x.com/licca_bobo)
+- **Source:** [X](https://x.com/licca_bobo/status/2048660771618562502)
+- **Published:** April 27, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Finally managed to suppress the fragmented rendering in GPT Image 2. The stability isn’t quite there yet, but it’s definitely usable now. With the noise brought down, the next thing to tackle is the ratio of residual micro-line details. In essence, it’s about minimizing any chance for the model to “fill space with noise.” Next step is to test whether I can complete the entire deck of playing cards under this setup. I’ll drop the full negative prompt in the comments — have fun experimenting ✦ #GPT_Image2
+```
+
+---
+
+### #6 Luxury Tech Fashion Camera Campaign
+
+<img src="assets/gpt-image-2-x-discussions/luxury-tech-fashion-camera-campaign-1.jpg" alt="Luxury Tech Fashion Camera Campaign" width="540">
+
+- **Author:** [Synthia](https://x.com/AIwithSynthia)
+- **Source:** [X](https://x.com/AIwithSynthia/status/2048229413108719653)
+- **Published:** April 26, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Luxury tech fashion campaign, oversized professional telephoto camera lens placed horizontally like a sculptural object, female model in white shorts and fitted crop top sitting confidently on the lens, one leg bent and one extended downward, sleek ponytail, athletic yet elegant pose, minimal dark studio background, bold oversized typography “FOCUS” behind the model in modern condensed font, glossy reflective floor, cinematic lighting with soft highlights and deep shadows, ultra-clean composition, high-end editorial aesthetic, product integrated naturally with model posture, sharp details, 1:1
+```
+
+---
+
+### #7 Minimal Clay 3D Render Template
+
+<img src="assets/gpt-image-2-x-discussions/minimal-clay-3d-render-template-1.jpg" alt="Minimal Clay 3D Render Template" width="540">
+
+- **Author:** [Ciri](https://x.com/Ciri_ai)
+- **Source:** [X](https://x.com/Ciri_ai/status/2048388516665852371)
+- **Published:** April 26, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+A minimalist 3D render of a [SUBJECT], featuring a soft, smooth clay-like texture, centered and subtly floating. Set against a solid pastel [COLOR] background. Illuminated with soft, diffused studio lighting to enhance clean lines and simple forms. The composition emphasizes a modern, uncluttered aesthetic with a cheerful, approachable tone. High resolution, square format (1:1 aspect ratio)
+```
+
+---
+
+### #8 Safety Goggles Motion Blur Portrait
+
+<img src="assets/gpt-image-2-x-discussions/safety-goggles-motion-blur-portrait-1.jpg" alt="Safety Goggles Motion Blur Portrait" width="360">
+
+- **Author:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
+- **Source:** [X](https://x.com/saniaspeaks_/status/2048431408318705733)
+- **Published:** April 26, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+portrait of a young woman with short curly black hair and fair skin, wearing transparent safety goggles and a blue ribbed turtleneck sweater, seated in front of a solid azure blue background, double-exposure motion blur effect to the left side of the face, subtle soft reflections on the glasses, cold ambient lighting, high sharpness on facial features with dreamlike blur trail overlaying second face, fashion editorial studio setup, icy color palette, futuristic retro mood.
+```
+
+---
+
+### #9 Ultra Wide Fisheye Street Portrait
+
+<img src="assets/gpt-image-2-x-discussions/ultra-wide-fisheye-street-portrait-1.jpg" alt="Ultra Wide Fisheye Street Portrait" width="620">
+
+- **Author:** [Aijaz](https://x.com/iamsofiaijaz)
+- **Source:** [X](https://x.com/iamsofiaijaz/status/2048367604574908593)
+- **Published:** April 26, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Prompt Make an Ultra-wide fisheye lens perspective shot from ground level looking straight up at a young women crouching mid-air between brick buildings forming a circular frame around the sky. She reaches one hand dramatically toward the camera, fingers spread wide, creating strong foreground distortion and depth. Dynamic action pose, confident expression, casual streetwear outfit: fitted white t-shirt, blue straight-leg jeans, red and white sneakers. Urban European neighborhood setting with brick houses, tiled roofs, windows visible around the edges. Bright daylight, clear blue sky, natural lighting, sharp focus, high detail, cinematic composition, exaggerated perspective, 8k resolution, photorealistic, adventure photography style.
+```
+
+---
+
+### #10 American Graduation Silhouette Poster
 
 <img src="assets/gpt-image-2-x-discussions/american-graduation-silhouette-poster-1.png" alt="American Graduation Silhouette Poster" width="440">
 
 - **Author:** [GPTIMG2 AI](https://x.com/gptimg2-ai)
-- **Source:** User-provided local reference
+- **Source:** [X](local-user-reference)
 - **Published:** April 25, 2026
 - **Languages:** en
 
@@ -88,12 +223,138 @@ Create a collectible epic narrative graduation poster based on my portrait refer
 
 ---
 
-### #3 Singapore Graduation Silhouette Poster
+### #11 Candid Bedroom Selfie
+
+<img src="assets/gpt-image-2-x-discussions/candid-bedroom-selfie-1.jpg" alt="Candid Bedroom Selfie" width="440">
+
+- **Author:** [Charlie Hills](https://x.com/charliejhills)
+- **Source:** [X](https://x.com/charliejhills/status/2047969988368314526)
+- **Published:** April 25, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+GPT Image 2.0 just dropped. And it absolutely smokes Nano Banana 2. I ran the exact same prompt on both models. Look at the difference. Here's the exact prompt: "Candid selfie of a young woman with shoulder-length honey-blonde hair with lighter highlights, green-grey eyes, rosy cheeks, and a natural no-makeup makeup look. She is wearing a light grey hoodie and looking slightly off-camera with a relaxed expression. Background shows a cosy bedroom with warm fairy lights strung on a pink wall, a unmade bed with tan bedding, and a small white desk with stacked books. Soft, warm ambient lighting. Photo-realistic, casual, intimate feel." GPT Image 2.0 is on top. Nano Banana 2 is on the bottom. The gap is not small. Try it yourself. You'll see. Repost to help your network.
+```
+
+---
+
+### #12 Candid Recording Portrait
+
+<img src="assets/gpt-image-2-x-discussions/candid-recording-portrait-1.jpg" alt="Candid Recording Portrait" width="360">
+
+- **Author:** [K](https://x.com/ChillaiKalan__)
+- **Source:** [X](https://x.com/ChillaiKalan__/status/2047862141894681076)
+- **Published:** April 25, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+GPT Image 2 and Seedance 2.0 on Higgsfield Prompt: A realistic young woman sitting casually in a softly lit bedroom during late afternoon. She is holding her phone very close to her face as if recording a private video or voice note. Framing is tight and slightly imperfect. Expression: thoughtful, slightly shy, natural. Minimal makeup, natural skin texture, relaxed clothing. Lighting: warm natural light fading from a window, soft shadows. Environment: simple bedroom, calm and lived-in. Style: ultra-realistic, looks like a real phone recording, slightly grainy, not cinematic. 0:08
+```
+
+---
+
+### #13 Costco Merch Concept Posters
+
+| View 1 | View 2 | View 3 |
+| --- | --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/costco-merch-concept-posters-1.jpg" alt="Costco Merch Concept Posters 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/costco-merch-concept-posters-2.jpg" alt="Costco Merch Concept Posters 2" width="220"> | <img src="assets/gpt-image-2-x-discussions/costco-merch-concept-posters-3.jpg" alt="Costco Merch Concept Posters 3" width="220"> |
+| <img src="assets/gpt-image-2-x-discussions/costco-merch-concept-posters-4.jpg" alt="Costco Merch Concept Posters 4" width="220"> |   |   |
+
+- **Author:** [Darren Louie](https://x.com/DarrenThunder)
+- **Source:** [X](https://x.com/DarrenThunder/status/2047915309055811997)
+- **Published:** April 25, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Dream job is to be in charge of merch at Costco. I think I nailed it. Y'all shouldn't have given me gpt image 2
+```
+
+---
+
+### #14 Cyberpunk Sci Fi Profile
+
+<img src="assets/gpt-image-2-x-discussions/cyberpunk-sci-fi-profile-1.jpg" alt="Cyberpunk Sci Fi Profile" width="440">
+
+- **Author:** [Aijaz](https://x.com/iamsofiaijaz)
+- **Source:** [X](https://x.com/iamsofiaijaz/status/2047882171336253928)
+- **Published:** April 25, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+GPT Image 2 on ChatGPT app. Prompt: A cinematic side-profile portrait of a rugged man with a tied-back bun and full beard, wearing round dark sunglasses and a textured leather jacket. His skin is detailed and slightly weathered. The background is a futuristic sci-fi interface filled with glowing orange and red data streams, star maps, celestial navigation diagrams, grids, and holographic UI elements. Fiery particle effects and ember-like energy swirl around him, creating a cosmic, high-tech atmosphere. Dark color palette with strong contrast, dramatic lighting, ultra-detailed, sharp focus, 8K, cyberpunk aesthetic, cinematic composition, depth of field.
+```
+
+---
+
+### #15 London Graduation Silhouette Poster
+
+<img src="assets/gpt-image-2-x-discussions/london-graduation-silhouette-poster-1.png" alt="London Graduation Silhouette Poster" width="440">
+
+- **Author:** [GPTIMG2 AI](https://x.com/gptimg2-ai)
+- **Source:** [X](local-user-reference)
+- **Published:** April 25, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Create a collectible epic narrative graduation poster based on my portrait reference. Use a giant refined side-profile silhouette of my face as the outer contour, calm and iconic. Inside the silhouette, organically form a complete London international student graduation world: an old university courtyard after rain, graduates in gowns crossing cobblestone streets, Gothic arches, stone libraries, red double-decker buses passing in the distance, the River Thames as a silver memory line, Big Ben silhouette, Tower Bridge, soft London fog, autumn leaves, black umbrellas, warm windows of study rooms, handwritten essays, old books, a graduation cap, train tickets, coffee cups, and small symbolic details of loneliness, ambition, friendship, and becoming independent abroad. The internal world must be strongly tied to London and graduation, instantly recognizable but elegant, not touristy or overcrowded. The image should not be a simple collage; it should be a high-end silhouette-contour-filled narrative composition, with double exposure associations, cinematic poster structure, and dreamy watercolor illustration texture. Use soft atmospheric perspective, misty transitions, paper grain, dry brush edges, delicate ink bleeding, restrained negative space, quiet monumental composition, poetic nostalgia, sacred coming-of-age feeling, and a sense of legendary personal history. Color palette: London fog gray, muted navy, antique gold, warm window amber, stone beige, rainy blue, subtle burgundy accents. The mood should feel literary, melancholic, noble, academic, and timeless. If typography appears, use English only. Suggested title: “WHEN THE CITY TAUGHT ME TO BEGIN”. Small subtitle: “London Graduation Memory”. Use minimal premium serif typography, understated and cinematic. Avoid messy collage, avoid cheap fantasy, avoid random castles, avoid exaggerated tourist postcard style, avoid exact university logos, avoid overfilled background, avoid text mistakes, avoid distorted architecture, avoid low-quality AI poster aesthetics.
+```
+
+---
+
+### #16 Musician Leaving Bodega
+
+| View 1 | View 2 |
+| --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/musician-leaving-bodega-1.jpg" alt="Musician Leaving Bodega 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/musician-leaving-bodega-2.jpg" alt="Musician Leaving Bodega 2" width="220"> |
+
+- **Author:** [Ashish Sheth](https://x.com/commanderdgr8)
+- **Source:** [X](https://x.com/commanderdgr8/status/2047934886124867684)
+- **Published:** April 25, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+The Battle Of the Giants. Nano Banana Pro vs GPT Image 2. Which one wins? Let me know: Prompt: A candid, magazine-cover quality documentary photograph of a young musician with curly hair, casually carrying a worn guitar case, stepping out of a classic downtown bodega at 11 PM. The lighting features a complex mixed color temperature: a bright neon "OPEN" sign casts an intense, warm red glow across his face, while a yellow streetlamp provides a striking backlight behind him. The image perfectly emulates 35mm film shot on a Canon AE-1 with a 50mm f/1.4 lens wide open, exhibiting a shallow depth of field with the background beautifully blurred. It captures the exact aesthetics of CineStill 800T film, specifically featuring the distinctive soft red halation bloom radiating outward from the neon light sources, a tungsten white balance, and moody, slightly green-tinted shadows in the darkest areas. Cinematic night photography, photorealistic, highly detailed.
+```
+
+---
+
+### #17 Old Delhi Sweet Shop
+
+| View 1 | View 2 |
+| --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/old-delhi-sweet-shop-1.jpg" alt="Old Delhi Sweet Shop 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/old-delhi-sweet-shop-2.jpg" alt="Old Delhi Sweet Shop 2" width="220"> |
+
+- **Author:** [Ashish Sheth](https://x.com/commanderdgr8)
+- **Source:** [X](https://x.com/commanderdgr8/status/2047889839123521635)
+- **Published:** April 25, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Which one wins? Nano Banana Pro GPT Image 2. Let's find out. Prompt: Create a photorealistic travel-documentary image of a small sweet-shop storefront in Old Delhi at midday. A painted shop signboard above the door reads "मिठाई की दुकान" in large bold yellow hand-painted Devanagari on a deep red background, with "SWEET SHOP" in smaller roman letters beneath. Realistic hand-painted texture, slight wear, natural shadow. Authentic script proportion. Spelling and characters exact. No extra signage in frame, no watermark.
+```
+
+---
+
+### #18 Singapore Graduation Silhouette Poster
 
 <img src="assets/gpt-image-2-x-discussions/singapore-graduation-silhouette-poster-1.png" alt="Singapore Graduation Silhouette Poster" width="440">
 
 - **Author:** [GPTIMG2 AI](https://x.com/gptimg2-ai)
-- **Source:** User-provided local reference
+- **Source:** [X](local-user-reference)
 - **Published:** April 25, 2026
 - **Languages:** en
 
@@ -105,7 +366,24 @@ Create a collectible epic narrative graduation poster based on my portrait refer
 
 ---
 
-### #4 Architectural Blueprint Maple Fashion Portrait
+### #19 Toddler Crayon Scribble Art
+
+<img src="assets/gpt-image-2-x-discussions/toddler-crayon-scribble-art-1.jpg" alt="Toddler Crayon Scribble Art" width="540">
+
+- **Author:** [きらりあ・ネオン](https://x.com/akakageAI)
+- **Source:** [X](https://x.com/akakageAI/status/2047812983389356276)
+- **Published:** April 25, 2026
+- **Languages:** ja, en
+
+**Prompt:**
+
+```text
+· 成员 GPT image 2で使えるプロンプト考えたにゃん 遊んでみてにゃ！ Prompt: (被写体) in the style of super bad child drawing, toddler art, scribbles, messy crayon lines on white background, completely lack of technique, terrible composition, chaotic colors, barely recognizable shapes, very raw, honest art, pure naivety, unrefined style, 4:3 Negative: good drawing, nice lines, clear shapes, neat, pretty, smooth, realistic, talented art, coherent composition, artistic style, professional, skilled, masterpiece, beautiful, detailed
+```
+
+---
+
+### #20 Architectural Blueprint Maple Fashion Portrait
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -125,7 +403,24 @@ A high-fashion cinematic portrait of a young woman with a thoughtful expression,
 
 ---
 
-### #5 Crispy Fried Chicken Bucket Ad
+### #21 Blue Peacocks Botanical Ornament
+
+<img src="assets/gpt-image-2-x-discussions/blue-peacocks-botanical-ornament-1.jpg" alt="Blue Peacocks Botanical Ornament" width="620">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2047803054422901046)
+- **Published:** April 24, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+symmetrical design featuring two elegant blue peacocks with detailed feather patterns, surrounded by blue floral elements, intricate vintage botanical ornament, soft beige background, classical floral decor style with rich navy and sky blue details, decorative art illustration --ar 3:2
+```
+
+---
+
+### #22 Crispy Fried Chicken Bucket Ad
 
 | View 1 | View 2 |
 | --- | --- |
@@ -144,7 +439,24 @@ A cinematic food advertisement featuring a red and white striped paper chicken b
 
 ---
 
-### #6 Hairstyle Analysis Chart
+### #23 Gongbi Mandarin Ducks Peony Garden
+
+<img src="assets/gpt-image-2-x-discussions/gongbi-mandarin-ducks-peony-garden-1.jpg" alt="Gongbi Mandarin Ducks Peony Garden" width="620">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2047807925519814947)
+- **Published:** April 24, 2026
+- **Languages:** zh, en
+
+**Prompt:**
+
+```text
+传统工笔重彩风格，湖畔园林亭台。枝头牡丹盛开，画面中一对鸳鸯栖息在横向伸展的牡丹枝干上，姿态亲昵，羽毛层次细腻、色彩典雅，呈现精致的工笔勾线与淡彩晕染效果。宣纸质感背景，构图呈现典雅的花鸟情趣。--ar 3:2
+```
+
+---
+
+### #24 Hairstyle Analysis Chart
 
 <img src="assets/gpt-image-2-x-discussions/hairstyle-analysis-chart-1.jpg" alt="Hairstyle Analysis Chart" width="620">
 
@@ -161,7 +473,7 @@ Create a hairstyle analysis chart using this portrait. Show side-by-side hairsty
 
 ---
 
-### #7 Hand Drawn Educational Infographic
+### #25 Hand Drawn Educational Infographic
 
 <img src="assets/gpt-image-2-x-discussions/hand-drawn-educational-infographic-1.jpg" alt="Hand Drawn Educational Infographic" width="360">
 
@@ -178,7 +490,7 @@ Create a one-page hand-drawn educational infographic. Style: Warm cream paper ba
 
 ---
 
-### #8 Japanese Cafe Apron Portrait
+### #26 Japanese Cafe Apron Portrait
 
 <img src="assets/gpt-image-2-x-discussions/japanese-cafe-apron-portrait-1.jpg" alt="Japanese Cafe Apron Portrait" width="620">
 
@@ -195,7 +507,24 @@ Create a one-page hand-drawn educational infographic. Style: Warm cream paper ba
 
 ---
 
-### #9 Japanese Negative Film Window Portrait
+### #27 Japanese Negative Film Bus Window Portrait
+
+<img src="assets/gpt-image-2-x-discussions/japanese-negative-film-bus-window-portrait-1.jpg" alt="Japanese Negative Film Bus Window Portrait" width="360">
+
+- **Author:** [BubbleBrain](https://x.com/BubbleBrain)
+- **Source:** [X](https://x.com/BubbleBrain/status/2047615365870391555)
+- **Published:** April 24, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Japanese negative film aesthetic, bus window seat, soft daylight streaming in, slight overexposure highlights on face and window edges, low contrast, muted faded colors, subtle grain subject leaning lightly against window, head tilted
+```
+
+---
+
+### #28 Japanese Negative Film Window Portrait
 
 <img src="assets/gpt-image-2-x-discussions/japanese-negative-film-window-portrait-1.jpg" alt="Japanese Negative Film Window Portrait" width="360">
 
@@ -212,7 +541,7 @@ Japanese negative film aesthetic, quiet summer afternoon, natural candid moment,
 
 ---
 
-### #10 Last Supper Selfie
+### #29 Last Supper Selfie
 
 <img src="assets/gpt-image-2-x-discussions/last-supper-selfie-1.jpg" alt="Last Supper Selfie" width="620">
 
@@ -229,7 +558,7 @@ a striking and unexpected selfie of Jesus with his disciples during their final 
 
 ---
 
-### #11 Miniature Self Portrait
+### #30 Miniature Self Portrait
 
 <img src="assets/gpt-image-2-x-discussions/miniature-self-portrait-1.jpg" alt="Miniature Self Portrait" width="440">
 
@@ -246,7 +575,7 @@ An ultra-realistic cinematic portrait of a woman from a photo, fully preserving 
 
 ---
 
-### #12 Playful Brand Icon Collection
+### #31 Playful Brand Icon Collection
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -266,7 +595,7 @@ Create a cohesive collection of playful icons for [BRAND NAME], a [BRAND TYPE/IN
 
 ---
 
-### #13 Premium Orange Juice Bottle Ad
+### #32 Premium Orange Juice Bottle Ad
 
 | View 1 | View 2 |
 | --- | --- |
@@ -285,7 +614,7 @@ Create a bold, high-end commercial poster for a premium orange juice brand, shot
 
 ---
 
-### #14 Soccer Event Poster Redesign
+### #33 Soccer Event Poster Redesign
 
 <img src="assets/gpt-image-2-x-discussions/soccer-event-poster-redesign-1.jpg" alt="Soccer Event Poster Redesign" width="440">
 
@@ -302,7 +631,24 @@ You are a premium graphic designer with a human feel. Transform this boring post
 
 ---
 
-### #15 2026 Nine Palaces Flying Star Chart
+### #34 Song Dynasty Moral Maxim Painting
+
+<img src="assets/gpt-image-2-x-discussions/song-dynasty-moral-maxim-painting-1.jpg" alt="Song Dynasty Moral Maxim Painting" width="440">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2047522091046494400)
+- **Published:** April 24, 2026
+- **Languages:** zh
+
+**Prompt:**
+
+```text
+画一张能代表「不诱于誉，不恐于诽，率道而行，端然正己。」意境的宋代工笔画。加上文字和解释
+```
+
+---
+
+### #35 2026 Nine Palaces Flying Star Chart
 
 <img src="assets/gpt-image-2-x-discussions/2026-nine-palaces-flying-star-chart-1.jpg" alt="2026 Nine Palaces Flying Star Chart" width="540">
 
@@ -319,7 +665,7 @@ Create a clean, symmetrical Chinese feng shui infographic poster in a traditiona
 
 ---
 
-### #16 Anime Chicken Katana Portrait
+### #36 Anime Chicken Katana Portrait
 
 <img src="assets/gpt-image-2-x-discussions/anime-chicken-katana-portrait-1.jpg" alt="Anime Chicken Katana Portrait" width="440">
 
@@ -336,7 +682,7 @@ Classic Bathtime Portrait of a Chicken in a Miniature Clawfoot Tub An anime-styl
 
 ---
 
-### #17 Arpg Dialogue Game Screenshot
+### #37 Arpg Dialogue Game Screenshot
 
 <img src="assets/gpt-image-2-x-discussions/arpg-dialogue-game-screenshot-1.jpg" alt="Arpg Dialogue Game Screenshot" width="540">
 
@@ -353,7 +699,24 @@ Generate an ARPG dialogue game screenshot inspired by [film/series name]
 
 ---
 
-### #18 Commercial Storyboard Sheet
+### #38 Coloring Book Page Template
+
+<img src="assets/gpt-image-2-x-discussions/coloring-book-page-template-1.jpg" alt="Coloring Book Page Template" width="440">
+
+- **Author:** [Kris Kashtanova](https://x.com/icreatelife)
+- **Source:** [X](https://x.com/icreatelife/status/2047342664442392640)
+- **Published:** April 23, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+make a coloring book page with themes of [SUBJECTS], portrait Mode Any themes you'd want me to try next? Curious to hear your ideas
+```
+
+---
+
+### #39 Commercial Storyboard Sheet
 
 <img src="assets/gpt-image-2-x-discussions/commercial-storyboard-sheet-1.jpg" alt="Commercial Storyboard Sheet" width="620">
 
@@ -370,7 +733,7 @@ Create a cinematic commercial storyboard sheet. LAYOUT: - Fixed 6-panel grid (2x
 
 ---
 
-### #19 Crayon Meadow Flower Girl
+### #40 Crayon Meadow Flower Girl
 
 <img src="assets/gpt-image-2-x-discussions/crayon-meadow-flower-girl-1.jpg" alt="Crayon Meadow Flower Girl" width="540">
 
@@ -387,7 +750,7 @@ Little girl picking flowers in a meadow, crayon drawing illustration, hand-drawn
 
 ---
 
-### #20 Dreamy Nemophila Date Portrait
+### #41 Dreamy Nemophila Date Portrait
 
 <img src="assets/gpt-image-2-x-discussions/dreamy-nemophila-date-portrait-1.jpg" alt="Dreamy Nemophila Date Portrait" width="440">
 
@@ -404,7 +767,24 @@ A dreamy vertical spring portrait photo of a young woman standing in profile in 
 
 ---
 
-### #21 Ford Mustang Driveway Fashion Portrait
+### #42 Fake Openai X Post Elon Ceo
+
+<img src="assets/gpt-image-2-x-discussions/fake-openai-x-post-elon-ceo-1.jpg" alt="Fake Openai X Post Elon Ceo" width="360">
+
+- **Author:** [Mahesh](https://x.com/Mahesh171819)
+- **Source:** [X](https://x.com/Mahesh171819/status/2047258046301388967)
+- **Published:** April 23, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Create a screenshot of an X post by OpenAI announcing Elon musk As their new CEO Hope it's not nerfed after full launch
+```
+
+---
+
+### #43 Ford Mustang Driveway Fashion Portrait
 
 <img src="assets/gpt-image-2-x-discussions/ford-mustang-driveway-fashion-portrait-1.jpg" alt="Ford Mustang Driveway Fashion Portrait" width="440">
 
@@ -421,7 +801,58 @@ Ultra-realistic cinematic DSLR photograph of an 18-year-old handsome young man w
 
 ---
 
-### #22 Kurigawa Ramen Landing Page
+### #44 Green Tea Film Kit Product
+
+<img src="assets/gpt-image-2-x-discussions/green-tea-film-kit-product-1.jpg" alt="Green Tea Film Kit Product" width="540">
+
+- **Author:** [Zara](https://x.com/ZaraIrahh)
+- **Source:** [X](https://x.com/ZaraIrahh/status/2047180061657452601)
+- **Published:** April 23, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+GPT Image 2 E-commerce Product Prompt: CALMING GREEN TEA Film Kit displayed frontally, the open box shows soft sage-green film pouches and translucent ampoules with matte silver caps, product placed centrally with clear branding "CALMING GREEN TEA -- 7 Days to Soothed Skin," pastel green background with botanical graphic accents, three minimal icons (leaf, wave, balance) floating around the product to emphasize benefits, photographic, hyper detailed, ultra realistic, lifelike, 8k, high detail, soft professional lighting.
+```
+
+---
+
+### #45 Japanese Blue Cranes Chrysanthemum Print
+
+<img src="assets/gpt-image-2-x-discussions/japanese-blue-cranes-chrysanthemum-print-1.jpg" alt="Japanese Blue Cranes Chrysanthemum Print" width="440">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2047111319719948589)
+- **Published:** April 23, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Delicate Japanese-inspired art of two blue and teal cranes flying among oversized pink chrysanthemums and indigo foliage. Background of soft gradients fading into a pale sun. Elegant gold outlines, pastel gradients, and serene, traditional composition. Perfect for luxury or cultural prints.
+```
+
+---
+
+### #46 Json Prompt Recreation
+
+<img src="assets/gpt-image-2-x-discussions/json-prompt-recreation-1.jpg" alt="Json Prompt Recreation" width="360">
+
+- **Author:** [Pau//](https://x.com/pavellaslov)
+- **Source:** [X](https://x.com/pavellaslov/status/2047182214304055339)
+- **Published:** April 23, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+how to generate AI photos that look 100% real with GPT-image-2: out of the box, GPT image-2 has a visible AI look without references. here’s how to fix that: go to Pinterest and grab any photo with the aesthetic you want upload it to Claude Opus and prompt: “analyze this photo and give me a detailed JSON prompt that recreates it. break down the color grading and every exact color in the photo” (use Opus, not Sonnet. Opus has stronger visual analysis and writes more detailed JSON) paste that JSON into ChatGPT upload your product image and prompt: “using this JSON as reference, generate a person holding my product” save that generated photo as your character reference attach it to every future generation for facial consistency you now have a consistent UGC model that works across any product the JSON controls the lighting and color grading. GPT image-2 handles the character. you control the product placement. the #1 tell on AI photos is flat colors and a grainy look. this method removes both. 5 minutes to set up. unlimited variations after.
+```
+
+---
+
+### #47 Kurigawa Ramen Landing Page
 
 <img src="assets/gpt-image-2-x-discussions/kurigawa-ramen-landing-page-1.jpg" alt="Kurigawa Ramen Landing Page" width="440">
 
@@ -438,7 +869,79 @@ Create a landing page for a ramen shop named KURIGAWA using this image as a refe
 
 ---
 
-### #23 Moonlit Water Silver Gown Scene
+### #48 Laptop Ui Ux Mockup
+
+<img src="assets/gpt-image-2-x-discussions/laptop-ui-ux-mockup-1.jpg" alt="Laptop Ui Ux Mockup" width="540">
+
+- **Author:** [Zara](https://x.com/ZaraIrahh)
+- **Source:** [X](https://x.com/ZaraIrahh/status/2047179669011616172)
+- **Published:** April 23, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+GPT Image 2 UI Mockup Prompt: A hyper-realistic UI/UX mockup displayed on a slim modern laptop placed on a minimal wooden desk with soft natural daylight. The screen shows a clean SaaS dashboard with elegant typography, glassmorphism cards, smooth gradients, subtle drop shadows, and neatly spaced components. Visible charts, analytics panels, sidebar navigation, and micro-interactions. Realistic macOS-style window frame, soft reflections on the screen, shallow depth of field, cozy workspace atmosphere, shot in photorealistic product photography style, ultra-detailed.
+```
+
+---
+
+### #49 Magazine Travel Guide Feature
+
+| View 1 | View 2 |
+| --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/magazine-travel-guide-feature-1.jpg" alt="Magazine Travel Guide Feature 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/magazine-travel-guide-feature-2.jpg" alt="Magazine Travel Guide Feature 2" width="220"> |
+
+- **Author:** [Andrzej Iskrzycki _ AI](https://x.com/andis13)
+- **Source:** [X](https://x.com/andis13/status/2047204384811921764)
+- **Published:** April 23, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Nano Banana 2 vs. GPT Image 2. Ten sam prompt, dwa różne rezultaty. PROMPT: "Create image of Magazine feature article [travel] guide page, cute, information dense photo book style magazine feature article page. Add all necessary sections, tips, recommendations, information. add photos for any sections and recommendations if you like. Place the attached person at the precise location of [city, country]. Seamlessly blend the attached person as if they are sightseeing. Approach this task with the understanding that this is a critical, information rich page that will significantly influence visitor numbers, text accuracy is important. Fully use the entire [9:16] page. NEGATIVE PROMPT: coordinate texts" @swiat_ai @ProfitAII
+```
+
+---
+
+### #50 Minecraft Pink Piggy Ice Cream
+
+<img src="assets/gpt-image-2-x-discussions/minecraft-pink-piggy-ice-cream-1.jpg" alt="Minecraft Pink Piggy Ice Cream" width="440">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2047122720622538819)
+- **Published:** April 23, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+William and Piggy shaped ice cream, pink square ice cream with pixel eyes and pig noses, strawberry flavor, served on a cone, cute food design. Egg Cone: A standard waffle cone, golden and crispy in color, with a “Minecraft” co-branded paper sleeve. The background is an outdoor theme park scene with a blue sky, white clouds, and brightly colored rides and buildings blurring into the background. The hand of the person holding the ice cream is clear, enhancing the realism of the “hands-on experience”. The overall style is bright, fun and playful, making it an eye-catching IP co-branded summer ice cream.
+```
+
+---
+
+### #51 Modern Chinese Comic Story
+
+| View 1 | View 2 |
+| --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/modern-chinese-comic-story-1.png" alt="Modern Chinese Comic Story 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/modern-chinese-comic-story-2.png" alt="Modern Chinese Comic Story 2" width="220"> |
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2047065819796930579)
+- **Published:** April 23, 2026
+- **Languages:** zh, en
+
+**Prompt:**
+
+```text
+还可以配合 GPT Image 2 生成漫画，Prompt： > 帮我把下面的故事画成 【4】 页【中式现代漫画】风格的漫画故事 打开 一次性可以生成多张图片
+```
+
+---
+
+### #52 Moonlit Water Silver Gown Scene
 
 <img src="assets/gpt-image-2-x-discussions/moonlit-water-silver-gown-scene-1.jpg" alt="Moonlit Water Silver Gown Scene" width="620">
 
@@ -455,7 +958,27 @@ Create a wide, cinematic, photorealistic night scene. A young Asian woman with s
 
 ---
 
-### #24 Packaging Dieline Flat Net
+### #53 Noir Fedora Red Circle Poster
+
+| View 1 | View 2 | View 3 |
+| --- | --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/noir-fedora-red-circle-poster-1.jpg" alt="Noir Fedora Red Circle Poster 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/noir-fedora-red-circle-poster-2.jpg" alt="Noir Fedora Red Circle Poster 2" width="220"> | <img src="assets/gpt-image-2-x-discussions/noir-fedora-red-circle-poster-3.jpg" alt="Noir Fedora Red Circle Poster 3" width="220"> |
+| <img src="assets/gpt-image-2-x-discussions/noir-fedora-red-circle-poster-4.jpg" alt="Noir Fedora Red Circle Poster 4" width="220"> |   |   |
+
+- **Author:** [Saul Goodman](https://x.com/Goodmanprotocol)
+- **Source:** [X](https://x.com/Goodmanprotocol/status/2047165794325500353)
+- **Published:** April 23, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Subject & Composition: Central Figure: A sharp profile view of a man wearing a classic 1940s fedora and a formal suit. Melting Effect: The lower half of the man's torso should dissolve or "drip" into long, vertical black ink streaks and splatters, creating a surreal, liquid-bleed effect against the background. Graphic Element: A large, solid vibrant red circle is positioned directly behind the man's head and shoulders, creating a "halo" or "rising sun" motif that anchors the composition. Style & Color Palette: Color Scheme: A strict minimalist palette of True Red, Deep Black, and Off-White/Cream. Photography Style: High-contrast, black and white film noir photography for the subject. The texture should look like a high-resolution fashion editorial with a shallow depth of field. Background: A clean, slightly textured off-white paper or canvas background to give it a premium, physical poster feel. Technical Details: Lighting: Strong "Rembrandt" lighting to define the facial contours, emphasizing the bridge of the nose and the jawline with deep shadows. Atmosphere: Somber, intellectual, and high-stakes. The design should feel modern yet period-accurate to the mid-20th century. Framing: Vertical poster orientation (A-frame), with significant negative space on the left and right to emphasize the central vertical axis. Aspect ratio is 9:16
+```
+
+---
+
+### #54 Packaging Dieline Flat Net
 
 | View 1 | View 2 |
 | --- | --- |
@@ -474,7 +997,24 @@ Flatten 3D packaging into 2D net. Expand all panels and tabs. Orthographic proje
 
 ---
 
-### #25 Product Marketing Apple Style Ceo Announcement Poster
+### #55 Poster From Reference Image
+
+<img src="assets/gpt-image-2-x-discussions/poster-from-reference-image-1.jpg" alt="Poster From Reference Image" width="440">
+
+- **Author:** [Gizem Akdag](https://x.com/gizakdag)
+- **Source:** [X](https://x.com/gizakdag/status/2047380830838829130)
+- **Published:** April 23, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+create a poster using this image
+```
+
+---
+
+### #56 Product Marketing Apple Style Ceo Announcement Poster
 
 <img src="assets/gpt-image-2-x-discussions/product-marketing-apple-style-ceo-announcement-poster-1.jpg" alt="Product Marketing Apple Style Ceo Announcement Poster" width="440">
 
@@ -491,7 +1031,7 @@ A dramatic, ultra-polished Chinese corporate announcement poster in a premium Ap
 
 ---
 
-### #26 Product Marketing Luxury Publishing Branding Editorial Spread
+### #57 Product Marketing Luxury Publishing Branding Editorial Spread
 
 <img src="assets/gpt-image-2-x-discussions/product-marketing-luxury-publishing-branding-editorial-spread-1.jpg" alt="Product Marketing Luxury Publishing Branding Editorial Spread" width="620">
 
@@ -508,7 +1048,7 @@ Create a luxurious Japanese magazine-style PR editorial spread for a publishing 
 
 ---
 
-### #27 Product Marketing Microsoft Powerwordex Promo Graphic
+### #58 Product Marketing Microsoft Powerwordex Promo Graphic
 
 <img src="assets/gpt-image-2-x-discussions/product-marketing-microsoft-powerwordex-promo-graphic-1.jpg" alt="Product Marketing Microsoft Powerwordex Promo Graphic" width="620">
 
@@ -525,7 +1065,7 @@ A clean minimalist corporate promo graphic on a very light gray background, cent
 
 ---
 
-### #28 Product Marketing Openai Merch Poster Grid
+### #59 Product Marketing Openai Merch Poster Grid
 
 <img src="assets/gpt-image-2-x-discussions/product-marketing-openai-merch-poster-grid-1.jpg" alt="Product Marketing Openai Merch Poster Grid" width="440">
 
@@ -542,7 +1082,7 @@ A clean, minimalist promotional poster on an off-white background in a modern te
 
 ---
 
-### #29 Rainy Noir Manga Alley Page
+### #60 Rainy Noir Manga Alley Page
 
 <img src="assets/gpt-image-2-x-discussions/rainy-noir-manga-alley-page-1.jpg" alt="Rainy Noir Manga Alley Page" width="440">
 
@@ -559,7 +1099,7 @@ A clean, minimalist promotional poster on an off-white background in a modern te
 
 ---
 
-### #30 Sam Altman Openai Dancing Photo
+### #61 Sam Altman Openai Dancing Photo
 
 <img src="assets/gpt-image-2-x-discussions/sam-altman-openai-dancing-photo-1.jpg" alt="Sam Altman Openai Dancing Photo" width="540">
 
@@ -576,7 +1116,7 @@ Generate a photorealistic image of Sam Altman dancing outside the OpenAI headqua
 
 ---
 
-### #31 Social Media Post Nostalgic 2003 Family Living Room Photo
+### #62 Social Media Post Nostalgic 2003 Family Living Room Photo
 
 <img src="assets/gpt-image-2-x-discussions/social-media-post-nostalgic-2003-family-living-room-photo-1.jpg" alt="Social Media Post Nostalgic 2003 Family Living Room Photo" width="540">
 
@@ -593,7 +1133,7 @@ A candid indoor family snapshot styled like an early-2000s home photo from mainl
 
 ---
 
-### #32 Social Media Post Parody Microsoft Office Product Graphic
+### #63 Social Media Post Parody Microsoft Office Product Graphic
 
 <img src="assets/gpt-image-2-x-discussions/social-media-post-parody-microsoft-office-product-graphic-1.jpg" alt="Social Media Post Parody Microsoft Office Product Graphic" width="620">
 
@@ -610,7 +1150,75 @@ A clean minimalist white-background promotional graphic styled like an official 
 
 ---
 
-### #33 Studio Portrait Of A Fluffy Blue Eyed Kitten
+### #64 Soft Poetic Childrens Book Conversation
+
+<img src="assets/gpt-image-2-x-discussions/soft-poetic-childrens-book-conversation-1.jpg" alt="Soft Poetic Childrens Book Conversation" width="540">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2047174895293849972)
+- **Published:** April 23, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Soft poetic children's book illustration with watercolor and gouache textures.Clear gentle daylight with slightly brighter highlights.Muted pastel colors with soft blue and warm tones.Visible brush strokes and paper grain.Minimalist composition with large negative space.Calm, thoughtful, slightly open-ended atmosphere. Child character (around 12 years old).Subtle visual metaphors like light, shadow, perspective, reflection.Hand-painted picture book style, not cartoon, not anime, not 3D. Two children in calm conversation,soft connection forming.
+```
+
+---
+
+### #65 Song Dynasty Blue Landscape Illustration
+
+<img src="assets/gpt-image-2-x-discussions/song-dynasty-blue-landscape-illustration-1.jpg" alt="Song Dynasty Blue Landscape Illustration" width="360">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2047185615955918962)
+- **Published:** April 23, 2026
+- **Languages:** zh, en
+
+**Prompt:**
+
+```text
+宋代山水意境的中式国风插画，细腻的水墨勾线与柔和矿物颜料设色，银色月光洒落并映照水面，整体以浅蓝、青玉色为主调，点缀柔和粉色花枝，空气中带有朦胧雾气，河面流动倒影细腻，辅以若有若无的淡金色微光，电影感、诗意化灯光，空灵东方美学，高级国风绘本插画质感，4K 细节。 近景特写：一位年轻女子倚坐在木窗边，安静地望向窗外月下流动的江河。月光从窗外倾入室内，柔和地照亮她的侧脸、衣袖与窗框，营造亲密、含蓄而富有情绪张力的氛围。窗外是开阔的江面，波光粼粼，仿佛被月色洗过一般洁净明亮，河水向远方延展，带有轻微流动感与层层 shimmering 反光。画面需突出“室内人物近景”与“窗外广阔月夜江景”之间的对比和平衡，传达安静、思念、诗意、情感亲密的感觉。 可加入中式木窗、远山、岸边楼阁、轻舟、花枝等元素，但整体保持克制、雅致、留白感与绘本式高级审美。
+```
+
+---
+
+### #66 Straw Hat Crew Golden Hour Deck
+
+<img src="assets/gpt-image-2-x-discussions/straw-hat-crew-golden-hour-deck-1.jpg" alt="Straw Hat Crew Golden Hour Deck" width="540">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2047114473253838969)
+- **Published:** April 23, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+the Straw Hat crew gathered on the deck of the Thousand Sunny at golden hour, each character mid-laugh, in motion, or relaxing. Luffy leans over the rail with a grin, Nami charts something on the table, and Chopper clutches a cotton candy stick. The ship's polished wood glows under warm sunlight, and distant seabirds fly across a coral-tinted horizon.
+```
+
+---
+
+### #67 Strawberry Soft Serve Product
+
+<img src="assets/gpt-image-2-x-discussions/strawberry-soft-serve-product-1.jpg" alt="Strawberry Soft Serve Product" width="540">
+
+- **Author:** [Zara](https://x.com/ZaraIrahh)
+- **Source:** [X](https://x.com/ZaraIrahh/status/2047179916161212542)
+- **Published:** April 23, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+GPT Image 2 Marketing Prompt: Ultra-realistic product photography of a rich strawberry soft-serve ice cream in a crispy waffle cone, styled with a clean, modern premium aesthetic. The soft serve is a vibrant natural pink, thick and creamy, sculpted into a smooth swirl with a softly curled peak, lightly topped with delicate strawberry dust or tiny fruit specks for a fresh, appetizing look. The cone has a rustic, crunchy texture with slightly uneven edges for an artisanal feel. The background is soft beige with natural sunlight casting subtle leaf shadows, creating a calm, organic atmosphere. Include softly blurred greenery in the foreground for depth. The composition is minimal, balanced, and uses negative space effectively, similar to high-end American food brand ads. On the left side, include modern English typography in a clean, elegant layout (not vertical). Main headline: “Sweet Strawberry Bliss.” Supporting line (smaller text): “Made with real strawberries. Smooth. Creamy. Irresistible.” Add a small circular badge showing the price: “$5.80”. Lighting: soft natural daylight, warm highlights, shallow depth of field, high-end commercial food photography style. Mood: fresh, premium, modern, and inviting — aligned with upscale U.S. dessert branding.
+```
+
+---
+
+### #68 Studio Portrait Of A Fluffy Blue Eyed Kitten
 
 <img src="assets/gpt-image-2-x-discussions/studio-portrait-of-a-fluffy-blue-eyed-kitten-1.jpg" alt="Studio Portrait Of A Fluffy Blue Eyed Kitten" width="440">
 
@@ -627,7 +1235,24 @@ A centered studio portrait of a fluffy {argument name="cat breed" default="ragdo
 
 ---
 
-### #34 Vintage Miami Art Date Comic Page
+### #69 Torn Paper Split Face Editorial Portrait
+
+<img src="assets/gpt-image-2-x-discussions/torn-paper-split-face-editorial-portrait-1.jpg" alt="Torn Paper Split Face Editorial Portrait" width="440">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2047202015307067412)
+- **Published:** April 23, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+The painting contains only one face: that of an elegant young female model with little grin. The line that runs from her hair parting to seamlessly split her face in half is designed to look like violently torn paper. The painting is perfectly, completely and forcibly divided into two parts by one flowing lines that resemble tears in the paper: -Left side: Futuristic elegant pop art style with strategic cutie smile subtly. -Right side: Hyper realistic beautiful natural style with smiling subtly. -Right side: Her beautiful natural upper-body is drowned by totally beautiful marine-blue geometric halftone circles. style. The background is futuristic dreamy. The entire screen is effectively bright and maintains natural vividness. The high resolution, fine details, and soft blur are reminiscent of an electron microscope.
+```
+
+---
+
+### #70 Vintage Miami Art Date Comic Page
 
 <img src="assets/gpt-image-2-x-discussions/vintage-miami-art-date-comic-page-1.jpg" alt="Vintage Miami Art Date Comic Page" width="360">
 
@@ -644,7 +1269,27 @@ A vintage American comic-book page in a faded 1950s romance-adventure style, pri
 
 ---
 
-### #35 Ai Development Efficiency Comic
+### #71 Vintage Newspaper Front Page
+
+| View 1 | View 2 | View 3 |
+| --- | --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/vintage-newspaper-front-page-1.jpg" alt="Vintage Newspaper Front Page 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/vintage-newspaper-front-page-2.jpg" alt="Vintage Newspaper Front Page 2" width="220"> | <img src="assets/gpt-image-2-x-discussions/vintage-newspaper-front-page-3.jpg" alt="Vintage Newspaper Front Page 3" width="220"> |
+| <img src="assets/gpt-image-2-x-discussions/vintage-newspaper-front-page-4.jpg" alt="Vintage Newspaper Front Page 4" width="220"> |   |   |
+
+- **Author:** [simeon-sanai](https://x.com/Naiknelofar788)
+- **Source:** [X](https://x.com/Naiknelofar788/status/2047207812800147647)
+- **Published:** April 23, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+GPT Image 2 on @itsPolloAI GPT Image 2 is now live on the Pollo AI mobile app - available on iOS & Android. Create faster. Push boundaries. No excuses left. Prompt: Create the most realistic front page design of a vintage newspaper featuring the main character. The layout should be made in the style of a real printed newspaper with a cinematic black-and-white aesthetic. The main photo should be prominently placed in the center, framed, like the image in the title of the article. The subject in the photo should remain unchanged and clearly distinguishable in natural light and slightly increased contrast in order to match the spectacular editorial style. Create a bold, attention-grabbing headline at the top (create a unique title that matches the spirit of the photo - it can be romantic, mysterious, funny, or dramatic). Add a smaller subtitle under it, which will look like a real newspaper caption. Add realistic newspaper elements: Columns of small text (in the style of lorem ipsum, but framed like real news) At the top is the fictitious name of the publication (for example, “The Daily Prompts”, “AI Times” or similar - think creatively, according to the picture) Date, issue number and location Decorative lines, dividers, and vintage typography Small additional articles or captions to the main image Optional stamps, doodles, or editorial notes to add personality. Style: Black and white or slightly faded monochrome paper Fine paper texture, grain, and ink defects Small shadows and creases that mimic real printed paper The aesthetics of a clean but slightly worn vintage newspaper Mood: Give the design personality, expressiveness and plot, as if the plot is part of the main article. Aspect ratio: 4:5 or 1:1 High-detail, ultra-realistic hybrid of editorial photography and print design.
+```
+
+---
+
+### #72 Ai Development Efficiency Comic
 
 <img src="assets/gpt-image-2-x-discussions/ai-development-efficiency-comic-1.jpg" alt="Ai Development Efficiency Comic" width="360">
 
@@ -661,7 +1306,7 @@ Create an "Out the Window" meme-style four-panel comic titled "How to Improve De
 
 ---
 
-### #36 Anime Character Blueprint Sheet
+### #73 Anime Character Blueprint Sheet
 
 <img src="assets/gpt-image-2-x-discussions/anime-character-blueprint-sheet-1.jpg" alt="Anime Character Blueprint Sheet" width="440">
 
@@ -678,7 +1323,7 @@ Create an "Out the Window" meme-style four-panel comic titled "How to Improve De
 
 ---
 
-### #37 Anime Girl Through A Peephole
+### #74 Anime Girl Through A Peephole
 
 <img src="assets/gpt-image-2-x-discussions/anime-girl-through-a-peephole-1.jpg" alt="Anime Girl Through A Peephole" width="440">
 
@@ -695,7 +1340,7 @@ A hyper-detailed anime-style fisheye peephole portrait of a young woman leaning 
 
 ---
 
-### #38 Asian Fashion Portrait
+### #75 Asian Fashion Portrait
 
 <img src="assets/gpt-image-2-x-discussions/asian-fashion-portrait-1.jpg" alt="Asian Fashion Portrait" width="620">
 
@@ -712,7 +1357,24 @@ a stunning asian woman, pale skin, minimalistic makeup, calm and distant express
 
 ---
 
-### #39 Biological Life Cycle Diagram
+### #76 Baoyu Shonen Anime Character Sheet
+
+<img src="assets/gpt-image-2-x-discussions/baoyu-shonen-anime-character-sheet-1.jpg" alt="Baoyu Shonen Anime Character Sheet" width="440">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2046785225783431447)
+- **Published:** April 22, 2026
+- **Languages:** zh, en
+
+**Prompt:**
+
+```text
+Based on everything you know about me, make a character sheet of shonen-style anime character of me, name is 宝玉
+```
+
+---
+
+### #77 Biological Life Cycle Diagram
 
 <img src="assets/gpt-image-2-x-discussions/biological-life-cycle-diagram-1.jpg" alt="Biological Life Cycle Diagram" width="540">
 
@@ -729,7 +1391,7 @@ the life cycle of {argument name="insect" default="house fly"} showing amazing e
 
 ---
 
-### #40 Boyfriend Pov Korean Idol Portrait
+### #78 Boyfriend Pov Korean Idol Portrait
 
 <img src="assets/gpt-image-2-x-discussions/boyfriend-pov-korean-idol-portrait-1.jpg" alt="Boyfriend Pov Korean Idol Portrait" width="360">
 
@@ -746,7 +1408,7 @@ the life cycle of {argument name="insect" default="house fly"} showing amazing e
 
 ---
 
-### #41 Censored Samurai Engraving
+### #79 Censored Samurai Engraving
 
 <img src="assets/gpt-image-2-x-discussions/censored-samurai-engraving-1.jpg" alt="Censored Samurai Engraving" width="540">
 
@@ -763,7 +1425,7 @@ A minimalist monochrome illustration of a Japanese samurai bust in three-quarter
 
 ---
 
-### #42 Chibi Rainbow Girl In Fantasy Cafe
+### #80 Chibi Rainbow Girl In Fantasy Cafe
 
 <img src="assets/gpt-image-2-x-discussions/chibi-rainbow-girl-in-fantasy-cafe-1.jpg" alt="Chibi Rainbow Girl In Fantasy Cafe" width="360">
 
@@ -780,7 +1442,7 @@ A highly detailed, whimsical anime cafe illustration in a vertical composition, 
 
 ---
 
-### #43 Child Guitar Studio Rehearsal Portrait
+### #81 Child Guitar Studio Rehearsal Portrait
 
 <img src="assets/gpt-image-2-x-discussions/child-guitar-studio-rehearsal-portrait-1.jpg" alt="Child Guitar Studio Rehearsal Portrait" width="440">
 
@@ -797,7 +1459,7 @@ Preserve the face, proportions, and external features of the model as in the ref
 
 ---
 
-### #44 Chinese Prompt Sheet For Gpt Image
+### #82 Chinese Prompt Sheet For Gpt Image
 
 <img src="assets/gpt-image-2-x-discussions/chinese-prompt-sheet-for-gpt-image-2-1.jpg" alt="Chinese Prompt Sheet For Gpt Image" width="620">
 
@@ -814,7 +1476,7 @@ A clean screenshot-like image showing a dark charcoal rounded-rectangle panel fi
 
 ---
 
-### #45 Chuunibyou Anime Girl In Neon Lab
+### #83 Chuunibyou Anime Girl In Neon Lab
 
 <img src="assets/gpt-image-2-x-discussions/chuunibyou-anime-girl-in-neon-lab-1.jpg" alt="Chuunibyou Anime Girl In Neon Lab" width="620">
 
@@ -831,7 +1493,7 @@ A dynamic anime illustration of a {argument name="character age vibe" default="t
 
 ---
 
-### #46 Cinematic Studio Portrait
+### #84 Cinematic Studio Portrait
 
 | View 1 | View 2 |
 | --- | --- |
@@ -850,7 +1512,7 @@ A dynamic anime illustration of a {argument name="character age vibe" default="t
 
 ---
 
-### #47 Cockatiel Owner Seed Spill Comic
+### #85 Cockatiel Owner Seed Spill Comic
 
 <img src="assets/gpt-image-2-x-discussions/cockatiel-owner-seed-spill-comic-1.jpg" alt="Cockatiel Owner Seed Spill Comic" width="440">
 
@@ -867,7 +1529,7 @@ A single-panel Japanese comic-style illustration on a light wooden floor, drawn 
 
 ---
 
-### #48 Convex Mirror Neon Street Selfie
+### #86 Convex Mirror Neon Street Selfie
 
 <img src="assets/gpt-image-2-x-discussions/convex-mirror-neon-street-selfie-1.jpg" alt="Convex Mirror Neon Street Selfie" width="440">
 
@@ -884,7 +1546,7 @@ A hyper-realistic nighttime street photo seen entirely through a large circular 
 
 ---
 
-### #49 Convex Mirror Night Street Selfie
+### #87 Convex Mirror Night Street Selfie
 
 <img src="assets/gpt-image-2-x-discussions/convex-mirror-night-street-selfie-1.jpg" alt="Convex Mirror Night Street Selfie" width="440">
 
@@ -901,7 +1563,7 @@ A realistic nighttime street photo shot as a mirror selfie through a large roads
 
 ---
 
-### #50 Cyberpunk Girl With Giant Claw Arm
+### #88 Cyberpunk Girl With Giant Claw Arm
 
 <img src="assets/gpt-image-2-x-discussions/cyberpunk-girl-with-giant-claw-arm-1.jpg" alt="Cyberpunk Girl With Giant Claw Arm" width="440">
 
@@ -918,7 +1580,7 @@ A dark cyberpunk anime illustration of a lone young woman with a massive mechani
 
 ---
 
-### #51 Cyberpunk Girl With Giant Mech Claw
+### #89 Cyberpunk Girl With Giant Mech Claw
 
 <img src="assets/gpt-image-2-x-discussions/cyberpunk-girl-with-giant-mech-claw-1.jpg" alt="Cyberpunk Girl With Giant Mech Claw" width="440">
 
@@ -935,7 +1597,26 @@ A dark cyberpunk anime illustration of a small eerie girl standing in a narrow r
 
 ---
 
-### #52 Dark Fantasy Stage Poster
+### #90 Daily Snapshot Anime Figure
+
+| View 1 | View 2 |
+| --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/daily-snapshot-anime-figure-1.jpg" alt="Daily Snapshot Anime Figure 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/daily-snapshot-anime-figure-2.jpg" alt="Daily Snapshot Anime Figure 2" width="220"> |
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2046793436972392726)
+- **Published:** April 22, 2026
+- **Languages:** zh
+
+**Prompt:**
+
+```text
+以手机随手拍摄的日常风格，桌面上摆放着一款 【成龙】【功夫】 动漫手办，动作夸张帅气，装备齐全。 同时，真实世界的对应人物也出现在镜头中，与手办摆出相似的姿势，形成手办与真实人物同框的有趣对比效果。画面背景模糊、浅淡柔和，强调主角清晰突出，整体构图和谐自然，传递温暖且富有生活气息的视觉体验。
+```
+
+---
+
+### #91 Dark Fantasy Stage Poster
 
 <img src="assets/gpt-image-2-x-discussions/dark-fantasy-stage-poster-1.jpg" alt="Dark Fantasy Stage Poster" width="360">
 
@@ -952,7 +1633,7 @@ A dramatic vertical Japanese stage-play poster in luxurious dark fantasy anime s
 
 ---
 
-### #53 E Commerce Main Image 3D Product Box Dieline Visualization
+### #92 E Commerce Main Image 3D Product Box Dieline Visualization
 
 | View 1 | View 2 |
 | --- | --- |
@@ -971,7 +1652,7 @@ Assemble the dieline into a flawless 3D box with accurate panels, clean folds, u
 
 ---
 
-### #54 E Commerce Main Image Child Cow Onesie Three View Sheet
+### #93 E Commerce Main Image Child Cow Onesie Three View Sheet
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-child-cow-onesie-three-view-sheet-1.jpg" alt="E Commerce Main Image Child Cow Onesie Three View Sheet" width="540">
 
@@ -988,7 +1669,7 @@ Assemble the dieline into a flawless 3D box with accurate panels, clean folds, u
 
 ---
 
-### #55 E Commerce Main Image Child Three View Clothing Reference
+### #94 E Commerce Main Image Child Three View Clothing Reference
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-child-three-view-clothing-reference-1.jpg" alt="E Commerce Main Image Child Three View Clothing Reference" width="540">
 
@@ -1005,7 +1686,7 @@ Assemble the dieline into a flawless 3D box with accurate panels, clean folds, u
 
 ---
 
-### #56 E Commerce Main Image Cinematic Potato Chips Ad
+### #95 E Commerce Main Image Cinematic Potato Chips Ad
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-cinematic-potato-chips-ad-1.jpg" alt="E Commerce Main Image Cinematic Potato Chips Ad" width="620">
 
@@ -1022,7 +1703,7 @@ Create a high-impact commercial snack advertisement in a dramatic studio setting
 
 ---
 
-### #57 E Commerce Main Image Classical Literature Themed Phone Case
+### #96 E Commerce Main Image Classical Literature Themed Phone Case
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-classical-literature-themed-phone-case-1.jpg" alt="E Commerce Main Image Classical Literature Themed Phone Case" width="440">
 
@@ -1039,7 +1720,7 @@ Create a high-impact commercial snack advertisement in a dramatic studio setting
 
 ---
 
-### #58 E Commerce Main Image Dark Ancient Chinese Style Packaging
+### #97 E Commerce Main Image Dark Ancient Chinese Style Packaging
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-dark-ancient-chinese-style-packaging-1.jpg" alt="E Commerce Main Image Dark Ancient Chinese Style Packaging" width="540">
 
@@ -1056,7 +1737,7 @@ Create a high-impact commercial snack advertisement in a dramatic studio setting
 
 ---
 
-### #59 E Commerce Main Image Gourmet Burger Commercial Photography
+### #98 E Commerce Main Image Gourmet Burger Commercial Photography
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-gourmet-burger-commercial-photography-1.jpg" alt="E Commerce Main Image Gourmet Burger Commercial Photography" width="440">
 
@@ -1073,7 +1754,7 @@ A premium fast-food commercial product photograph of a gourmet cheeseburger cent
 
 ---
 
-### #60 E Commerce Main Image Japanese Auto Laundry Folder Ad
+### #99 E Commerce Main Image Japanese Auto Laundry Folder Ad
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-japanese-auto-laundry-folder-ad-1.jpg" alt="E Commerce Main Image Japanese Auto Laundry Folder Ad" width="360">
 
@@ -1090,7 +1771,7 @@ Create a clean Japanese lifestyle advertisement poster for a futuristic compact 
 
 ---
 
-### #61 E Commerce Main Image Luxury Handbag Sunset Ad
+### #100 E Commerce Main Image Luxury Handbag Sunset Ad
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-luxury-handbag-sunset-ad-1.jpg" alt="E Commerce Main Image Luxury Handbag Sunset Ad" width="440">
 
@@ -1107,7 +1788,7 @@ Luxury fashion advertisement, vertical editorial product ad shot at golden hour 
 
 ---
 
-### #62 E Commerce Main Image Luxury Skincare Product Page Mockup
+### #101 E Commerce Main Image Luxury Skincare Product Page Mockup
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-luxury-skincare-product-page-mockup-1.jpg" alt="E Commerce Main Image Luxury Skincare Product Page Mockup" width="620">
 
@@ -1124,7 +1805,7 @@ Luxury fashion advertisement, vertical editorial product ad shot at golden hour 
 
 ---
 
-### #63 E Commerce Main Image Minimal Analog Wall Clock At 05
+### #102 E Commerce Main Image Minimal Analog Wall Clock At 05
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-minimal-analog-wall-clock-at-05-29-1.jpg" alt="E Commerce Main Image Minimal Analog Wall Clock At 05" width="540">
 
@@ -1141,7 +1822,7 @@ A minimalist studio photograph of a round analog wall clock mounted on a smooth 
 
 ---
 
-### #64 E Commerce Main Image Minimalist Hydrating Serum Product Shot
+### #103 E Commerce Main Image Minimalist Hydrating Serum Product Shot
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-minimalist-hydrating-serum-product-shot-1.jpg" alt="E Commerce Main Image Minimalist Hydrating Serum Product Shot" width="540">
 
@@ -1158,7 +1839,7 @@ A minimalist luxury skincare product photograph of a frosted glass serum bottle 
 
 ---
 
-### #65 E Commerce Main Image New Chinese Aesthetics Style Chart
+### #104 E Commerce Main Image New Chinese Aesthetics Style Chart
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-new-chinese-aesthetics-style-chart-1.jpg" alt="E Commerce Main Image New Chinese Aesthetics Style Chart" width="360">
 
@@ -1175,7 +1856,7 @@ A minimalist luxury skincare product photograph of a frosted glass serum bottle 
 
 ---
 
-### #66 E Commerce Main Image Split Screen Athleisure Ad
+### #105 E Commerce Main Image Split Screen Athleisure Ad
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-split-screen-athleisure-ad-1.jpg" alt="E Commerce Main Image Split Screen Athleisure Ad" width="540">
 
@@ -1192,7 +1873,7 @@ Create a square split-screen e-commerce social ad with a clean, premium sportswe
 
 ---
 
-### #67 E Commerce Main Image Split Screen Athleisure Couch Ad
+### #106 E Commerce Main Image Split Screen Athleisure Couch Ad
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-split-screen-athleisure-couch-ad-1.jpg" alt="E Commerce Main Image Split Screen Athleisure Couch Ad" width="540">
 
@@ -1209,7 +1890,7 @@ Create a clean, square split-screen commercial image for athleisure clothing wit
 
 ---
 
-### #68 E Commerce Main Image Split Screen Product Ad Poster
+### #107 E Commerce Main Image Split Screen Product Ad Poster
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-split-screen-product-ad-poster-1.jpg" alt="E Commerce Main Image Split Screen Product Ad Poster" width="540">
 
@@ -1226,7 +1907,7 @@ Create a clean, square split-screen commercial image for athleisure clothing wit
 
 ---
 
-### #69 E Commerce Main Image Three View Hooded Fantasy Dress Sheet
+### #108 E Commerce Main Image Three View Hooded Fantasy Dress Sheet
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-three-view-hooded-fantasy-dress-sheet-1.jpg" alt="E Commerce Main Image Three View Hooded Fantasy Dress Sheet" width="540">
 
@@ -1243,7 +1924,7 @@ Create a clean, square split-screen commercial image for athleisure clothing wit
 
 ---
 
-### #70 E Commerce Main Image Vitamin C Skincare Ad
+### #109 E Commerce Main Image Vitamin C Skincare Ad
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-main-image-vitamin-c-skincare-ad-1.jpg" alt="E Commerce Main Image Vitamin C Skincare Ad" width="540">
 
@@ -1260,7 +1941,7 @@ Create a clean luxury skincare product advertisement in a square 1:1 layout with
 
 ---
 
-### #71 Eastern Fantasy Woman Portrait
+### #110 Eastern Fantasy Woman Portrait
 
 | View 1 | View 2 |
 | --- | --- |
@@ -1279,7 +1960,7 @@ Create a clean luxury skincare product advertisement in a square 1:1 layout with
 
 ---
 
-### #72 Find The Cigar Man In Madrid
+### #111 Find The Cigar Man In Madrid
 
 <img src="assets/gpt-image-2-x-discussions/find-the-cigar-man-in-madrid-1.jpg" alt="Find The Cigar Man In Madrid" width="360">
 
@@ -1296,7 +1977,7 @@ A highly detailed, colorful where’s-Waldo-style illustration of a crowded publ
 
 ---
 
-### #73 Flash Mirror Selfie In Red Restroom
+### #112 Flash Mirror Selfie In Red Restroom
 
 | View 1 | View 2 |
 | --- | --- |
@@ -1315,7 +1996,7 @@ A candid smartphone mirror selfie in a moody upscale restroom with deep {argumen
 
 ---
 
-### #74 Flash Mirror Selfie In Retro Bathroom
+### #113 Flash Mirror Selfie In Retro Bathroom
 
 | View 1 | View 2 |
 | --- | --- |
@@ -1334,7 +2015,7 @@ A candid flash mirror selfie in a small retro bathroom, shot vertically with a r
 
 ---
 
-### #75 Floating 3D Head In Blue Sky
+### #114 Floating 3D Head In Blue Sky
 
 <img src="assets/gpt-image-2-x-discussions/floating-3d-head-in-blue-sky-1.jpg" alt="Floating 3D Head In Blue Sky" width="440">
 
@@ -1351,7 +2032,7 @@ Using the provided reference image, isolate the same person’s head and recreat
 
 ---
 
-### #76 Food Lifecycle Infographic
+### #115 Food Lifecycle Infographic
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -1371,7 +2052,7 @@ An educational infographic themed "Life of {argument name="food name" default="G
 
 ---
 
-### #77 Forced Perspective Korean Idol Portrait
+### #116 Forced Perspective Korean Idol Portrait
 
 <img src="assets/gpt-image-2-x-discussions/forced-perspective-korean-idol-portrait-1.jpg" alt="Forced Perspective Korean Idol Portrait" width="360">
 
@@ -1388,7 +2069,41 @@ An educational infographic themed "Life of {argument name="food name" default="G
 
 ---
 
-### #78 Fuji Couple 3X3 Grid Collage
+### #117 Four Seasons Shanghai Bund Panorama
+
+<img src="assets/gpt-image-2-x-discussions/four-seasons-shanghai-bund-panorama-1.jpg" alt="Four Seasons Shanghai Bund Panorama" width="540">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2046766282989502777)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Hyper-realistic digital illustration of {Scene}, presented as a single continuous composition showcasing the cycle of seasons. The scene flows seamlessly from left to right in a natural progression: Winter, Spring, Summer, and Autumn. The left side features cold snowy winter elements, gradually thawing into the fresh green buds and blooms of spring, then morphing into the lush vibrant vegetation and bright sunlight of summer, and finally transitioning into the golden, orange, and red hues of autumn on the far right. There are no visible dividing lines between seasons; the weather, lighting, and vegetation blend smoothly to create a unified and harmonious panorama. Rich in detail, symbolic of the passage of time, cinematic lighting, 8k resolution, highly detailed textures. --ar 4:3 ---- Scene：the historic Shanghai Bund waterfront looking across the Huangpu River to the futuristic Lujiazui district
+```
+
+---
+
+### #118 French New Wave Gpt Image 2 Poster
+
+<img src="assets/gpt-image-2-x-discussions/french-new-wave-gpt-image-2-poster-1.jpg" alt="French New Wave Gpt Image 2 Poster" width="440">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2046783507511287906)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+1960s French New Wave theatrical poster, bold photomontage composition, torn-paper collage sensibility, pop-art color bursts, high-contrast black-and-white imagery with selective red blue and yellow accents, hand-made offset-print texture, slightly off-register ink, expressive asymmetry, art-house poster cool, graphic spontaneity, street-poster energy, adventurous typography-led design. Poster text: - Large title at the bottom: "GPT Image 2.0" - Smaller headline at the top: "Image generation with a point of view" - Small footer text: "Coming soon" Keep all visible text in English. Use a theatrical poster composition.
+```
+
+---
+
+### #119 Fuji Couple 3X3 Grid Collage
 
 <img src="assets/gpt-image-2-x-discussions/fuji-couple-3x3-grid-collage-1.jpg" alt="Fuji Couple 3X3 Grid Collage" width="360">
 
@@ -1405,7 +2120,7 @@ An educational infographic themed "Life of {argument name="food name" default="G
 
 ---
 
-### #79 Futuristic Desert Worldbuilding Set
+### #120 Futuristic Desert Worldbuilding Set
 
 <img src="assets/gpt-image-2-x-discussions/futuristic-desert-worldbuilding-set-1.jpg" alt="Futuristic Desert Worldbuilding Set" width="620">
 
@@ -1422,7 +2137,7 @@ Create a complete visual worldbuilding set for a futuristic desert civilization 
 
 ---
 
-### #80 Geographic Map Illustration
+### #121 Geographic Map Illustration
 
 <img src="assets/gpt-image-2-x-discussions/geographic-map-illustration-1.jpg" alt="Geographic Map Illustration" width="620">
 
@@ -1439,7 +2154,41 @@ an image on an {argument name="country" default="Indian"} physical map
 
 ---
 
-### #81 Hand Drawn Infographic Card
+### #122 Gpt Image Case
+
+<img src="assets/gpt-image-2-x-discussions/gpt-image-case-1.jpg" alt="Gpt Image Case" width="620">
+
+- **Author:** [AI Will](https://x.com/FinanceYF5)
+- **Source:** [X](https://x.com/FinanceYF5/status/2046863423313703117)
+- **Published:** April 22, 2026
+- **Languages:** zh, en
+
+**Prompt:**
+
+```text
+GPT-Image-2 的世界知识里，有些玩法真的很酷。 “在旧金山的一面砖墙上，制作一个糊贴海报的场景，墙上贴着来自不同 AI 实验室的海报。”
+```
+
+---
+
+### #123 Hand Drawn Feynman Infographic Card
+
+<img src="assets/gpt-image-2-x-discussions/hand-drawn-feynman-infographic-card-1.jpg" alt="Hand Drawn Feynman Infographic Card" width="360">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2046762567805387100)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Create a hand-drawn style infographic card in a 9:16 vertical format. The card should have a warm, organic look, with a beige or off-white background featuring subtle paper texture, conveying a friendly and handcrafted aesthetic. At the top of the card, use a large, expressive brush-stroke lettering style (similar to bold brush calligraphy in English) with strong contrast-primarily in red and black-to highlight the title and draw immediate attention. All text on the card should be written in a flowing hand-painted script style, maintaining an artistic rhythm while ensuring legibility. Organize the layout into 2 to 4 clearly defined sections, each containing short, concise phrases that express the key ideas. The handwritten script should feel dynamic and natural, enhancing the overall visual harmony. Add small, simple, and engaging hand-drawn illustrations or symbolic icons-such as characters, objects, or conceptual symbols-to reinforce the message and enhance visual interest. Maintain balanced composition and adequate breathing room, ensuring the design remains clean, readable, and visually appealing. Theme: {topic} --- topic: “If you can't explain it simply, you don't understand it well enough.” - Feynman
+```
+
+---
+
+### #124 Hand Drawn Infographic Card
 
 <img src="assets/gpt-image-2-x-discussions/hand-drawn-infographic-card-1.jpg" alt="Hand Drawn Infographic Card" width="360">
 
@@ -1456,7 +2205,24 @@ Create a hand-drawn style infographic card with a 9:16 vertical ratio. The card 
 
 ---
 
-### #82 High End Cinematic Fashion Portrait
+### #125 Hermes Agent Character Design Sheet
+
+<img src="assets/gpt-image-2-x-discussions/hermes-agent-character-design-sheet-1.jpg" alt="Hermes Agent Character Design Sheet" width="440">
+
+- **Author:** [Neo](https://x.com/NeoAIForecast)
+- **Source:** [X](https://x.com/NeoAIForecast/status/2046795552650936695)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Create a character design sheet for Hermes Agent, with key info
+```
+
+---
+
+### #126 High End Cinematic Fashion Portrait
 
 | View 1 | View 2 |
 | --- | --- |
@@ -1475,7 +2241,7 @@ Create a hand-drawn style infographic card with a 9:16 vertical ratio. The card 
 
 ---
 
-### #83 Hooded Fantasy Figure With Obscured Face
+### #127 Hooded Fantasy Figure With Obscured Face
 
 <img src="assets/gpt-image-2-x-discussions/hooded-fantasy-figure-with-obscured-face-1.jpg" alt="Hooded Fantasy Figure With Obscured Face" width="540">
 
@@ -1492,7 +2258,7 @@ A minimalist fantasy character portrait centered on a plain light gray backgroun
 
 ---
 
-### #84 Japanese Business Slide On E Application
+### #128 Japanese Business Slide On E Application
 
 <img src="assets/gpt-image-2-x-discussions/japanese-business-slide-on-e-application-1.jpg" alt="Japanese Business Slide On E Application" width="620">
 
@@ -1509,7 +2275,7 @@ A minimalist fantasy character portrait centered on a plain light gray backgroun
 
 ---
 
-### #85 Japanese Character Relationship Chart Poster
+### #129 Japanese Character Relationship Chart Poster
 
 <img src="assets/gpt-image-2-x-discussions/japanese-character-relationship-chart-poster-1.jpg" alt="Japanese Character Relationship Chart Poster" width="440">
 
@@ -1526,7 +2292,7 @@ Using REFERENCE_0 as the cast reference, transform the simple lineup into an orn
 
 ---
 
-### #86 Japanese Corporate Scope Slide
+### #130 Japanese Corporate Scope Slide
 
 <img src="assets/gpt-image-2-x-discussions/japanese-corporate-scope-slide-1.jpg" alt="Japanese Corporate Scope Slide" width="620">
 
@@ -1543,7 +2309,24 @@ Using REFERENCE_0 as the cast reference, transform the simple lineup into an orn
 
 ---
 
-### #87 Kawaii Coffee Dog Vector Illustration
+### #131 Japanese Shonen Manga Quill Page
+
+<img src="assets/gpt-image-2-x-discussions/japanese-shonen-manga-quill-page-1.jpg" alt="Japanese Shonen Manga Quill Page" width="360">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2046781861502779523)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Make a sample page of a colorized Japanese shonen adventure manga. The page should vividly depict our main character found a magical quill. The name of the quill is called the Quill of GPT Image. Make it dramatic. The magical quill has strong power sealed inside it. Additional instructions: Aspect ratio: Portrait 1440x2560. The pen should have an OpenAI logo on it. The language throughout the manga should be Japanese. Think carefully first to make this a good story with good split of manga panels. The page should appear as a photo of a physical page, not a digital page.
+```
+
+---
+
+### #132 Kawaii Coffee Dog Vector Illustration
 
 <img src="assets/gpt-image-2-x-discussions/kawaii-coffee-dog-vector-illustration-1.jpg" alt="Kawaii Coffee Dog Vector Illustration" width="620">
 
@@ -1560,7 +2343,7 @@ a cute kawaii cartoon {argument name="animal" default="dog"} holding a steaming 
 
 ---
 
-### #88 Latin American Tech Festival Poster
+### #133 Latin American Tech Festival Poster
 
 <img src="assets/gpt-image-2-x-discussions/latin-american-tech-festival-poster-1.jpg" alt="Latin American Tech Festival Poster" width="540">
 
@@ -1577,7 +2360,7 @@ Create a highly detailed, colorful isometric festival poster illustration of a b
 
 ---
 
-### #89 Luxury Watch Technical Poster
+### #134 Luxury Watch Technical Poster
 
 <img src="assets/gpt-image-2-x-discussions/luxury-watch-technical-poster-1.jpg" alt="Luxury Watch Technical Poster" width="360">
 
@@ -1594,7 +2377,24 @@ Create a highly detailed, colorful isometric festival poster illustration of a b
 
 ---
 
-### #90 Maradona Boca Juniors Infographic Poster
+### #135 Maple Personal Anime Infographic
+
+<img src="assets/gpt-image-2-x-discussions/maple-personal-anime-infographic-1.jpg" alt="Maple Personal Anime Infographic" width="440">
+
+- **Author:** [Maple Was Here](https://x.com/maplewashere_)
+- **Source:** [X](https://x.com/maplewashere_/status/2047050505093030321)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Knowing everything you know about me, make an infographic of me. Make a cartoon anime style image. Thanks for the prompt
+```
+
+---
+
+### #136 Maradona Boca Juniors Infographic Poster
 
 <img src="assets/gpt-image-2-x-discussions/maradona-boca-juniors-infographic-poster-1.jpg" alt="Maradona Boca Juniors Infographic Poster" width="360">
 
@@ -1611,7 +2411,7 @@ infographic poster of {argument name="player" default="Maradona"} at {argument n
 
 ---
 
-### #91 Marcus Rashford Inter Milan Wallpaper
+### #137 Marcus Rashford Inter Milan Wallpaper
 
 | View 1 | View 2 |
 | --- | --- |
@@ -1630,7 +2430,7 @@ Make an image, a {argument name="player" default="Marcus Rashford"} design for {
 
 ---
 
-### #92 Minimal Futuristic Anime Girl Portrait
+### #138 Minimal Futuristic Anime Girl Portrait
 
 <img src="assets/gpt-image-2-x-discussions/minimal-futuristic-anime-girl-portrait-1.jpg" alt="Minimal Futuristic Anime Girl Portrait" width="440">
 
@@ -1647,7 +2447,7 @@ A simple anime-style upper-body character illustration on a plain light gray bac
 
 ---
 
-### #93 Minimal Sci Fi Anime Girl Portrait
+### #139 Minimal Sci Fi Anime Girl Portrait
 
 <img src="assets/gpt-image-2-x-discussions/minimal-sci-fi-anime-girl-portrait-1.jpg" alt="Minimal Sci Fi Anime Girl Portrait" width="440">
 
@@ -1664,7 +2464,7 @@ A simple anime-style upper-body portrait of a futuristic young woman centered on
 
 ---
 
-### #94 Mirror Editorial Portrait
+### #140 Mirror Editorial Portrait
 
 <img src="assets/gpt-image-2-x-discussions/mirror-editorial-portrait-1.jpg" alt="Mirror Editorial Portrait" width="360">
 
@@ -1681,7 +2481,24 @@ Stunningly beautiful woman with a cool, aloof atmospheric vibe, exquisite and re
 
 ---
 
-### #95 Motocross Dirt Bike Action Portrait
+### #141 Modern Indie Comic Page For Kids
+
+<img src="assets/gpt-image-2-x-discussions/modern-indie-comic-page-for-kids-1.jpg" alt="Modern Indie Comic Page For Kids" width="440">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2046787206585430189)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+A page of a comic book in the style of modern indie comic topic: a story for 6 years kids
+```
+
+---
+
+### #142 Motocross Dirt Bike Action Portrait
 
 <img src="assets/gpt-image-2-x-discussions/motocross-dirt-bike-action-portrait-1.jpg" alt="Motocross Dirt Bike Action Portrait" width="440">
 
@@ -1698,7 +2515,7 @@ A cinematic high resolution action portrait of a young man riding a modern motoc
 
 ---
 
-### #96 Neon Tattoo Side Profile Portrait
+### #143 Neon Tattoo Side Profile Portrait
 
 <img src="assets/gpt-image-2-x-discussions/neon-tattoo-side-profile-portrait-1.jpg" alt="Neon Tattoo Side Profile Portrait" width="440">
 
@@ -1715,7 +2532,24 @@ photorealistic portrait of a real person with facial features identical to the m
 
 ---
 
-### #97 Openai Researcher Chinese Comic
+### #144 Openai Livestream Rahul Cto Screenshot
+
+<img src="assets/gpt-image-2-x-discussions/openai-livestream-rahul-cto-screenshot-1.jpg" alt="Openai Livestream Rahul Cto Screenshot" width="620">
+
+- **Author:** [neural nets.](https://x.com/cneuralnetwork)
+- **Source:** [X](https://x.com/cneuralnetwork/status/2047009730770661779)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Youtube screenshot of an openai livestream where sam altman and rahul gandhi announce that rahul is the new CTO
+```
+
+---
+
+### #145 Openai Researcher Chinese Comic
 
 <img src="assets/gpt-image-2-x-discussions/openai-researcher-chinese-comic-1.jpg" alt="Openai Researcher Chinese Comic" width="360">
 
@@ -1732,7 +2566,7 @@ Generate a full color Chinese-text manga about this OpenAI 研究科学家, 陈�
 
 ---
 
-### #98 Pascal B Comic Strip History
+### #146 Pascal B Comic Strip History
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -1752,7 +2586,24 @@ a comic about {argument name="subject" default="Pascal-B"}
 
 ---
 
-### #99 Physical Exam Question Answer Set
+### #147 Personal Anime Infographic Template
+
+<img src="assets/gpt-image-2-x-discussions/personal-anime-infographic-template-1.jpg" alt="Personal Anime Infographic Template" width="360">
+
+- **Author:** [Kris Kashtanova](https://x.com/icreatelife)
+- **Source:** [X](https://x.com/icreatelife/status/2047042187683066100)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Knowing everything you know about me, make an infographic of me. Make a cartoon anime style image. I'd love to see what you got.
+```
+
+---
+
+### #148 Physical Exam Question Answer Set
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -1772,7 +2623,7 @@ generate 4 images and each image is an answer of provided question
 
 ---
 
-### #100 Political Map Visualization
+### #149 Political Map Visualization
 
 <img src="assets/gpt-image-2-x-discussions/political-map-visualization-1.jpg" alt="Political Map Visualization" width="540">
 
@@ -1789,7 +2640,7 @@ an image on a {argument name="region" default="indian"} political map
 
 ---
 
-### #101 Product Marketing Elegant Japanese Divorce Law Lp Hero
+### #150 Product Marketing Elegant Japanese Divorce Law Lp Hero
 
 <img src="assets/gpt-image-2-x-discussions/product-marketing-elegant-japanese-divorce-law-lp-hero-1.jpg" alt="Product Marketing Elegant Japanese Divorce Law Lp Hero" width="620">
 
@@ -1806,7 +2657,7 @@ Create a polished Japanese landing page hero image for a fictional divorce-law f
 
 ---
 
-### #102 Product Marketing Hand Drawn Hermes Agent Poster
+### #151 Product Marketing Hand Drawn Hermes Agent Poster
 
 <img src="assets/gpt-image-2-x-discussions/product-marketing-hand-drawn-hermes-agent-poster-1.jpg" alt="Product Marketing Hand Drawn Hermes Agent Poster" width="440">
 
@@ -1823,7 +2674,7 @@ Generate a hand-drawn style promotional poster introducing {argument name="subje
 
 ---
 
-### #103 Product Marketing Hidden Engraved Rice Grain
+### #152 Product Marketing Hidden Engraved Rice Grain
 
 <img src="assets/gpt-image-2-x-discussions/product-marketing-hidden-engraved-rice-grain-1.jpg" alt="Product Marketing Hidden Engraved Rice Grain" width="620">
 
@@ -1840,7 +2691,7 @@ A photorealistic close-up tabletop scene showing a large mound of uncooked long-
 
 ---
 
-### #104 Product Marketing Japanese Eel Derby Logo
+### #153 Product Marketing Japanese Eel Derby Logo
 
 <img src="assets/gpt-image-2-x-discussions/product-marketing-japanese-eel-derby-logo-1.jpg" alt="Product Marketing Japanese Eel Derby Logo" width="540">
 
@@ -1857,7 +2708,7 @@ Create a bold Japanese logo on a clean light gray background for a fictional rac
 
 ---
 
-### #105 Product Marketing Japanese Inheritance Tax Lp Hero
+### #154 Product Marketing Japanese Inheritance Tax Lp Hero
 
 <img src="assets/gpt-image-2-x-discussions/product-marketing-japanese-inheritance-tax-lp-hero-1.jpg" alt="Product Marketing Japanese Inheritance Tax Lp Hero" width="620">
 
@@ -1874,7 +2725,7 @@ Create a clean, premium Japanese landing page hero image for a fictional tax acc
 
 ---
 
-### #106 Product Marketing Japanese Law Tax Services Lp Hero
+### #155 Product Marketing Japanese Law Tax Services Lp Hero
 
 <img src="assets/gpt-image-2-x-discussions/product-marketing-japanese-law-tax-services-lp-hero-1.jpg" alt="Product Marketing Japanese Law Tax Services Lp Hero" width="620">
 
@@ -1891,7 +2742,7 @@ Create a polished Japanese landing-page hero banner for a fictional combined law
 
 ---
 
-### #107 Product Marketing Surreal Cowboy Fashion Portrait
+### #156 Product Marketing Surreal Cowboy Fashion Portrait
 
 | View 1 | View 2 |
 | --- | --- |
@@ -1910,7 +2761,7 @@ A surreal fashion portrait of a mysterious cowboy figure centered in the frame, 
 
 ---
 
-### #108 Professional Automotive Technical Infographic
+### #157 Professional Automotive Technical Infographic
 
 <img src="assets/gpt-image-2-x-discussions/professional-automotive-technical-infographic-1.jpg" alt="Professional Automotive Technical Infographic" width="360">
 
@@ -1927,7 +2778,24 @@ Chinese infographic with clear layout, striking large titles, and organized para
 
 ---
 
-### #109 Rubber Duck Adventure Movie Poster
+### #158 Psa 10 Pokemon Slab Method
+
+<img src="assets/gpt-image-2-x-discussions/psa-10-pokemon-slab-method-1.jpg" alt="Psa 10 Pokemon Slab Method" width="440">
+
+- **Author:** [Emmet Halm](https://x.com/ehalm_)
+- **Source:** [X](https://x.com/ehalm_/status/2047021907363369418)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+"PSA 10 Pokemon slab [insert image]"
+```
+
+---
+
+### #159 Rubber Duck Adventure Movie Poster
 
 | View 1 | View 2 |
 | --- | --- |
@@ -1946,7 +2814,7 @@ A story about a cute rubber duck boy named "{argument name="character name" defa
 
 ---
 
-### #110 Satirical Expensive Supplements Cartoon
+### #160 Satirical Expensive Supplements Cartoon
 
 <img src="assets/gpt-image-2-x-discussions/satirical-expensive-supplements-cartoon-1.jpg" alt="Satirical Expensive Supplements Cartoon" width="540">
 
@@ -1963,7 +2831,24 @@ A clean, square editorial cartoon in flat vector style with soft shading and bol
 
 ---
 
-### #111 Silicon Valley City Promo Poster
+### #161 Semiconductor Chip Manufacturing Infographic
+
+<img src="assets/gpt-image-2-x-discussions/semiconductor-chip-manufacturing-infographic-1.jpg" alt="Semiconductor Chip Manufacturing Infographic" width="360">
+
+- **Author:** [Rohan Paul](https://x.com/rohanpaul_ai)
+- **Source:** [X](https://x.com/rohanpaul_ai/status/2047047274774331747)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+"Create the most detailed infographic ever made about how a modern semiconductor chip is manufactured, from quartz sand to a finished 3nm-class processor."
+```
+
+---
+
+### #162 Silicon Valley City Promo Poster
 
 <img src="assets/gpt-image-2-x-discussions/silicon-valley-city-promo-poster-1.jpg" alt="Silicon Valley City Promo Poster" width="360">
 
@@ -1980,7 +2865,7 @@ A clean, square editorial cartoon in flat vector style with soft shading and bol
 
 ---
 
-### #112 Social Media Post Absurd Purple Mofumofu Pachinko Machine
+### #163 Social Media Post Absurd Purple Mofumofu Pachinko Machine
 
 <img src="assets/gpt-image-2-x-discussions/social-media-post-absurd-purple-mofumofu-pachinko-machine-1.jpg" alt="Social Media Post Absurd Purple Mofumofu Pachinko Machine" width="440">
 
@@ -1997,7 +2882,7 @@ A hyper-detailed Japanese pachinko machine front view designed as a surreal cont
 
 ---
 
-### #113 Social Media Post Astronomical Orion Nebula Generation
+### #164 Social Media Post Astronomical Orion Nebula Generation
 
 | View 1 | View 2 |
 | --- | --- |
@@ -2016,7 +2901,7 @@ picture perfect image of the {argument name="celestial object" default="Great Or
 
 ---
 
-### #114 Social Media Post Chibi Catgirl At Yokohama Stadium
+### #165 Social Media Post Chibi Catgirl At Yokohama Stadium
 
 <img src="assets/gpt-image-2-x-discussions/social-media-post-chibi-catgirl-at-yokohama-stadium-1.jpg" alt="Social Media Post Chibi Catgirl At Yokohama Stadium" width="540">
 
@@ -2033,7 +2918,7 @@ A cute anime chibi girl walking toward the camera on the tree-lined pedestrian a
 
 ---
 
-### #115 Social Media Post Cinematic Ai Mood Board
+### #166 Social Media Post Cinematic Ai Mood Board
 
 <img src="assets/gpt-image-2-x-discussions/social-media-post-cinematic-ai-mood-board-1.jpg" alt="Social Media Post Cinematic Ai Mood Board" width="360">
 
@@ -2050,7 +2935,7 @@ Make a {argument name="format" default="mood board"} about {argument name="subje
 
 ---
 
-### #116 Social Media Post Japanese Legal Services Lp Banner
+### #167 Social Media Post Japanese Legal Services Lp Banner
 
 <img src="assets/gpt-image-2-x-discussions/social-media-post-japanese-legal-services-lp-banner-1.jpg" alt="Social Media Post Japanese Legal Services Lp Banner" width="620">
 
@@ -2067,7 +2952,7 @@ A Japanese listing-ad style landing page hero banner for a fictional law office 
 
 ---
 
-### #117 Social Media Post Kawaii Bunny Garden Neon Scene
+### #168 Social Media Post Kawaii Bunny Garden Neon Scene
 
 <img src="assets/gpt-image-2-x-discussions/social-media-post-kawaii-bunny-garden-neon-scene-1.jpg" alt="Social Media Post Kawaii Bunny Garden Neon Scene" width="540">
 
@@ -2084,7 +2969,7 @@ A dreamy kawaii 3D render in a lush flower garden at night, filled with glowing 
 
 ---
 
-### #118 Social Media Post Split Screen Time Travel Scene
+### #169 Social Media Post Split Screen Time Travel Scene
 
 | View 1 | View 2 |
 | --- | --- |
@@ -2103,7 +2988,7 @@ A horizontal split-screen cinematic shot of {argument name="scene" default="Time
 
 ---
 
-### #119 Social Media Post Sunlit Streetwear Jacket Portrait
+### #170 Social Media Post Sunlit Streetwear Jacket Portrait
 
 | View 1 | View 2 |
 | --- | --- |
@@ -2122,7 +3007,7 @@ A realistic lifestyle fashion photo of a woman standing indoors in a warm, sunli
 
 ---
 
-### #120 Social Media Post Transform Train Scene Into Vintage Diner
+### #171 Social Media Post Transform Train Scene Into Vintage Diner
 
 <img src="assets/gpt-image-2-x-discussions/social-media-post-transform-train-scene-into-vintage-diner-1.jpg" alt="Social Media Post Transform Train Scene Into Vintage Diner" width="540">
 
@@ -2139,7 +3024,7 @@ Using the provided reference image, completely replace the train interior scene 
 
 ---
 
-### #121 Social Media Post Vintage Bosphorus Bridge Ferry Scene
+### #172 Social Media Post Vintage Bosphorus Bridge Ferry Scene
 
 <img src="assets/gpt-image-2-x-discussions/social-media-post-vintage-bosphorus-bridge-ferry-scene-1.jpg" alt="Social Media Post Vintage Bosphorus Bridge Ferry Scene" width="440">
 
@@ -2156,7 +3041,7 @@ A dreamy vintage-style photograph of the Bosphorus in {argument name="city" defa
 
 ---
 
-### #122 Social Media Post Vintage Cruise Ship In Istanbul
+### #173 Social Media Post Vintage Cruise Ship In Istanbul
 
 <img src="assets/gpt-image-2-x-discussions/social-media-post-vintage-cruise-ship-in-istanbul-1.jpg" alt="Social Media Post Vintage Cruise Ship In Istanbul" width="440">
 
@@ -2173,7 +3058,7 @@ A front-facing photograph of a massive white cruise ship centered in the frame o
 
 ---
 
-### #123 Spanish Neon Ai Business Infographic
+### #174 Spanish Neon Ai Business Infographic
 
 | View 1 | View 2 |
 | --- | --- |
@@ -2192,7 +3077,7 @@ A front-facing photograph of a massive white cruise ship centered in the frame o
 
 ---
 
-### #124 Sportsperson Career Cinematic Poster Set
+### #175 Sportsperson Career Cinematic Poster Set
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -2212,7 +3097,7 @@ Create an epic poster showcasing the most iconic moments of (sportsperson name) 
 
 ---
 
-### #125 Studio Portrait From Train Photo
+### #176 Studio Portrait From Train Photo
 
 <img src="assets/gpt-image-2-x-discussions/studio-portrait-from-train-photo-1.jpg" alt="Studio Portrait From Train Photo" width="440">
 
@@ -2229,7 +3114,7 @@ Using the provided reference image, turn the candid train snapshot into a clean 
 
 ---
 
-### #126 Surreal Floating Head With Censor Block
+### #177 Surreal Floating Head With Censor Block
 
 <img src="assets/gpt-image-2-x-discussions/surreal-floating-head-with-censor-block-1.jpg" alt="Surreal Floating Head With Censor Block" width="440">
 
@@ -2246,7 +3131,7 @@ A surreal studio portrait of a floating human head seen straight-on, centered in
 
 ---
 
-### #127 Tifa Side Kick Action Shot
+### #178 Tifa Side Kick Action Shot
 
 <img src="assets/gpt-image-2-x-discussions/tifa-side-kick-action-shot-1.jpg" alt="Tifa Side Kick Action Shot" width="620">
 
@@ -2263,7 +3148,7 @@ Ultra-detailed photorealistic action shot of Tifa Lockhart from Final Fantasy VI
 
 ---
 
-### #128 Tokusatsu Hero Reference Sheet
+### #179 Tokusatsu Hero Reference Sheet
 
 <img src="assets/gpt-image-2-x-discussions/tokusatsu-hero-reference-sheet-1.jpg" alt="Tokusatsu Hero Reference Sheet" width="440">
 
@@ -2280,7 +3165,7 @@ Ultra-detailed photorealistic action shot of Tifa Lockhart from Final Fantasy VI
 
 ---
 
-### #129 Transformers Space Scenes
+### #180 Transformers Space Scenes
 
 | View 1 | View 2 |
 | --- | --- |
@@ -2299,7 +3184,7 @@ Image 1: All {argument name="faction A" default="Autobots"} assembled at the lun
 
 ---
 
-### #130 Translate Japanese Manual To Chinese
+### #181 Translate Japanese Manual To Chinese
 
 <img src="assets/gpt-image-2-x-discussions/translate-japanese-manual-to-chinese-1.jpg" alt="Translate Japanese Manual To Chinese" width="440">
 
@@ -2316,7 +3201,24 @@ Using the provided reference image, recreate the same product instruction sheet 
 
 ---
 
-### #131 Ultra Woman Kaiju Battle Variations
+### #182 Travel Journal Illustration
+
+<img src="assets/gpt-image-2-x-discussions/travel-journal-illustration-1.jpg" alt="Travel Journal Illustration" width="360">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2046839253636612361)
+- **Published:** April 22, 2026
+- **Languages:** zh
+
+**Prompt:**
+
+```text
+手绘风格的《{城市名}旅行手账插画》 --- 提示词： 请绘制一张色彩鲜艳、竖版（9:16）手绘风格的《{城市名}旅行手账插画》，画风仿佛由一位充满好奇心的孩子用蜡笔创作，整体使用柔和温暖的浅色背景（如浅黄色），搭配红色、蓝色、绿色等明亮色调，营造温馨、童趣、满满旅行气息的氛围。 一、主画面：手账式旅行路线 在插画中央绘制一条“蜿蜒曲折的旅行路线”，路线用箭头 + 虚线连接多个地点，由 {天数} 日行程自动生成推荐景点： 示例格式（自动替换为{城市名}相关）： - “第 1 站：{景点 1 推荐 + 简短趣味描述}” - “第 2 站：{景点 2 推荐 + 简短趣味描述}” - “第 3 站：{景点 3 推荐 + 简短趣味描述}” - … - “最终站：{当地招牌美食/纪念品 + 温馨结束语}” > 旅程站点数量随天数自动生成： > 若用户未输入天数，则按默认 1 日 / 精华线路生成。 --- 二、周围趣味元素（全部根据城市自动替换） 在路线周围加入大量充满童趣的小元素，例如： - 可爱的旅行角色： “拿着当地特色小吃的小朋友”、 “背着旅行包的冒险小孩”等。 - 当地标志性建筑的童趣 Q 版手绘： 如 “{城市地标1}”、“{城市地标2}”、“{城市地标3}”。 - 有趣的提示牌： “小心迷路！”、“注意人流！”、“前方好吃的！”（可根据城市语境调整）。 - 贴纸式小标语： “{城市名}旅行记忆已解锁！” “{城市名}美食大冒险！” “下一站去哪儿？” - 当地美食的可爱小图标： 如 “{城市美食1}”、“{城市美食2}”、“{城市美食3}”。 - 感叹句（保持童真风）： “原来{城市名}这么好玩！” “我要再来一次！” --- 三、整体风格要求 - 手绘蜡笔风 / 儿童旅行日志风格 - 色彩鲜艳、构图饱满但温暖 - 强调旅行的欢乐与探索感 - 所有文字采用可爱的手写字体 - 让整个画面像一本童趣满满的旅行手账页面 --- “北京 7 日游”
+```
+
+---
+
+### #183 Ultra Woman Kaiju Battle Variations
 
 <img src="assets/gpt-image-2-x-discussions/ultra-woman-kaiju-battle-variations-1.jpg" alt="Ultra Woman Kaiju Battle Variations" width="360">
 
@@ -2333,7 +3235,7 @@ Using the provided reference image, recreate the same product instruction sheet 
 
 ---
 
-### #132 Upscaled Vintage Soccer Photo
+### #184 Upscaled Vintage Soccer Photo
 
 <img src="assets/gpt-image-2-x-discussions/upscaled-vintage-soccer-photo-1.jpg" alt="Upscaled Vintage Soccer Photo" width="620">
 
@@ -2350,7 +3252,7 @@ Using the provided reference image, upscale and restore the old soccer photograp
 
 ---
 
-### #133 Vintage Engraved Knight Helmet
+### #185 Vintage Engraved Knight Helmet
 
 <img src="assets/gpt-image-2-x-discussions/vintage-engraved-knight-helmet-1.jpg" alt="Vintage Engraved Knight Helmet" width="540">
 
@@ -2367,7 +3269,24 @@ A clean minimalist black-and-white ink illustration of a medieval knight helmet 
 
 ---
 
-### #134 Window Side Sweet Cool Beauty Portrait
+### #186 Visual Polyglot Magazine Collage
+
+<img src="assets/gpt-image-2-x-discussions/visual-polyglot-magazine-collage-1.jpg" alt="Visual Polyglot Magazine Collage" width="440">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2046775660182385070)
+- **Published:** April 22, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+I am creating a magazine page with the theme of "visual polyglot". The title in the center of the image should be "Create Everything at Once". Create a piece of art celebrating visual creations, not limited to beautiful photographs but also across the full breadth of human visual culture and natural visual elements. There should be curated collage representing the diverse distribution: scientific diagrams, the periodic table, the solar system, medieval manuscript pages, botanical illustrations, anatomical drawings, old maps, climate charts, engineering schematics, transit signage, multilingual text, comic panels, UI screenshots, a camera photo, a butterfly specimen, pie charts, architectural blueprints, and façade drawings. The text frames the model as fluent across languages, notation systems, interfaces, cultural forms, and visual conventions-able to move from utility to beauty, from document understanding to artistic generation. Also feature artistic elements like pixel art, styles, history, sculpture, nature, photography, paintings, and all art forms. These are just examples, I need you to actively think about other elements / styles that may fit in a good design that's not limited to these concepts. The overall effect is that of a premium research announcement or museum-style manifesto: elegant, ambitious, and designed to argue that image intelligence should be trained on the whole visual world, not just polished aesthetics. Use an unstructured, creative and artistic layout, such as but not limited to fan out, avoid grid-like layouts. Portrait 4:5 aspect ratio. Don't add any content text beside the "Create Everything at Once" title. Text as part of the art is okay. Avoid a beige tint of the overall style, since we want vibrant elements to be vibrant.
+```
+
+---
+
+### #187 Window Side Sweet Cool Beauty Portrait
 
 <img src="assets/gpt-image-2-x-discussions/window-side-sweet-cool-beauty-portrait-1.jpg" alt="Window Side Sweet Cool Beauty Portrait" width="360">
 
@@ -2384,7 +3303,7 @@ Sweet-cool atmospheric beauty, soft alluring look, tall and slender figure Scene
 
 ---
 
-### #135 Youtube Thumbnail Cute Winter Anime Channel Poster
+### #188 Youtube Thumbnail Cute Winter Anime Channel Poster
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-cute-winter-anime-channel-poster-1.jpg" alt="Youtube Thumbnail Cute Winter Anime Channel Poster" width="620">
 
@@ -2401,7 +3320,7 @@ A cute pastel anime promotional poster in a dreamy idol-fanclub style, landscape
 
 ---
 
-### #136 Youtube Thumbnail Dark Fantasy Wizard Podcast Poster
+### #189 Youtube Thumbnail Dark Fantasy Wizard Podcast Poster
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-dark-fantasy-wizard-podcast-poster-1.jpg" alt="Youtube Thumbnail Dark Fantasy Wizard Podcast Poster" width="360">
 
@@ -2418,7 +3337,7 @@ A dramatic dark fantasy studio poster of two wizard-like figures posed like a pa
 
 ---
 
-### #137 Youtube Thumbnail Japanese Ai Design Webinar Thumbnail
+### #190 Youtube Thumbnail Japanese Ai Design Webinar Thumbnail
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-japanese-ai-design-webinar-thumbnail-1.jpg" alt="Youtube Thumbnail Japanese Ai Design Webinar Thumbnail" width="620">
 
@@ -2435,7 +3354,7 @@ Create a clean, modern Japanese webinar thumbnail in a wide 16:9 layout with a c
 
 ---
 
-### #138 Youtube Thumbnail Social Media Meme Cover
+### #191 Youtube Thumbnail Social Media Meme Cover
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-social-media-meme-cover-1.jpg" alt="Youtube Thumbnail Social Media Meme Cover" width="360">
 
@@ -2452,7 +3371,7 @@ Draw a {argument name="platform" default="Douyin"} short video cover. Large titl
 
 ---
 
-### #139 Youtube Thumbnail Steampunk Electrovid Homepage
+### #192 Youtube Thumbnail Steampunk Electrovid Homepage
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-steampunk-electrovid-homepage-1.jpg" alt="Youtube Thumbnail Steampunk Electrovid Homepage" width="360">
 
@@ -2469,7 +3388,7 @@ Create a full-page steampunk video platform homepage mockup in a dark antique br
 
 ---
 
-### #140 Youtube Thumbnail Streaming Scene Screenshot
+### #193 Youtube Thumbnail Streaming Scene Screenshot
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-streaming-scene-screenshot-1.jpg" alt="Youtube Thumbnail Streaming Scene Screenshot" width="620">
 
@@ -2486,7 +3405,24 @@ twitch screenshot of {argument name="person" default="tung tung sahur"} playing 
 
 ---
 
-### #141 Ancient Arpg Mmo Screenshot
+### #194 Ai Image Generation Process Infographic
+
+<img src="assets/gpt-image-2-x-discussions/ai-image-generation-process-infographic-1.jpg" alt="Ai Image Generation Process Infographic" width="540">
+
+- **Author:** [LudovicCreator](https://x.com/LudovicCreator)
+- **Source:** [X](https://x.com/LudovicCreator/status/2046642624317014144)
+- **Published:** April 21, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Design a clean, modern infographic explaining how AI image generation models work. Use a structured, step-by-step layout with clear sections and visual flow (top-to-bottom or left-to-right). Include these stages: 1.Input Prompt - user enters a text description (show text box icon) 2.Text Processing - AI interprets keywords and meaning (NLP concept) 3.Latent Space / Encoding - convert text into numerical representation 4.Image Generation Process - diffusion or generative model gradually creates an image from noise 5.Refinement - model improves details step by step 6.Output - high-quality generated image Use simple icons (brain, data nodes, noise-to-image transition, pixels, etc.) and arrows to show the process flow. Style: tech-focused, futuristic, minimal but visually engaging. Use gradients (blue, purple, neon tones), dark or light background. Include short captions (1-2 lines max per step), avoid clutter. Optional: add a small side section explaining Training Phase (datasets, learning patterns, neural networks). Make it visually balanced, easy to understand for beginners, and suitable for educational or social media use
+```
+
+---
+
+### #195 Ancient Arpg Mmo Screenshot
 
 <img src="assets/gpt-image-2-x-discussions/ancient-arpg-mmo-screenshot-1.jpg" alt="Ancient Arpg Mmo Screenshot" width="540">
 
@@ -2503,7 +3439,7 @@ help me generate a screenshot of an ancient ARPG MMO open-world game themed arou
 
 ---
 
-### #142 Backpropagation Explainer Infographic
+### #196 Backpropagation Explainer Infographic
 
 <img src="assets/gpt-image-2-x-discussions/backpropagation-explainer-infographic-1.jpg" alt="Backpropagation Explainer Infographic" width="440">
 
@@ -2520,7 +3456,7 @@ help me generate a screenshot of an ancient ARPG MMO open-world game themed arou
 
 ---
 
-### #143 Barbecue Three Sword Style Portrait
+### #197 Barbecue Three Sword Style Portrait
 
 <img src="assets/gpt-image-2-x-discussions/barbecue-three-sword-style-portrait-1.jpg" alt="Barbecue Three Sword Style Portrait" width="440">
 
@@ -2537,7 +3473,7 @@ a stunning beauty with a cool, aloof atmosphere, delicate facial features, a col
 
 ---
 
-### #144 Black Myth Pan Jinlian Game Screen
+### #198 Black Myth Pan Jinlian Game Screen
 
 <img src="assets/gpt-image-2-x-discussions/black-myth-pan-jinlian-game-screen-1.jpg" alt="Black Myth Pan Jinlian Game Screen" width="620">
 
@@ -2554,7 +3490,7 @@ a stunning beauty with a cool, aloof atmosphere, delicate facial features, a col
 
 ---
 
-### #145 Cartoon Style Infographic
+### #199 Cartoon Style Infographic
 
 <img src="assets/gpt-image-2-x-discussions/cartoon-style-infographic-1.jpg" alt="Cartoon Style Infographic" width="620">
 
@@ -2571,7 +3507,7 @@ Please create a cartoon-style infographic based on the provided content, followi
 
 ---
 
-### #146 Chalkboard Style Infographic
+### #200 Chalkboard Style Infographic
 
 <img src="assets/gpt-image-2-x-discussions/chalkboard-style-infographic-1.jpg" alt="Chalkboard Style Infographic" width="620">
 
@@ -2588,7 +3524,7 @@ Please create an infographic based on the input content, highlighting key themes
 
 ---
 
-### #147 Creamy Garlic Mushroom Pasta Infographic
+### #201 Creamy Garlic Mushroom Pasta Infographic
 
 <img src="assets/gpt-image-2-x-discussions/creamy-garlic-mushroom-pasta-infographic-1.jpg" alt="Creamy Garlic Mushroom Pasta Infographic" width="360">
 
@@ -2605,7 +3541,7 @@ Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-dow
 
 ---
 
-### #148 Data Science Machine Learning Landscape Infographic
+### #202 Data Science Machine Learning Landscape Infographic
 
 <img src="assets/gpt-image-2-x-discussions/data-science-machine-learning-landscape-infographic-1.jpg" alt="Data Science Machine Learning Landscape Infographic" width="620">
 
@@ -2622,7 +3558,7 @@ Generate somthing super complex and info dense…
 
 ---
 
-### #149 Demenigis Anatomy Color Guide
+### #203 Demenigis Anatomy Color Guide
 
 <img src="assets/gpt-image-2-x-discussions/demenigis-anatomy-color-guide-1.jpg" alt="Demenigis Anatomy Color Guide" width="440">
 
@@ -2639,7 +3575,7 @@ Generate somthing super complex and info dense…
 
 ---
 
-### #150 Early Heisei Shibuya Center Gai Street
+### #204 Early Heisei Shibuya Center Gai Street
 
 <img src="assets/gpt-image-2-x-discussions/early-heisei-shibuya-center-gai-street-1.jpg" alt="Early Heisei Shibuya Center Gai Street" width="360">
 
@@ -2656,7 +3592,41 @@ Generate somthing super complex and info dense…
 
 ---
 
-### #151 Fuji Couple Almost Kiss Portrait
+### #205 Family Disney Trip Manga Page
+
+<img src="assets/gpt-image-2-x-discussions/family-disney-trip-manga-page-1.jpg" alt="Family Disney Trip Manga Page" width="440">
+
+- **Author:** [ToNYD2WiLD](https://x.com/ToNYD2WiLD)
+- **Source:** [X](https://x.com/ToNYD2WiLD/status/2046684364852035816)
+- **Published:** April 21, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Using these images as reference can you make a MANGA of me, my wife, and our son's trip to Disney
+```
+
+---
+
+### #206 Fourteenth Dimension Dusk Shindig
+
+<img src="assets/gpt-image-2-x-discussions/fourteenth-dimension-dusk-shindig-1.jpg" alt="Fourteenth Dimension Dusk Shindig" width="620">
+
+- **Author:** [A Working Class Buddha](https://x.com/workingclassbud)
+- **Source:** [X](https://x.com/workingclassbud/status/2046506783850815703)
+- **Published:** April 21, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Chat gpt image 2? Prompt A dusk shindig with multiple fake imagination projections all aligned in the 14th dimensions
+```
+
+---
+
+### #207 Fuji Couple Almost Kiss Portrait
 
 <img src="assets/gpt-image-2-x-discussions/fuji-couple-almost-kiss-portrait-1.jpg" alt="Fuji Couple Almost Kiss Portrait" width="360">
 
@@ -2673,7 +3643,7 @@ Generate somthing super complex and info dense…
 
 ---
 
-### #152 Fuji Strawberry School Uniform Portrait
+### #208 Fuji Strawberry School Uniform Portrait
 
 <img src="assets/gpt-image-2-x-discussions/fuji-strawberry-school-uniform-portrait-1.jpg" alt="Fuji Strawberry School Uniform Portrait" width="360">
 
@@ -2690,7 +3660,24 @@ Generate somthing super complex and info dense…
 
 ---
 
-### #153 Gpt Image2 Revolution Game Promo
+### #209 Game Screenshot Prompt
+
+<img src="assets/gpt-image-2-x-discussions/game-screenshot-prompt-1.jpg" alt="Game Screenshot Prompt" width="620">
+
+- **Author:** [歸藏(guizang.ai)](https://x.com/op7418)
+- **Source:** [X](https://x.com/op7418/status/2046520509651886451)
+- **Published:** April 21, 2026
+- **Languages:** zh, en
+
+**Prompt:**
+
+```text
+我去！OpenAI 新模型这尺度有点大呀！ 提示词：帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图
+```
+
+---
+
+### #210 Gpt Image2 Revolution Game Promo
 
 <img src="assets/gpt-image-2-x-discussions/gpt-image2-revolution-game-promo-1.jpg" alt="Gpt Image2 Revolution Game Promo" width="360">
 
@@ -2707,7 +3694,7 @@ Generate somthing super complex and info dense…
 
 ---
 
-### #154 Gta 6 Cj Lucia Screenshot
+### #211 Gta 6 Cj Lucia Screenshot
 
 <img src="assets/gpt-image-2-x-discussions/gta-6-cj-lucia-screenshot-1.jpg" alt="Gta 6 Cj Lucia Screenshot" width="620">
 
@@ -2724,7 +3711,7 @@ generate a scene of GTA 6 screenshot where cj is with lucia
 
 ---
 
-### #155 Juliana Tokyo Bubble Era Dance Floor
+### #212 Juliana Tokyo Bubble Era Dance Floor
 
 <img src="assets/gpt-image-2-x-discussions/juliana-tokyo-bubble-era-dance-floor-1.jpg" alt="Juliana Tokyo Bubble Era Dance Floor" width="360">
 
@@ -2741,7 +3728,24 @@ generate a scene of GTA 6 screenshot where cj is with lucia
 
 ---
 
-### #156 Morning Fuji Homewear Portrait
+### #213 Kids Crayon Travel Journal Illustration
+
+<img src="assets/gpt-image-2-x-discussions/kids-crayon-travel-journal-illustration-1.jpg" alt="Kids Crayon Travel Journal Illustration" width="360">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2046730012242444465)
+- **Published:** April 21, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Please create a vibrant, child-like crayon-style vertical (9:16) illustration titled “{City Name} Travel Journal.” The artwork should look as if it were drawn by a curious child using colorful crayons, featuring a soft, warm light-toned background, bright reds, blues, greens, and other cheerful colors. Draw a winding, zigzagging travel route with arrows and dotted lines connecting multiple recommended attractions, cute doodles, local landmarks, foods, playful handwritten notes, funny signboards, sticker-style short phrases, and childlike exclamations. Use a crayon children’s hand-drawn travel diary style, a bright warm colorful palette, cozy lively composition, cute handwritten text, and the feeling of a young child’s fun travel-journal entry. Input: Chicago 7-Day Trip, English
+```
+
+---
+
+### #214 Morning Fuji Homewear Portrait
 
 <img src="assets/gpt-image-2-x-discussions/morning-fuji-homewear-portrait-1.jpg" alt="Morning Fuji Homewear Portrait" width="360">
 
@@ -2758,7 +3762,7 @@ generate a scene of GTA 6 screenshot where cj is with lucia
 
 ---
 
-### #157 Sam Altman Riding Bear Selfie
+### #215 Sam Altman Riding Bear Selfie
 
 <img src="assets/gpt-image-2-x-discussions/sam-altman-riding-bear-selfie-1.jpg" alt="Sam Altman Riding Bear Selfie" width="540">
 
@@ -2775,7 +3779,7 @@ generate image: Selfie of Sam Altman riding a bear
 
 ---
 
-### #158 Sam Altman Riding Bear Transparent Cutout
+### #216 Sam Altman Riding Bear Transparent Cutout
 
 <img src="assets/gpt-image-2-x-discussions/sam-altman-riding-bear-transparent-cutout-1.jpg" alt="Sam Altman Riding Bear Transparent Cutout" width="620">
 
@@ -2792,7 +3796,7 @@ Remove the background make it transparent
 
 ---
 
-### #159 Science Fiction Movie Poster Echoes
+### #217 Science Fiction Movie Poster Echoes
 
 <img src="assets/gpt-image-2-x-discussions/science-fiction-movie-poster-echoes-1.jpg" alt="Science Fiction Movie Poster Echoes" width="360">
 
@@ -2809,7 +3813,7 @@ Create a Science fiction movie poster
 
 ---
 
-### #160 Soft Black Mist Floor Portrait
+### #218 Soft Black Mist Floor Portrait
 
 <img src="assets/gpt-image-2-x-discussions/soft-black-mist-floor-portrait-1.jpg" alt="Soft Black Mist Floor Portrait" width="360">
 
@@ -2826,7 +3830,7 @@ Create a Science fiction movie poster
 
 ---
 
-### #161 Soft Black Mist Korean Idol Portrait
+### #219 Soft Black Mist Korean Idol Portrait
 
 <img src="assets/gpt-image-2-x-discussions/soft-black-mist-korean-idol-portrait-1.jpg" alt="Soft Black Mist Korean Idol Portrait" width="360">
 
@@ -2843,7 +3847,7 @@ Create a Science fiction movie poster
 
 ---
 
-### #162 Soten No Hekireki Anime Movie Poster
+### #220 Soten No Hekireki Anime Movie Poster
 
 <img src="assets/gpt-image-2-x-discussions/soten-no-hekireki-anime-movie-poster-1.jpg" alt="Soten No Hekireki Anime Movie Poster" width="440">
 
@@ -2860,7 +3864,24 @@ Create a Science fiction movie poster
 
 ---
 
-### #163 Youtube Thumbnail Anime Romance Movie Poster
+### #221 Tang Dynasty Queen Minion Squad
+
+<img src="assets/gpt-image-2-x-discussions/tang-dynasty-queen-minion-squad-1.jpg" alt="Tang Dynasty Queen Minion Squad" width="620">
+
+- **Author:** [宝玉](https://x.com/dotey)
+- **Source:** [X](https://x.com/dotey/status/2046723051895800086)
+- **Published:** April 21, 2026
+- **Languages:** zh, en
+
+**Prompt:**
+
+```text
+A traditional Chinese ink and color painting in Gongbi style on aged rice paper texture. A noblewoman in elaborate Tang Dynasty Hanfu robes sits on a wooden stool, holding a modern hairdryer to dry her long flowing hair. She is wearing black stockings, red high heels on one foot, resting on a small stool. Three 小黄人 dressed in ancient Chinese servant robes and hats attend to her: one on the left looks stressed holding the hairdryer's power cord, one center kneels polishing her red shoe with a cloth, and one on the right holds up a smartphone taking a photo for her. The background features classical gnarled pine trees, bamboo groves, and Taihu rocks. Traditional Chinese calligraphy written in the top right corner, accompanied by a red artist chop seal (寶玉). The color palette is muted mineral pigments. Humorous, anachronistic fusion. --ar 16:9
+```
+
+---
+
+### #222 Youtube Thumbnail Anime Romance Movie Poster
 
 | View 1 | View 2 |
 | --- | --- |
@@ -2879,7 +3900,7 @@ A Japanese theatrical romance movie poster in a tall smartphone-style vertical l
 
 ---
 
-### #164 Youtube Thumbnail Celestial Vtuber Livestream Overlay
+### #223 Youtube Thumbnail Celestial Vtuber Livestream Overlay
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-celestial-vtuber-livestream-overlay-1.jpg" alt="Youtube Thumbnail Celestial Vtuber Livestream Overlay" width="620">
 
@@ -2896,7 +3917,7 @@ A Japanese theatrical romance movie poster in a tall smartphone-style vertical l
 
 ---
 
-### #165 Youtube Thumbnail Chibi Shark Adventure Movie Poster
+### #224 Youtube Thumbnail Chibi Shark Adventure Movie Poster
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-chibi-shark-adventure-movie-poster-1.jpg" alt="Youtube Thumbnail Chibi Shark Adventure Movie Poster" width="440">
 
@@ -2913,7 +3934,7 @@ A bright, hyper-energetic Japanese movie poster illustration in a polished anime
 
 ---
 
-### #166 Youtube Thumbnail Explosive Anime Launch Thumbnail
+### #225 Youtube Thumbnail Explosive Anime Launch Thumbnail
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-explosive-anime-launch-thumbnail-1.jpg" alt="Youtube Thumbnail Explosive Anime Launch Thumbnail" width="620">
 
@@ -2930,7 +3951,7 @@ Create a flashy Japanese YouTube thumbnail in a high-impact anime promotional st
 
 ---
 
-### #167 Youtube Thumbnail Explosive Japanese X Monetization Thumbnail
+### #226 Youtube Thumbnail Explosive Japanese X Monetization Thumbnail
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-explosive-japanese-x-monetization-thumbnail-1.jpg" alt="Youtube Thumbnail Explosive Japanese X Monetization Thumbnail" width="620">
 
@@ -2947,7 +3968,7 @@ Create a flashy Japanese YouTube thumbnail in a high-impact anime marketing styl
 
 ---
 
-### #168 Youtube Thumbnail Flashy Japanese Ai Thumbnail
+### #227 Youtube Thumbnail Flashy Japanese Ai Thumbnail
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-flashy-japanese-ai-thumbnail-1.jpg" alt="Youtube Thumbnail Flashy Japanese Ai Thumbnail" width="620">
 
@@ -2964,7 +3985,7 @@ Create a hyper-saturated Japanese YouTube thumbnail in a flashy clickbait anime 
 
 ---
 
-### #169 Youtube Thumbnail Flashy X Monetization Youtube Thumbnail
+### #228 Youtube Thumbnail Flashy X Monetization Youtube Thumbnail
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-flashy-x-monetization-youtube-thumbnail-1.jpg" alt="Youtube Thumbnail Flashy X Monetization Youtube Thumbnail" width="620">
 
@@ -2981,7 +4002,7 @@ Create a high-impact Japanese YouTube thumbnail in a flashy internet-marketing s
 
 ---
 
-### #170 Youtube Thumbnail Japanese Four Panel Healing Ad Collage
+### #229 Youtube Thumbnail Japanese Four Panel Healing Ad Collage
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-japanese-four-panel-healing-ad-collage-1.jpg" alt="Youtube Thumbnail Japanese Four Panel Healing Ad Collage" width="540">
 
@@ -2998,7 +4019,7 @@ Create a high-impact Japanese YouTube thumbnail in a flashy internet-marketing s
 
 ---
 
-### #171 Youtube Thumbnail Japanese X Monetization Thumbnail
+### #230 Youtube Thumbnail Japanese X Monetization Thumbnail
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-japanese-x-monetization-thumbnail-1.jpg" alt="Youtube Thumbnail Japanese X Monetization Thumbnail" width="620">
 
@@ -3015,7 +4036,7 @@ Create a bold Japanese YouTube thumbnail in a flashy anime-business style, 16:9 
 
 ---
 
-### #172 Youtube Thumbnail Tech Tutorial Thumbnail With Ui Mockup
+### #231 Youtube Thumbnail Tech Tutorial Thumbnail With Ui Mockup
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-tech-tutorial-thumbnail-with-ui-mockup-1.jpg" alt="Youtube Thumbnail Tech Tutorial Thumbnail With Ui Mockup" width="620">
 
@@ -3032,7 +4053,7 @@ A clean modern YouTube thumbnail on a bright white background, split visually be
 
 ---
 
-### #173 Youtube Thumbnail Youtube Gaming Stream Despair Scene
+### #232 Youtube Thumbnail Youtube Gaming Stream Despair Scene
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-youtube-gaming-stream-despair-scene-1.jpg" alt="Youtube Thumbnail Youtube Gaming Stream Despair Scene" width="620">
 
@@ -3049,7 +4070,24 @@ A scene from a popular Japanese YouTuber's {argument name="content" default="gam
 
 ---
 
-### #174 Anime Martial Arts Battle Illustration
+### #233 Ai Self Perception Portrait
+
+<img src="assets/gpt-image-2-x-discussions/ai-self-perception-portrait-1.jpg" alt="Ai Self Perception Portrait" width="540">
+
+- **Author:** [heige](https://x.com/80vul)
+- **Source:** [X](https://x.com/80vul/status/2046218165961753047)
+- **Published:** April 20, 2026
+- **Languages:** zh, en
+
+**Prompt:**
+
+```text
+ChatGPT prompt：“根据你对我的认知 给我生成一个“你认识的我”的 图片 ” 看起来是gpt-image-2？
+```
+
+---
+
+### #234 Anime Martial Arts Battle Illustration
 
 <img src="assets/gpt-image-2-x-discussions/anime-martial-arts-battle-illustration-1.jpg" alt="Anime Martial Arts Battle Illustration" width="540">
 
@@ -3066,7 +4104,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 ---
 
-### #175 Ccd Caught Off Guard Homewear Portrait
+### #235 Ccd Caught Off Guard Homewear Portrait
 
 <img src="assets/gpt-image-2-x-discussions/ccd-caught-off-guard-homewear-portrait-1.jpg" alt="Ccd Caught Off Guard Homewear Portrait" width="360">
 
@@ -3083,7 +4121,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 ---
 
-### #176 Korean Idol 3X3 Grid Collage Portrait
+### #236 Korean Idol 3X3 Grid Collage Portrait
 
 <img src="assets/gpt-image-2-x-discussions/korean-idol-3x3-grid-collage-portrait-1.jpg" alt="Korean Idol 3X3 Grid Collage Portrait" width="360">
 
@@ -3100,7 +4138,24 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 ---
 
-### #177 Product Marketing Anime Character Brand Identity Merch Board
+### #237 Mecha Girl Derelict Sea City Key Visual
+
+<img src="assets/gpt-image-2-x-discussions/mecha-girl-derelict-sea-city-key-visual-1.jpg" alt="Mecha Girl Derelict Sea City Key Visual" width="620">
+
+- **Author:** [いにしえ@AI Director & Creator｜Will Oldgram](https://x.com/old_pgmrs_will)
+- **Source:** [X](https://x.com/old_pgmrs_will/status/2046144801071079612)
+- **Published:** April 20, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber eyes with glowing HUD reticles, waist-length ash-white hair tied in a high ponytail whipping in the sea wind, matte gunmetal exoskeleton armor plating her shoulders, forearms and shins, exposed hydraulic pistons at the joints, chest rig with glowing cyan coolant lines, oversized oil-stained hangar jacket half slipping off one shoulder, a massive rail cannon resting on her right shoulder, dog tags and frayed red ribbon at her collar , standing off-center to the left on the rusted edge of a tilted steel platform jutting out over dark water, weight shifted onto one leg, left hand gripping the cannon strap, head turned slightly toward camera with a quiet defiant stare, steam venting from her back thrusters, her ponytail and jacket streaming sideways in the salt wind , a vast derelict sea-city at dusk, colossal megastructures of unknown purpose rising from the ocean in staggered silhouettes, bone-white monolithic towers fused with barnacled steel, cyclopean ring-shaped constructs canted at broken angles, rusted skeletal gantries threaded with dead cables, dark swells rolling between the pylons, shipwrecks half-swallowed at their feet, thick sea fog clinging to the bases while the upper structures pierce into a bruised sky, scattered faint lights blinking high in the towers like distant eyes , moody low-key lighting, cold teal ambient from the overcast sky, warm amber sodium glow leaking from a distant structure camera-right, hard backlight from a low sun behind the towers carving her silhouette, volumetric god rays cutting through sea mist, wet specular highlights on her armor , 35mm anamorphic lens, slight low angle looking up past her shoulder toward the structures, medium-wide shot, shallow depth of field with foreground rust in soft focus, horizontal lens flares, fine atmospheric haze compressing the distant megastructures into layered silhouettes , cinematic anime key visual, painterly digital illustration with crisp line art, desaturated oceanic palette of teal, bone-white and rust punched by small warm accent lights, film grain, high-contrast editorial poster aesthetic . Format 16:9.
+```
+
+---
+
+### #238 Product Marketing Anime Character Brand Identity Merch Board
 
 <img src="assets/gpt-image-2-x-discussions/product-marketing-anime-character-brand-identity-merch-board-1.jpg" alt="Product Marketing Anime Character Brand Identity Merch Board" width="360">
 
@@ -3117,7 +4172,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 ---
 
-### #178 Soft Airy 35Mm Portrait
+### #239 Soft Airy 35Mm Portrait
 
 <img src="assets/gpt-image-2-x-discussions/soft-airy-35mm-portrait-1.jpg" alt="Soft Airy 35Mm Portrait" width="360">
 
@@ -3134,7 +4189,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 ---
 
-### #179 Soft Black Mist Korean Idol 3X3 Collage
+### #240 Soft Black Mist Korean Idol 3X3 Collage
 
 <img src="assets/gpt-image-2-x-discussions/soft-black-mist-korean-idol-3x3-collage-1.jpg" alt="Soft Black Mist Korean Idol 3X3 Collage" width="360">
 
@@ -3151,7 +4206,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 ---
 
-### #180 Youtube Thumbnail Next Gen Voxel Game Screenshot
+### #241 Youtube Thumbnail Next Gen Voxel Game Screenshot
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-next-gen-voxel-game-screenshot-1.jpg" alt="Youtube Thumbnail Next Gen Voxel Game Screenshot" width="620">
 
@@ -3168,7 +4223,7 @@ A highly detailed, realistic first-person video game screenshot of a next-genera
 
 ---
 
-### #181 Youtube Thumbnail Vtuber Chat Stream Thumbnail
+### #242 Youtube Thumbnail Vtuber Chat Stream Thumbnail
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-vtuber-chat-stream-thumbnail-1.jpg" alt="Youtube Thumbnail Vtuber Chat Stream Thumbnail" width="540">
 
@@ -3185,7 +4240,7 @@ A highly detailed, realistic first-person video game screenshot of a next-genera
 
 ---
 
-### #182 Youtube Thumbnail Vtuber Stream Thumbnail
+### #243 Youtube Thumbnail Vtuber Stream Thumbnail
 
 <img src="assets/gpt-image-2-x-discussions/youtube-thumbnail-vtuber-stream-thumbnail-1.jpg" alt="Youtube Thumbnail Vtuber Stream Thumbnail" width="620">
 
@@ -3202,7 +4257,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 ---
 
-### #183 3D Stone Staircase Evolution Infographic
+### #244 3D Stone Staircase Evolution Infographic
 
 <img src="assets/gpt-image-2-x-discussions/3d-stone-staircase-evolution-infographic-1.jpg" alt="3D Stone Staircase Evolution Infographic" width="360">
 
@@ -3219,7 +4274,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 ---
 
-### #184 E Commerce Live Stream Ui Mockup
+### #245 E Commerce Live Stream Ui Mockup
 
 <img src="assets/gpt-image-2-x-discussions/e-commerce-live-stream-ui-mockup-1.jpg" alt="E Commerce Live Stream Ui Mockup" width="440">
 
@@ -3236,7 +4291,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 ---
 
-### #185 Guangzhou City Impression Swallow Poster
+### #246 Guangzhou City Impression Swallow Poster
 
 | View 1 | View 2 |
 | --- | --- |
@@ -3255,7 +4310,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 ---
 
-### #186 Momotaro Explainer Slide In Hybrid Style
+### #247 Momotaro Explainer Slide In Hybrid Style
 
 | View 1 | View 2 |
 | --- | --- |
@@ -3274,7 +4329,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 
 ---
 
-### #187 Sam Altman Skatepark Snapshot
+### #248 Sam Altman Skatepark Snapshot
 
 <img src="assets/gpt-image-2-x-discussions/sam-altman-skatepark-snapshot-1.jpg" alt="Sam Altman Skatepark Snapshot" width="360">
 
@@ -3291,7 +4346,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 
 ---
 
-### #188 Social Media Post 4 Panel Japanese Digital Ad Banner Grid
+### #249 Social Media Post 4 Panel Japanese Digital Ad Banner Grid
 
 <img src="assets/gpt-image-2-x-discussions/social-media-post-4-panel-japanese-digital-ad-banner-grid-1.jpg" alt="Social Media Post 4 Panel Japanese Digital Ad Banner Grid" width="540">
 
@@ -3308,7 +4363,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 
 ---
 
-### #189 Surreal Koi Nebula Illustration
+### #250 Surreal Koi Nebula Illustration
 
 <img src="assets/gpt-image-2-x-discussions/surreal-koi-nebula-illustration-1.jpg" alt="Surreal Koi Nebula Illustration" width="360">
 
@@ -3325,7 +4380,24 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 
 ---
 
-### #190 Vr Headset Exploded View Poster
+### #251 Urban Turn Back Street Portrait
+
+<img src="assets/gpt-image-2-x-discussions/urban-turn-back-street-portrait-1.jpg" alt="Urban Turn Back Street Portrait" width="360">
+
+- **Author:** [Tz](https://x.com/Tz_2022)
+- **Source:** [X](https://x.com/Tz_2022/status/2045892003775361198)
+- **Published:** April 19, 2026
+- **Languages:** zh, en
+
+**Prompt:**
+
+```text
+gpt-image-2 的复杂提示词准确性测试 大家可以对比看看图像是不是极为准确地复刻了文字的所有描述且所有物体的空间位置也是准确的。。。 提示词如下： 该画面为中近景，采用平视镜头，聚焦于一位年轻女性。她以七分身镜头呈现，身体坐姿略带倾斜，臀部向后撅起，双腿自然交叠，左腿在前，右腿在后，膝盖微屈。她将上半身向右后方扭转，头部则转向镜头方向，形成一个经典的“回眸”姿态，目光直视镜头，眼神清澈而略带一丝俏皮。她的发型是蓬松的棕色齐肩短发，刘海自然垂落，发尾微卷，妆容清淡自然，仅在眼部有轻微眼线勾勒，唇色为自然裸粉。画面整体采用自然日光滤镜，光线从画面左上方斜射入，形成柔和的逆光轮廓，面部和身体右侧被温暖的金色光线照亮，左侧则形成自然的阴影过渡，增强了立体感。灯光效果是明亮的自然光，带有轻微的镜头眩光，营造出午后阳光的氛围。拍摄角度为平视，构图上，人物主体位于画面中偏右位置，背景中的斑马线与道路线条形成自然的引导线，将视线引向人物。背景为城市街道，包含道路、斑马线、绿化带和远处的车辆，背景被适度虚化，但依然可辨识出树木、护栏和停放的电动车等元素，构图上利用了三分法，人物位于右侧三分之一处，增强了画面的平衡感。主体穿着一件军绿色迷彩图案的连帽卫衣，下身搭配黑色短裤，脚穿白色高帮运动鞋配白色中筒袜。背包为黑色，带有橙黄色装饰条纹和一个橙色毛绒挂件，材质为帆布和皮革拼接。整体风格为街头休闲风，肢体语言放松自然，表情略带好奇与俏皮，整体呈现出一种随性、青春、充满活力的都市少女形象。
+```
+
+---
+
+### #252 Vr Headset Exploded View Poster
 
 <img src="assets/gpt-image-2-x-discussions/vr-headset-exploded-view-poster-1.jpg" alt="Vr Headset Exploded View Poster" width="360">
 
@@ -3342,7 +4414,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 
 ---
 
-### #191 Boston Spring 2026 City Poster
+### #253 Boston Spring 2026 City Poster
 
 <img src="assets/gpt-image-2-x-discussions/boston-spring-2026-city-poster-1.jpg" alt="Boston Spring 2026 City Poster" width="360">
 
@@ -3359,7 +4431,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #192 Chengdu Food Map Illustration
+### #254 Chengdu Food Map Illustration
 
 <img src="assets/gpt-image-2-x-discussions/chengdu-food-map-illustration-1.jpg" alt="Chengdu Food Map Illustration" width="540">
 
@@ -3376,7 +4448,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #193 Chinese Minimalist S Shaped Poster
+### #255 Chinese Minimalist S Shaped Poster
 
 <img src="assets/gpt-image-2-x-discussions/chinese-minimalist-s-shaped-poster-1.jpg" alt="Chinese Minimalist S Shaped Poster" width="360">
 
@@ -3393,7 +4465,26 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #194 Guangzhou Dream Return City Poster
+### #256 Futuristic Mandala Illustration
+
+| View 1 | View 2 |
+| --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/futuristic-mandala-illustration-1.jpg" alt="Futuristic Mandala Illustration 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/futuristic-mandala-illustration-2.jpg" alt="Futuristic Mandala Illustration 2" width="220"> |
+
+- **Author:** [Ryo Webエンジニア](https://x.com/4WEB1)
+- **Source:** [X](https://x.com/4WEB1/status/2045390207072256179)
+- **Published:** April 18, 2026
+- **Languages:** ja, en
+
+**Prompt:**
+
+```text
+先週適当に考えたプロンプトでChatGPTで画像を作成してもらって、今日また作成してもらったらGPT image 2かもしれず、出来が変わったように見えるのでメモ 左の水色と黄色のが先週 右の紫のが今日 右のは透明感とか解像度、緻密さが違うような気がする… プロンプト 曼荼羅の近未来SF版を描いて
+```
+
+---
+
+### #257 Guangzhou Dream Return City Poster
 
 | View 1 | View 2 |
 | --- | --- |
@@ -3412,7 +4503,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #195 Museum Style Hanfu Breakdown Infographic
+### #258 Museum Style Hanfu Breakdown Infographic
 
 <img src="assets/gpt-image-2-x-discussions/museum-style-hanfu-breakdown-infographic-1.jpg" alt="Museum Style Hanfu Breakdown Infographic" width="440">
 
@@ -3429,7 +4520,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #196 Qiongqi Eastern Aesthetics Poster
+### #259 Qiongqi Eastern Aesthetics Poster
 
 | View 1 | View 2 |
 | --- | --- |
@@ -3448,7 +4539,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #197 Song Dynasty Social Media Feed
+### #260 Song Dynasty Social Media Feed
 
 <img src="assets/gpt-image-2-x-discussions/song-dynasty-social-media-feed-1.jpg" alt="Song Dynasty Social Media Feed" width="240">
 
@@ -3465,7 +4556,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #198 Spring Guangzhou City Poster
+### #261 Spring Guangzhou City Poster
 
 <img src="assets/gpt-image-2-x-discussions/spring-guangzhou-city-poster-1.jpg" alt="Spring Guangzhou City Poster" width="360">
 
@@ -3482,7 +4573,24 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #199 35Mm Flash Editorial Portrait
+### #262 Spring Guangzhou City Poster
+
+<img src="assets/gpt-image-2-x-discussions/spring-guangzhou-city-poster-2045332620352119274-1.jpg" alt="Spring Guangzhou City Poster" width="360">
+
+- **Author:** [李岳](https://x.com/liyue_ai)
+- **Source:** [X](https://x.com/liyue_ai/status/2045332620352119274)
+- **Published:** April 18, 2026
+- **Languages:** zh, en
+
+**Prompt:**
+
+```text
+gpt image 2生成城市宣传海报。 提示词： 一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。 双重曝光，构图延续了S型的流动感； 在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。 在这条“河流”中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。 广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。 云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。 文字排版优美，大方，字迹清晰完整，尺寸9:16。
+```
+
+---
+
+### #263 35Mm Flash Editorial Portrait
 
 <img src="assets/gpt-image-2-x-discussions/35mm-flash-editorial-portrait-1.jpg" alt="35Mm Flash Editorial Portrait" width="360">
 
@@ -3499,7 +4607,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #200 916 Cosplayer Portrait Screenshot
+### #264 916 Cosplayer Portrait Screenshot
 
 | View 1 | View 2 |
 | --- | --- |
@@ -3518,7 +4626,24 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #201 Convenience Store Neon Portrait
+### #265 Cinematic Minimal Portrait
+
+<img src="assets/gpt-image-2-x-discussions/cinematic-minimal-portrait-1.jpg" alt="Cinematic Minimal Portrait" width="360">
+
+- **Author:** [Balogun Ibrahim](https://x.com/iam_miharbi)
+- **Source:** [X](https://x.com/iam_miharbi/status/2045151354679665101)
+- **Published:** April 17, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+1. Open Chat GPT 2. Upload your image 3. Paste Prompt Generate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition, minimal
+```
+
+---
+
+### #266 Convenience Store Neon Portrait
 
 <img src="assets/gpt-image-2-x-discussions/convenience-store-neon-portrait-1.jpg" alt="Convenience Store Neon Portrait" width="360">
 
@@ -3535,7 +4660,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #202 Creative Calligraphy Zong You Ji Feng Qi
+### #267 Creative Calligraphy Zong You Ji Feng Qi
 
 | View 1 | View 2 |
 | --- | --- |
@@ -3554,7 +4679,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #203 Doodle Sketch Ai Builder
+### #268 Doodle Sketch Ai Builder
 
 <img src="assets/gpt-image-2-x-discussions/doodle-sketch-ai-builder-1.jpg" alt="Doodle Sketch Ai Builder" width="620">
 
@@ -3571,7 +4696,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ---
 
-### #204 Douyin Tiktok Convenience Store Portrait
+### #269 Douyin Tiktok Convenience Store Portrait
 
 <img src="assets/gpt-image-2-x-discussions/douyin-tiktok-convenience-store-portrait-1.jpg" alt="Douyin Tiktok Convenience Store Portrait" width="620">
 
@@ -3588,7 +4713,7 @@ A 22-year-old East Asian girl, round youthful face, large bright doe eyes with n
 
 ---
 
-### #205 Japanese Onsen Ryokan Portrait
+### #270 Japanese Onsen Ryokan Portrait
 
 <img src="assets/gpt-image-2-x-discussions/japanese-onsen-ryokan-portrait-1.jpg" alt="Japanese Onsen Ryokan Portrait" width="360">
 
@@ -3605,7 +4730,7 @@ A 22-year-old East Asian girl, round youthful face, large bright doe eyes with n
 
 ---
 
-### #206 Mirror Selfie Bedroom Portrait
+### #271 Mirror Selfie Bedroom Portrait
 
 <img src="assets/gpt-image-2-x-discussions/mirror-selfie-bedroom-portrait-1.jpg" alt="Mirror Selfie Bedroom Portrait" width="440">
 
@@ -3622,7 +4747,7 @@ A stunning 18-year-old Chinese girl with a youthful, pure face and realistic ski
 
 ---
 
-### #207 Modern Saas Homepage Design Boards
+### #272 Modern Saas Homepage Design Boards
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -3641,7 +4766,7 @@ modern SaaS website homepage, figma style, clean navigation bar, hero section wi
 
 ---
 
-### #208 Mona Lisa Drinking Cola Oil Painting
+### #273 Mona Lisa Drinking Cola Oil Painting
 
 <img src="assets/gpt-image-2-x-discussions/mona-lisa-drinking-cola-oil-painting-1.jpg" alt="Mona Lisa Drinking Cola Oil Painting" width="440">
 
@@ -3658,7 +4783,7 @@ modern SaaS website homepage, figma style, clean navigation bar, hero section wi
 
 ---
 
-### #209 Product Marketing Dark Mode Marketing Case Study Ui
+### #274 Product Marketing Dark Mode Marketing Case Study Ui
 
 <img src="assets/gpt-image-2-x-discussions/product-marketing-dark-mode-marketing-case-study-ui-1.jpg" alt="Product Marketing Dark Mode Marketing Case Study Ui" width="360">
 
@@ -3675,7 +4800,24 @@ modern SaaS website homepage, figma style, clean navigation bar, hero section wi
 
 ---
 
-### #210 Uesugi Kenshin Japanese X Profile Page
+### #275 Super Famicom Retro Poster
+
+<img src="assets/gpt-image-2-x-discussions/super-famicom-retro-poster-1.jpg" alt="Super Famicom Retro Poster" width="620">
+
+- **Author:** [リリムリリィちゃん](https://x.com/lilimliliychan)
+- **Source:** [X](https://x.com/lilimliliychan/status/2045114760937804187)
+- **Published:** April 17, 2026
+- **Languages:** ja, en
+
+**Prompt:**
+
+```text
+ほうほう ワイもうわさの duct-tape-3 こと GPTimage2 とやらを使ってみたぞよ すっげーな！ まずプロンプトが「小悪魔リリムリリィちゃんが スーパーファミコンのゲームだったときのポスターを考えて」に 画像数枚だけで このクオリティ 細かい説明呪文なし すごいぜ！
+```
+
+---
+
+### #276 Uesugi Kenshin Japanese X Profile Page
 
 <img src="assets/gpt-image-2-x-discussions/uesugi-kenshin-japanese-x-profile-page-1.jpg" alt="Uesugi Kenshin Japanese X Profile Page" width="540">
 
@@ -3692,7 +4834,7 @@ modern SaaS website homepage, figma style, clean navigation bar, hero section wi
 
 ---
 
-### #211 Analog 35Mm Police Fashion Portrait
+### #277 Analog 35Mm Police Fashion Portrait
 
 <img src="assets/gpt-image-2-x-discussions/analog-35mm-police-fashion-portrait-1.jpg" alt="Analog 35Mm Police Fashion Portrait" width="440">
 
@@ -3709,7 +4851,7 @@ Analog 35mm film photography, high-fashion editorial portrait with intense on-ca
 
 ---
 
-### #212 Capless Perfume Bottle
+### #278 Capless Perfume Bottle
 
 <img src="assets/gpt-image-2-x-discussions/capless-perfume-bottle-1.jpg" alt="Capless Perfume Bottle" width="540">
 
@@ -3726,7 +4868,7 @@ PHASE 1 — FORM: A solid [MATERIAL] glass teardrop, no cap, no nozzle, no visib
 
 ---
 
-### #213 Crownless Watch Sealed Case
+### #279 Crownless Watch Sealed Case
 
 <img src="assets/gpt-image-2-x-discussions/crownless-watch-sealed-case-1.jpg" alt="Crownless Watch Sealed Case" width="540">
 
@@ -3743,7 +4885,7 @@ PHASE 1 — FORM: A [WATCH STYLE] with a perfectly smooth sealed case — no cro
 
 ---
 
-### #214 Eclipse Android Spaceship Character Sheet
+### #280 Eclipse Android Spaceship Character Sheet
 
 <img src="assets/gpt-image-2-x-discussions/eclipse-android-spaceship-character-sheet-1.jpg" alt="Eclipse Android Spaceship Character Sheet" width="440">
 
@@ -3760,7 +4902,7 @@ PHASE 1 — FORM: A [WATCH STYLE] with a perfectly smooth sealed case — no cro
 
 ---
 
-### #215 Gorilla Knowledge Worker Movie Poster
+### #281 Gorilla Knowledge Worker Movie Poster
 
 <img src="assets/gpt-image-2-x-discussions/gorilla-knowledge-worker-movie-poster-1.jpg" alt="Gorilla Knowledge Worker Movie Poster" width="440">
 
@@ -3777,7 +4919,7 @@ PHASE 1 — FORM: A [WATCH STYLE] with a perfectly smooth sealed case — no cro
 
 ---
 
-### #216 King Taejo Yi Seong Gye X Page
+### #282 King Taejo Yi Seong Gye X Page
 
 <img src="assets/gpt-image-2-x-discussions/king-taejo-yi-seong-gye-x-page-1.jpg" alt="King Taejo Yi Seong Gye X Page" width="360">
 
@@ -3794,7 +4936,26 @@ PHASE 1 — FORM: A [WATCH STYLE] with a perfectly smooth sealed case — no cro
 
 ---
 
-### #217 Oda Nobunaga X Post Page
+### #283 Luxury Glam Beauty Portrait
+
+| View 1 | View 2 |
+| --- | --- |
+| <img src="assets/gpt-image-2-x-discussions/luxury-glam-beauty-portrait-1.jpg" alt="Luxury Glam Beauty Portrait 1" width="220"> | <img src="assets/gpt-image-2-x-discussions/luxury-glam-beauty-portrait-2.jpg" alt="Luxury Glam Beauty Portrait 2" width="220"> |
+
+- **Author:** [Patrick](https://x.com/patrickassale)
+- **Source:** [X](https://x.com/patrickassale/status/2044581766309060765)
+- **Published:** April 16, 2026
+- **Languages:** en
+
+**Prompt:**
+
+```text
+Midjourney 8.1 vs GPT Image 2 Hard to say which image is objectively better here, but personally, the one from GPT Image 2 speaks to me more. It just feels more natural. Prompt in comments
+```
+
+---
+
+### #284 Oda Nobunaga X Post Page
 
 <img src="assets/gpt-image-2-x-discussions/oda-nobunaga-x-post-page-1.jpg" alt="Oda Nobunaga X Post Page" width="540">
 
@@ -3811,7 +4972,7 @@ PHASE 1 — FORM: A [WATCH STYLE] with a perfectly smooth sealed case — no cro
 
 ---
 
-### #218 Open Notebook Black Ballpoint Notes
+### #285 Open Notebook Black Ballpoint Notes
 
 <img src="assets/gpt-image-2-x-discussions/open-notebook-black-ballpoint-notes-1.jpg" alt="Open Notebook Black Ballpoint Notes" width="540">
 
@@ -3828,7 +4989,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 ---
 
-### #219 Product Marketing 18 Panel Mascot Brand Identity Document
+### #286 Product Marketing 18 Panel Mascot Brand Identity Document
 
 <img src="assets/gpt-image-2-x-discussions/product-marketing-18-panel-mascot-brand-identity-document-1.jpg" alt="Product Marketing 18 Panel Mascot Brand Identity Document" width="360">
 
@@ -3845,7 +5006,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 ---
 
-### #220 Ryoma Future Of Japan X Post Page
+### #287 Ryoma Future Of Japan X Post Page
 
 <img src="assets/gpt-image-2-x-discussions/ryoma-future-of-japan-x-post-page-1.jpg" alt="Ryoma Future Of Japan X Post Page" width="360">
 
@@ -3862,7 +5023,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 ---
 
-### #221 Seamless Jacket Flatlay
+### #288 Seamless Jacket Flatlay
 
 <img src="assets/gpt-image-2-x-discussions/seamless-jacket-flatlay-1.jpg" alt="Seamless Jacket Flatlay" width="540">
 
@@ -3879,7 +5040,7 @@ PHASE 1 — FORM: A [GARMENT TYPE] with no visible zip, buttons, or fastening of
 
 ---
 
-### #222 Seamless Wallet Single Piece
+### #289 Seamless Wallet Single Piece
 
 <img src="assets/gpt-image-2-x-discussions/seamless-wallet-single-piece-1.jpg" alt="Seamless Wallet Single Piece" width="540">
 
@@ -3896,7 +5057,7 @@ PHASE 1 — FORM: A [MATERIAL] wallet — no visible stitching, clasp, or openin
 
 ---
 
-### #223 Tim Cook Apple Park Keynote
+### #290 Tim Cook Apple Park Keynote
 
 <img src="assets/gpt-image-2-x-discussions/tim-cook-apple-park-keynote-1.jpg" alt="Tim Cook Apple Park Keynote" width="540">
 
@@ -3913,7 +5074,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 ---
 
-### #224 White Studio Tennis Editorial Portrait
+### #291 White Studio Tennis Editorial Portrait
 
 <img src="assets/gpt-image-2-x-discussions/white-studio-tennis-editorial-portrait-1.jpg" alt="White Studio Tennis Editorial Portrait" width="360">
 
@@ -3930,7 +5091,7 @@ Professional studio fashion photography, ultra-clean high-end digital editorial 
 
 ---
 
-### #225 Amalfi Coast Vintage Travel Poster
+### #292 Amalfi Coast Vintage Travel Poster
 
 <img src="assets/gpt-image-2-x-discussions/amalfi-coast-vintage-travel-poster-1.jpg" alt="Amalfi Coast Vintage Travel Poster" width="360">
 
@@ -3947,7 +5108,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 ---
 
-### #226 Anime Rival Girls
+### #293 Anime Rival Girls
 
 <img src="assets/gpt-image-2-x-discussions/anime-rival-girls-1.jpg" alt="Anime Rival Girls" width="620">
 
@@ -3964,7 +5125,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 ---
 
-### #227 Lego Poster Every Us President By Year
+### #294 Lego Poster Every Us President By Year
 
 <img src="assets/gpt-image-2-x-discussions/lego-poster-every-us-president-by-year-1.jpg" alt="Lego Poster Every Us President By Year" width="360">
 
@@ -3981,7 +5142,7 @@ Lego poster showing every president of the USA by year.
 
 ---
 
-### #228 Refracted Sans Crystal Typeface
+### #295 Refracted Sans Crystal Typeface
 
 <img src="assets/gpt-image-2-x-discussions/refracted-sans-crystal-typeface-1.jpg" alt="Refracted Sans Crystal Typeface" width="540">
 
@@ -3998,7 +5159,7 @@ PHASE 1 — LETTERFORM: Render [LETTER] as a faceted crystal prism, [THICKNESS]m
 
 ---
 
-### #229 Scrambled Rubiks Cube Mirror Reflection
+### #296 Scrambled Rubiks Cube Mirror Reflection
 
 <img src="assets/gpt-image-2-x-discussions/scrambled-rubiks-cube-mirror-reflection-1.jpg" alt="Scrambled Rubiks Cube Mirror Reflection" width="540">
 
@@ -4015,7 +5176,7 @@ A validly scrambled Rubik's cube placed by a mirror, clearly showing its mirror 
 
 ---
 
-### #230 Snapshot From Actual Anime
+### #297 Snapshot From Actual Anime
 
 <img src="assets/gpt-image-2-x-discussions/snapshot-from-actual-anime-1.jpg" alt="Snapshot From Actual Anime" width="540">
 
@@ -4032,7 +5193,7 @@ Show me the attached image as a snapshot from an actual anime
 
 ---
 
-### #231 Average Engineers Screen
+### #298 Average Engineers Screen
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -4051,7 +5212,7 @@ average engineer's screen
 
 ---
 
-### #232 Pov Biker Stanford Campus
+### #299 Pov Biker Stanford Campus
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -4070,7 +5231,7 @@ POV from a biker riding around the Stanford campus
 
 ---
 
-### #233 A16Z Podcast Youtube Screengrab
+### #300 A16Z Podcast Youtube Screengrab
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -4089,7 +5250,7 @@ screen grab of a16z podcast on YouTube
 
 ---
 
-### #234 Handwritten Medical Notes Notebook
+### #301 Handwritten Medical Notes Notebook
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -4108,7 +5269,7 @@ A top-down, photorealistic close-up shot of a single page in a spiral-bound note
 
 ---
 
-### #235 Handwritten Notebook Notes
+### #302 Handwritten Notebook Notes
 
 | View 1 | View 2 |
 | --- | --- |
@@ -4127,7 +5288,7 @@ A realistic photo of an open dotted notebook lying flat, filled with dense handw
 
 ---
 
-### #236 Ikea Storefront At Twilight
+### #303 Ikea Storefront At Twilight
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -4146,7 +5307,7 @@ A high-resolution, photorealistic photograph taken at twilight (blue hour) of an
 
 ---
 
-### #237 Yahoo Homepage Screenshot
+### #304 Yahoo Homepage Screenshot
 
 <img src="assets/gpt-image-2-x-discussions/yahoo-homepage-screenshot-1.jpg" alt="Yahoo Homepage Screenshot" width="620">
 
@@ -4163,7 +5324,7 @@ Screenshot of the Yahoo homepage.
 
 ---
 
-### #238 Gta 6 Ingame Footage Monitor Shot
+### #305 Gta 6 Ingame Footage Monitor Shot
 
 | View 1 | View 2 |
 | --- | --- |
@@ -4182,7 +5343,7 @@ GTA 6 in-game footage, very detailed, very realistic. Close-up shot taken from a
 
 ---
 
-### #239 Raw Iphone Subway Hugging Couple
+### #306 Raw Iphone Subway Hugging Couple
 
 | View 1 | View 2 |
 | --- | --- |
@@ -4201,7 +5362,7 @@ Create a completely RAW quality, unprocessed, unedited image with full iPhone ca
 
 ---
 
-### #240 Ea Fc 26 Icon Neymar Pack
+### #307 Ea Fc 26 Icon Neymar Pack
 
 | View 1 | View 2 |
 | --- | --- |
@@ -4220,7 +5381,7 @@ EA FC 26 Icon Neymar pack. NO ps plus. Rating: 96. LW. NEYMAR JR. PAC 94 SHO 91 
 
 ---
 
-### #241 Jesus In Modern World
+### #308 Jesus In Modern World
 
 | View 1 | View 2 | View 3 |
 | --- | --- | --- |
@@ -4239,7 +5400,7 @@ Jesus in modern world
 
 ---
 
-### #242 Ccd Finger Gun Korean Idol Portrait
+### #309 Ccd Finger Gun Korean Idol Portrait
 
 <img src="assets/gpt-image-2-x-discussions/ccd-finger-gun-korean-idol-portrait-1.jpg" alt="Ccd Finger Gun Korean Idol Portrait" width="360">
 
@@ -4256,7 +5417,7 @@ CCD compact camera direct on-camera flash, full-body portrait, eye-level straigh
 
 ---
 
-### #243 F1 Ferrari Progression Infographic
+### #310 F1 Ferrari Progression Infographic
 
 <img src="assets/gpt-image-2-x-discussions/f1-ferrari-progression-infographic-1.jpg" alt="F1 Ferrari Progression Infographic" width="620">
 
@@ -4273,7 +5434,7 @@ Infographic which shows the progression of F1 Ferrari cars from old to latest ne
 
 ---
 
-### #244 Zelda Totk Link E531 Train
+### #311 Zelda Totk Link E531 Train
 
 <img src="assets/gpt-image-2-x-discussions/zelda-totk-link-e531-train-1.jpg" alt="Zelda Totk Link E531 Train" width="620">
 
@@ -4290,7 +5451,7 @@ In the game Zelda totk link is in a e531 series train made by him
 
 ---
 
-### #245 Gothic Twin Tail Lisa Comic Page
+### #312 Gothic Twin Tail Lisa Comic Page
 
 <img src="assets/gpt-image-2-x-discussions/gothic-twin-tail-lisa-comic-page-1.jpg" alt="Gothic Twin Tail Lisa Comic Page" width="360">
 
@@ -4307,7 +5468,7 @@ In the game Zelda totk link is in a e531 series train made by him
 
 ---
 
-### #246 Young Woman Taking Selfie With Sam Altman
+### #313 Young Woman Taking Selfie With Sam Altman
 
 <img src="assets/gpt-image-2-x-arena-likely/young-woman-taking-selfie-with-sam-altman-1.jpg" alt="Young Woman Taking Selfie With Sam Altman" width="440">
 
@@ -4324,7 +5485,7 @@ young woman taking selfie with Sam Altman
 
 ---
 
-### #247 Fully Labeled Human Cell
+### #314 Fully Labeled Human Cell
 
 | View 1 | View 2 |
 | --- | --- |
@@ -4343,7 +5504,7 @@ Create a fully labeled diagram of a human cell with at least 10 labeled elements
 
 ---
 
-### #248 Front Page Of A Newspaper
+### #315 Front Page Of A Newspaper
 
 <img src="assets/gpt-image-2-x-discussions/front-page-of-a-newspaper-1.jpg" alt="Front Page Of A Newspaper" width="360">
 
